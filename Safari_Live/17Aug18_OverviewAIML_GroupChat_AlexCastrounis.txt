@@ -1,0 +1,102 @@
+Patrick K 8/17/2018 6:16 PM
+Hello everyone, welcome to our online course "Artificial Intelligence: An Overview of AI and Machine Learning" with Alex Castrounis. The session will start in about 15 minutes. We hope you enjoy!
+Patrick K 8/17/2018 6:16 PM
+Welcome to our class. I would like to remind you all about the O'Reilly code of conduct for our online and in-person events - http://www.oreilly.com/conferences/code-of-conduct.html
+Patrick K 8/17/2018 6:16 PM
+Where is everyone joining us from today?
+Neel S 8/17/2018 6:21 PM
+Hello, Neel here from Pune, India
+Christopher T 8/17/2018 6:23 PM
+Hello from Indianapolis
+Alex C 8/17/2018 6:27 PM
+Hi everyone, welcome to the course!
+Patrick K 8/17/2018 6:27 PM
+We'll be getting started in about 3 minutes.
+Desmond S 8/17/2018 6:30 PM
+Desmond from NJ
+Irene C 8/17/2018 6:30 PM
+Good morning from Central Florida!
+Taylor P 8/17/2018 6:31 PM
+Hi
+Nagaraju K 8/17/2018 6:32 PM
+Good Morning
+Kahkashan K 8/17/2018 6:32 PM
+Hello from India
+Patrick K 8/17/2018 6:33 PM
+You should all be hearing Alex now.
+Taylor P 8/17/2018 6:33 PM
+Does anyone else also hear classical music playing in the background? Hard to hear Alex.
+Paul Y 8/17/2018 6:33 PM
+Alex is loud and clear
+ADRIANO M 8/17/2018 6:33 PM
+no music here, can hear him loud and clear
+Taylor P 8/17/2018 6:34 PM
+Hmm, will rejoin, thanks.
+ANMOL J 8/17/2018 6:34 PM
+Anmol from india
+Nagaraju K 8/17/2018 6:35 PM
+is there anything shared on the screen? I do not see anything and where do i see this survey?
+Desmond S 8/17/2018 6:35 PM
+click slides
+Taylor P 8/17/2018 6:36 PM
+open/close sections by clicking bottom/middle icons.
+Nagaraju K 8/17/2018 6:36 PM
+thanks
+ANMOL J 8/17/2018 6:43 PM
+Can you explain difference in cognition and ml ?
+SHASHIKALA N 8/17/2018 6:46 PM
+is it more of data analysis ?
+Sreenivasulu S 8/17/2018 6:49 PM
+Q: here beta0, beta1 are scalars or vectors, because Yi, Xi are vectors?
+ANMOL J 8/17/2018 6:50 PM
+Alex can you repeat once again about the parameters
+Claudette M 8/17/2018 6:50 PM
+Is Parametric a supervised model?
+SHASHIKALA N 8/17/2018 6:54 PM
+can u give an example of unlabelled data ?
+Madhavi D 8/17/2018 6:55 PM
+can we say review on Movies as unlabeled data?
+Khoa N 8/17/2018 6:56 PM
+Is Clustering similar to Classification? What are differences between them?
+Kahkashan K 8/17/2018 6:57 PM
+Q. Could you please share an example of semi-supervised?
+ADRIANA L 8/17/2018 6:57 PM
+what is the best approach to create Machine Learning for Telecom where data is coming from machines like networking, circuits, voice, etc
+Jayanth P 8/17/2018 6:57 PM
+Can we use labelled data for clustering ?
+Sivasai Reddy M 8/17/2018 6:57 PM
+How unlabeled data is used to detect a fraud?
+Jayanth P 8/17/2018 6:57 PM
+or does it have to be unlabe lled data?
+Debadyuti S 8/17/2018 7:03 PM
+how the weighs are decided?
+SHASHIKALA N 8/17/2018 7:05 PM
+what does T stand in the equation ?
+Clemens D 8/17/2018 7:07 PM
+T means transposed
+Clemens D 8/17/2018 7:08 PM
+the x matrix needs to be transposed before it can be multiplied with w matrix
+Sreenivasulu S 8/17/2018 7:10 PM
+Q: I think, General AI is mimicking the audio, visual and touch senses.. but not anywhere close to the other two senses like taste and smell... Confirm whether my understanding is correct...
+Patrick K 8/17/2018 7:15 PM
+Please take a minute to fill out today's survey:https://www.safaribooksonline.com/live-training/courses/artificial-intelligence-an-overview-of-ai-and-machine-learning/0636920195214/survey
+Not Available N 8/17/2018 7:28 PM
+Can you repeat the other courses you say you'll be doing here in safari?
+prasad d 8/17/2018 7:28 PM
+can you throw some examples on feature engg
+Not Available N 8/17/2018 7:28 PM
+Or send us links ?
+Guy P 8/17/2018 7:28 PM
+could not find the other 2 courses recommender
+Xuewen Z 8/17/2018 7:29 PM
+I think the plot for "just right" fit should be x^1/2, not x^2, :)
+Patrick K 8/17/2018 7:29 PM
+https://bit.ly/2MUUE6k
+Patrick K 8/17/2018 7:29 PM
+Alex's Live Training on Safari above
+Kahkashan K 8/17/2018 7:29 PM
+Can you please give a real world example of overfitting other than spam?
+prasad d 8/17/2018 7:30 PM
+thanks
+Brennan H 8/17/2018 7:30 PM
+is there a general trend away from explicit programming e.g. Prolog usage?

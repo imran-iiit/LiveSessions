@@ -1,0 +1,423 @@
+[
+    {
+        "restaurant":"McDonalds",
+        "menuAdjustments":[
+            { "foodName":"Big Mac",
+              "adjustments": [
+                { "change":"No Cheese", "calorieAdj":-50, "highlight":true },
+		{ "change":"No Sauce", "calorieAdj":-90, "highlight":true },
+		{ "change":"No Cheese or Sauce", "calorieAdj":-140, "highlight":false },
+		{ "change":"No Onion", "calorieAdj":-10, "highlight":false },
+                { "change":"No Onions", "calorieAdj":-10, "highlight":false }
+              ]
+            },
+            { "foodName":"Quarter Pounder",
+              "adjustments": [
+                { "change":"No Cheese", "calorieAdj":-100, "highlight":true }, 
+                { "change":"Half Bun", "calorieAdj":-85, "highlight":true }
+              ]
+            },
+	    { "foodName":"Filet-o-Fish Sandwich",
+              "adjustments": [
+                { "change":"No Cheese", "calorieAdj":-50, "highlight":true },
+                { "change":"No Sauce", "calorieAdj":-90, "highlight":true },
+		{ "change":"No Cheese or Sauce", "calorieAdj":-140, "highlight":true }
+              ]
+            },
+            { "foodName":"McChicken Sandwich",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-40, "highlight":true }
+              ]
+            }
+	]
+    },
+    {
+	"restaurant":"Cookout",
+	"menuAdjustments":[
+	    { "foodName":"Small Hamburger",
+	      "adjustments": [
+		{ "change":"Everything", "calorieAdj":91, "highlight":true },
+		{ "change":"Cookout Style", "calorieAdj":123, "highlight":true },
+		{ "change":"Out West Style", "calorieAdj":202, "highlight":false },
+		{ "change":"Steak Style", "calorieAdj":91, "highlight":false },
+		{ "change":"Cheddar Style", "calorieAdj":233, "highlight":true }
+	      ]
+	    },
+            { "foodName":"Regular Hamburger",
+              "adjustments": [
+                { "change":"Everything", "calorieAdj":91, "highlight":true },
+                { "change":"Cookout Style", "calorieAdj":123, "highlight":true },
+                { "change":"Out West Style", "calorieAdj":202, "highlight":false },
+                { "change":"Steak Style", "calorieAdj":91, "highlight":false },
+                { "change":"Cheddar Style", "calorieAdj":233, "highlight":true }
+              ]
+            },
+            { "foodName":"Hamburger",
+              "adjustments": [
+                { "change":"Everything", "calorieAdj":91, "highlight":true },
+                { "change":"Cookout Style", "calorieAdj":123, "highlight":true },
+                { "change":"Out West Style", "calorieAdj":202, "highlight":false },
+                { "change":"Steak Style", "calorieAdj":91, "highlight":false },
+                { "change":"Cheddar Style", "calorieAdj":233, "highlight":true }
+              ]
+            },
+            { "foodName":"Huge Hamburger",
+              "adjustments": [
+                { "change":"Everything", "calorieAdj":91, "highlight":true },
+                { "change":"Cookout Style", "calorieAdj":123, "highlight":true },
+                { "change":"Out West Style", "calorieAdj":202, "highlight":false },
+                { "change":"Steak Style", "calorieAdj":91, "highlight":false },
+                { "change":"Cheddar Style", "calorieAdj":233, "highlight":true }
+              ]
+            },
+            { "foodName":"Big Double",
+              "adjustments": [
+                { "change":"Everything", "calorieAdj":91, "highlight":true },
+                { "change":"Cookout Style", "calorieAdj":123, "highlight":true },
+                { "change":"Out West Style", "calorieAdj":202, "highlight":false },
+                { "change":"Steak Style", "calorieAdj":91, "highlight":false },
+                { "change":"Cheddar Style", "calorieAdj":233, "highlight":true }
+              ]
+            }
+	]
+    },
+    {
+	"restaurant":"Subway",
+	"menuAdjustments":[
+	    { "foodName":"6 inch Black Forest Ham",
+	      "adjustments": [
+		{ "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+		{ "change":"Cheese", "calorieAdj":50, "highlight":true },
+		{ "change":"Ranch", "calorieAdj":110, "highlight":true }
+	      ]
+	    },
+            { "foodName":"6 inch Oven Roasted Chicken",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Oven Roast Beef",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Rotisserie Chicken",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Subway Club",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Sweet Onion Chicken Teriyaki",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Turkey Breast",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Veggie Delite",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Cold Cut Combo",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Meatball Marinara",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Tuna",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+            { "foodName":"6 inch Italian BMT",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":110, "highlight":true },
+                { "change":"Cheese", "calorieAdj":50, "highlight":true },
+                { "change":"Ranch", "calorieAdj":110, "highlight":true }
+              ]
+            },
+	    { "foodName":"Footlong Black Forest Ham",
+	      "adjustments": [
+		{ "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+		{ "change":"Cheese", "calorieAdj":100, "highlight":true },
+		{ "change":"Ranch", "calorieAdj":220, "highlight":true }
+	      ]
+	    },
+            { "foodName":"Footlong Oven Roasted Chicken",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Oven Roast Beef",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Rotisserie Chicken",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Subway Club",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Sweet Onion Chicken Teriyaki",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Turkey Breast",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Veggie Delite",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Cold Cut Combo",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Meatball Marinara",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Tuna",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            },
+            { "foodName":"Footlong Italian BMT",
+              "adjustments": [
+                { "change":"Mayonnaise", "calorieAdj":220, "highlight":true },
+                { "change":"Cheese", "calorieAdj":100, "highlight":true },
+                { "change":"Ranch", "calorieAdj":220, "highlight":true }
+              ]
+            }
+        ]
+    },
+    {
+	"restaurant":"Arbys",
+	"menuAdjustments":[
+	    { "foodName":"Fish Sandwich", 
+	      "adjustments": [
+		{ "change":"No Tartar Sauce", "calorieAdj":-120, "highlight":true }
+	      ]
+	    },
+            { "foodName":"Crispy Fish Sandwich", 
+              "adjustments": [
+                { "change":"No Tartar Sauce", "calorieAdj":-120, "highlight":true } 
+              ]
+            }
+	]
+    },
+    {
+        "restaurant":"Burger King",
+        "menuAdjustments":[
+            { "foodName":"Whopper",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-160, "highlight":true },
+                { "change":"Half Bun", "calorieAdj":-115, "highlight":true }
+              ]
+            },
+            { "foodName":"Whopper with Cheese",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-160, "highlight":true },
+                { "change":"Half Bun", "calorieAdj":-115, "highlight":true }
+              ]
+            },
+            { "foodName":"Double Whopper",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-160, "highlight":true },
+                { "change":"Half Bun", "calorieAdj":-115, "highlight":true }            
+              ]
+            },
+            { "foodName":"Whopper Jr",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-70, "highlight":true },
+                { "change":"Half Bun", "calorieAdj":-60, "highlight":true }            
+              ]
+            },
+            { "foodName":"Grilled Chicken Sandwich",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-100, "highlight":true }
+              ]
+            },
+            { "foodName":"Crispy Chicken Sandwich",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-210, "highlight":true } 
+              ]
+            },
+            { "foodName":"Original Chicken Sandwich",
+              "adjustments": [
+                { "change":"No Mayo", "calorieAdj":-210, "highlight":true } 
+              ]
+            }
+        ]
+    },
+    {
+        "restaurant":"Chipotle",
+        "menuAdjustments":[
+            { "foodName":"Burrito",
+              "adjustments": [
+                { "change":"No Rice", "calorieAdj":-210, "highlight":true },
+                { "change":"Add Guacomole", "calorieAdj":230, "highlight":true },
+                { "change":"No Cheese", "calorieAdj":-110, "highlight":true },
+		{ "change":"No Beans", "calorieAdj":-130, "highlight":false },
+		{ "change":"No Rice or Cheese", "calorieAdj":-320, "highlight":false },
+		{ "change":"Add Sour Cream", "calorieAdj":110, "highlight":false }
+              ]
+            },
+            { "foodName":"Burrito Bowl",
+              "adjustments": [
+                { "change":"No Rice", "calorieAdj":-210, "highlight":true },
+                { "change":"Add Guacomole", "calorieAdj":230, "highlight":true },
+                { "change":"No Cheese", "calorieAdj":-110, "highlight":true },
+                { "change":"No Beans", "calorieAdj":-130, "highlight":false },
+                { "change":"No Rice or Cheese", "calorieAdj":-320, "highlight":false },
+                { "change":"Add Sour Cream", "calorieAdj":110, "highlight":false }
+              ]
+            }
+        ]
+    },
+    {
+        "restaurant":"Taco Bell",
+        "menuAdjustments":[
+            { "foodName":"Nachos",
+              "adjustments": [
+                { "change":"Add Guacomole", "calorieAdj":35, "highlight":true }
+              ]
+            },
+            { "foodName":"Tacos",
+              "adjustments": [
+                { "change":"Add Guacomole", "calorieAdj":35, "highlight":true }
+              ]
+            },
+            { "foodName":"Soft Taco",
+              "adjustments": [
+                { "change":"Add Guacomole", "calorieAdj":35, "highlight":true }
+              ]
+            },
+            { "foodName":"Quesadilla",
+              "adjustments": [
+                { "change":"Add Guacomole", "calorieAdj":35, "highlight":true },
+	        { "change":"Extra Cheese", "calorieAdj":220, "highlight":true }
+              ]
+            }
+	]
+    },
+    {
+        "restaurant":"In-N-Out",
+        "menuAdjustments":[
+            { "foodName":"Hamburger",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Protein Style", "calorieAdj":-150, "highlight":true },
+		{ "change":"Animal Style", "calorieAdj":100, "highlight":true },
+                { "change":"Lettuce Bun", "calorieAdj":-150, "highlight":false }
+              ]
+            },
+            { "foodName":"Cheeseburger",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Protein Style", "calorieAdj":-150, "highlight":true },
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true },
+                { "change":"Lettuce Bun", "calorieAdj":-150, "highlight":false }
+              ]
+            },
+            { "foodName":"Double Double",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Protein Style", "calorieAdj":-150, "highlight":true },
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true },
+                { "change":"Lettuce Bun", "calorieAdj":-150, "highlight":false }
+              ]
+            },
+            { "foodName":"Three by Three",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Protein Style", "calorieAdj":-150, "highlight":true },
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true },
+                { "change":"Lettuce Bun", "calorieAdj":-150, "highlight":false }
+              ]
+            },
+            { "foodName":"Four by Four",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Protein Style", "calorieAdj":-150, "highlight":true },
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true },
+                { "change":"Lettuce Bun", "calorieAdj":-150, "highlight":false }
+              ]
+            },
+            { "foodName":"Grilled Cheese",
+              "adjustments": [
+                { "change":"No Spread", "calorieAdj":-80, "highlight":true },
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true }
+              ]
+            },
+            { "foodName":"French Fries",
+              "adjustments": [
+                { "change":"Animal Style", "calorieAdj":100, "highlight":true }
+              ]
+            }	      
+        ]
+    }
+]

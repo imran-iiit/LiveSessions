@@ -1,0 +1,14 @@
+https://resources.oreilly.com/live-training/deep-learning/
+
+https://0636920183198.oreilly-jupyterhub.com/hub/home
+
+https://gym.openai.com/envs/CartPole-v1/
+
+John Krohn's Repo --> https://github.com/the-deep-learners
+
+github.com/kengz/slm-lab. ---> SLM Lab Library ---> to find the best params
+GitHub.com/nervanasystems/coach --> Open library for DRL
+
+
+Class DQNAgent:
+	self.epsilon --> 1.0 -> Explore 100% v/s exploit = 0%

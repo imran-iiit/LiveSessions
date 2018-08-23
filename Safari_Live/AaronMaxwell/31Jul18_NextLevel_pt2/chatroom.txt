@@ -1,0 +1,902 @@
+
+Media Player
+ LIVE 
+Group Chat
+Timestamp 
+User 1 7/31/2018 9:17 PM
+hi
+
+Lindsay V 7/31/2018 9:19 PM
+Hello welcome back for Day 2 of Python - The Next Level!
+
+Attila F 7/31/2018 9:20 PM
+After 6+ courses the music gets boring :)
+
+Lindsay V 7/31/2018 9:20 PM
+I'm sorry about the music!
+
+User 1 7/31/2018 9:20 PM
+ha ha ha
+
+User 1 7/31/2018 9:21 PM
+how can I connect
+
+Attila F 7/31/2018 9:21 PM
+Reload?
+
+Attila F 7/31/2018 9:21 PM
+I sometimes have to restart the browser.
+
+User 1 7/31/2018 9:21 PM
+do I need to dail any number
+
+Lindsay V 7/31/2018 9:22 PM
+No the audio stream through the platform via VoIP
+
+User 1 7/31/2018 9:22 PM
+then how do I ask Q& A
+
+Attila F 7/31/2018 9:23 PM
+You ask here
+
+Attila F 7/31/2018 9:23 PM
+Type
+
+Attila F 7/31/2018 9:23 PM
+Q: My clever question.
+
+Attila F 7/31/2018 9:23 PM
+Or use the purple Q&A widget.
+
+Lindsay V 7/31/2018 9:24 PM
+We will begin at 1 minute past the hour.
+
+User 1 7/31/2018 9:24 PM
+ok
+
+Abby M 7/31/2018 9:27 PM
+I love the music.
+
+Andrew F 7/31/2018 9:30 PM
+I keep hoping for Rites of Spring.
+
+Andrew F 7/31/2018 9:31 PM
+or at least the William Tell Overture "The Lone Ranger" fourth portion.
+
+Anand J 7/31/2018 9:31 PM
+Hope is a good thing.. and no good thing ever dies :)
+
+Andrew F 7/31/2018 9:31 PM
+... on the leadup to the actual start.
+
+Andrew F 7/31/2018 9:32 PM
+I'm somewhat partial to https://www.youtube.com/watch?v=Rt3-pzRiXoQ :)
+
+Attila F 7/31/2018 9:33 PM
+The memoize_extra.py solution is mindblowing for me. I dunno enough Python to understand it.
+
+Matthew W 7/31/2018 9:33 PM
+lol
+
+Lewis K 7/31/2018 9:33 PM
+decorators
+
+Samir E 7/31/2018 9:33 PM
+decorators
+
+Matthew W 7/31/2018 9:34 PM
+Decorators
+
+Michael P 7/31/2018 9:34 PM
+decorators
+
+Abby M 7/31/2018 9:34 PM
+decorators and memoize
+
+Anand J 7/31/2018 9:34 PM
+decorators
+
+Venkataraman S 7/31/2018 9:34 PM
+decorators and memoize
+
+Attila F 7/31/2018 9:34 PM
+Andrew, is that a rickroll? ;)
+
+Rodney J 7/31/2018 9:34 PM
+decorators
+
+Sherif A 7/31/2018 9:34 PM
+varargs, decorators, functions as objects
+
+Oliver M 7/31/2018 9:34 PM
+everything
+
+Abby M 7/31/2018 9:34 PM
+yes args and kwargs!
+
+Shounak R 7/31/2018 9:35 PM
+function as objects ... different from C/C++
+
+Anand J 7/31/2018 9:35 PM
+subtle differences in using *args when defining a function vs calling a function
+
+Ravi H 7/31/2018 9:35 PM
+Hi
+
+Attila F 7/31/2018 9:35 PM
+Except perhaps function object in C++ ;)
+
+Andrew F 7/31/2018 9:40 PM
+Quick Python updated for Python3 says "double-underscore identifier" is private. is that by convention and not enforced by the language?
+
+Andrew F 7/31/2018 9:41 PM
+ah, name mangling. yes.
+
+Andrew F 7/31/2018 9:41 PM
+thx
+
+Gabriel R 7/31/2018 9:44 PM
+big memory for cache
+
+Anand J 7/31/2018 9:44 PM
+memory
+
+Sherif A 7/31/2018 9:44 PM
+consume all memory
+
+Lewis K 7/31/2018 9:44 PM
+No bound on size of cache.
+
+Andrew F 7/31/2018 9:44 PM
+unbound ed memory consumption
+
+Marc O 7/31/2018 9:44 PM
+size of cache
+
+Nathan M 7/31/2018 9:44 PM
+the RAM will be used completely
+
+Noel L 7/31/2018 9:45 PM
+unlimited mem usage
+
+Gabriel R 7/31/2018 9:45 PM
+what about function ambiguity? for example f(x), but what about j(x). If those are different functions, but same type/num of args?
+
+Attila F 7/31/2018 9:46 PM
+Every call to memoize will create a new cache
+
+Gabriel R 7/31/2018 9:46 PM
+ah, right. Thx
+
+Attila F 7/31/2018 9:46 PM
+It's just a function
+
+Gabriel R 7/31/2018 9:47 PM
+got it. Thanks!
+
+Attila F 7/31/2018 9:50 PM
+It would be nice to make MAX_TRIES configurable...
+
+Andrew F 7/31/2018 9:50 PM
+you really should use "not resp.ok" instead of hard-coded 500.
+
+Meiling H 7/31/2018 9:50 PM
+agree
+
+Attila F 7/31/2018 9:51 PM
+@Andrew That would also retry on a 404, no?
+
+Matthew W 7/31/2018 9:51 PM
+Or 301 redirect?
+
+Andrew F 7/31/2018 9:51 PM
+okay. or 500+, since 502 (bad gateway) is temperamental, too.
+
+Andrew F 7/31/2018 9:52 PM
+understood. we can move on.
+
+Soubhik R 7/31/2018 9:59 PM
+14?
+
+Anand J 7/31/2018 9:59 PM
+14
+
+Michael P 7/31/2018 9:59 PM
+14
+
+Noel L 7/31/2018 9:59 PM
+14
+
+Sherif A 7/31/2018 9:59 PM
+14
+
+Manthri R 7/31/2018 9:59 PM
+14
+
+Oliver M 7/31/2018 9:59 PM
+14
+
+User 1 7/31/2018 9:59 PM
+14
+
+Marc O 7/31/2018 9:59 PM
+14
+
+Souradeep B 7/31/2018 9:59 PM
+14
+
+Pablo G 7/31/2018 9:59 PM
+14
+
+Anand J 7/31/2018 10:00 PM
+18
+
+Suneetha G 7/31/2018 10:00 PM
+18
+
+User 1 7/31/2018 10:00 PM
+18
+
+Souradeep B 7/31/2018 10:00 PM
+18
+
+Venkataraman S 7/31/2018 10:00 PM
+18
+
+Pablo G 7/31/2018 10:00 PM
+18
+
+Michael P 7/31/2018 10:00 PM
+18
+
+Janit B 7/31/2018 10:00 PM
+18
+
+User 1 7/31/2018 10:01 PM
+18
+
+Sherif A 7/31/2018 10:02 PM
+a function that returns a decorator
+
+Leela G 7/31/2018 10:03 PM
+pass decorator args to outer and actual func to inner?
+
+Anand J 7/31/2018 10:03 PM
+the decorator should take an additional argument - in addition to func
+
+Gabriel R 7/31/2018 10:03 PM
+def app.route(func,*args)?
+
+Gabriel R 7/31/2018 10:04 PM
+def add(func,*args)
+
+Sherif A 7/31/2018 10:05 PM
+def add(value):
+
+Suneetha G 7/31/2018 10:05 PM
+def add(func, *args)
+
+Anand J 7/31/2018 10:05 PM
+add(func, numberToAdd)
+
+Michael P 7/31/2018 10:05 PM
+def add(func, num_to_add)
+
+Shounak R 7/31/2018 10:05 PM
+( func, *args)
+
+Pablo G 7/31/2018 10:05 PM
+def add(number):
+
+Meiling H 7/31/2018 10:05 PM
+add(func, arg)
+
+Attila F 7/31/2018 10:06 PM
+add(value) -> decorator
+
+Anand J 7/31/2018 10:06 PM
+ah!
+
+Samir E 7/31/2018 10:06 PM
+so how you call "add" now?
+
+Michael P 7/31/2018 10:10 PM
+that is really interesting
+
+Sharad B 7/31/2018 10:10 PM
+Cool
+
+Pablo G 7/31/2018 10:10 PM
+anonymous function
+
+Gabriel R 7/31/2018 10:12 PM
+Pycharm did that to me yesterday!
+
+Sherif A 7/31/2018 10:12 PM
+it always do that :-D
+
+Matthew W 7/31/2018 10:13 PM
+Ruh roh
+
+Attila F 7/31/2018 10:13 PM
+Bad PyCharm! Go to the corner!
+
+Samir E 7/31/2018 10:13 PM
+noi
+
+Attila F 7/31/2018 10:13 PM
+nope
+
+Matthew W 7/31/2018 10:14 PM
+With great power comes great opportunity to abuse that power?
+
+Marc O 7/31/2018 10:14 PM
+with great power comes great responsibility?
+
+Soubhik R 7/31/2018 10:15 PM
+how is decorator generally used in large python project?
+
+Shounak R 7/31/2018 10:15 PM
+sure .. thx!
+
+Attila F 7/31/2018 10:15 PM
+Which reminds me. I would put the + increment to end there. Then it would would for strings as people expect it.
+
+Pablo G 7/31/2018 10:16 PM
+pytest uses decorators. You can define your own test fixtures and apply them to test cases with decorators
+
+Attila F 7/31/2018 10:16 PM
+And just call increment value
+
+Zheng D 7/31/2018 10:16 PM
+loggin
+
+Leela G 7/31/2018 10:17 PM
+Soubhik: refer http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonDecorators.html for more info and usage. It's good.
+
+Soubhik R 7/31/2018 10:17 PM
+Thnks!
+
+Soubhik R 7/31/2018 10:18 PM
+A lot. This is really helpful
+
+Attila F 7/31/2018 10:18 PM
+@dowhatimean
+
+Sherif A 7/31/2018 10:19 PM
+tornado framework use it to define coroutines
+
+Sherif A 7/31/2018 10:19 PM
+This is prior to asyncio
+
+Soubhik R 7/31/2018 10:19 PM
+Is it recomended to use a single decorator ?
+
+Attila F 7/31/2018 10:19 PM
+what was the filename?
+
+Attila F 7/31/2018 10:20 PM
+ah
+
+Aaron M 7/31/2018 10:21 PM
+Soubhik: What do you mean by "single decorator"? Do you mean decorating a function once instead of twice, like we did with @add2/@mult3?
+
+Soubhik R 7/31/2018 10:21 PM
+I mean to use minimum no of decorator
+
+Leela G 7/31/2018 10:21 PM
+Q: By any chance will we be discussing @wraps too in this class?
+
+Soubhik R 7/31/2018 10:21 PM
+to enhance reusability?
+
+Aaron M 7/31/2018 10:22 PM
+Soubhik: Well, the more you use, the more complexity you introduce to the code. And simpler code is easier to maintain and keep bug free
+
+Aaron M 7/31/2018 10:23 PM
+So as a general rule, I'd say only introduce new complexity when it's justified, and always go with the simplest code that will do the job
+
+Aaron M 7/31/2018 10:23 PM
+This principle applies to decorators too
+
+Soubhik R 7/31/2018 10:23 PM
+great.. Thank you, Aaron!
+
+Aaron M 7/31/2018 10:23 PM
+Leela: I won't, but PythonTheNextLevel.pdf has a whole section diving into it
+
+Attila F 7/31/2018 10:23 PM
+It would be an interesting lab to implement @property
+
+Aaron M 7/31/2018 10:24 PM
+Attila: Yeah, I actually thought of that. I'd have to tell you about something else called the descriptor protocol first, though. Which I haven't found room to fit in yet
+
+Attila F 7/31/2018 10:24 PM
+Maybe as homework.
+
+Leela G 7/31/2018 10:25 PM
+Thanks. Definitely will be going through all pdf's
+
+Andrew F 7/31/2018 10:27 PM
+$ python3 webframework.py *** ALL TESTS PASS *** Give someone a HIGH FIVE!
+
+Andrew F 7/31/2018 10:28 PM
+i ended up not needing a wrapper function at all! (less code to have to puzzle through.)
+
+Aaron M 7/31/2018 10:28 PM
+Yep! That's right Andrew
+
+Aaron M 7/31/2018 10:28 PM
+High five!
+
+Souradeep B 7/31/2018 10:30 PM
+*** ALL TESTS PASS *** Give someone a HIGH FIVE!
+
+Aaron M 7/31/2018 10:30 PM
+Out of all these classes, webframework.py may be my favorite lab. Not a lot of coding , but it's clever
+
+Aaron M 7/31/2018 10:30 PM
+HIGH FIVE!
+
+Andrew F 7/31/2018 10:31 PM
+this decorator stuff is oddly familiar for people that used to do DLL GetProcAddress patching, or system call detours. I wonder if you can replace a function in a class (instance) with your own at runtime?
+
+Aaron M 7/31/2018 10:31 PM
+Yes you can
+
+Andrew F 7/31/2018 10:31 PM
+get out
+
+Aaron M 7/31/2018 10:31 PM
+It's called "monkey patching" in the Python world
+
+Aaron M 7/31/2018 10:31 PM
+Yep!
+
+Aaron M 7/31/2018 10:32 PM
+Python's dynamic in many senses of the word
+
+User 1 7/31/2018 10:32 PM
+hi, I am not audible
+
+Aaron M 7/31/2018 10:32 PM
+We're doing the lab :)
+
+User 1 7/31/2018 10:33 PM
+got it
+
+Sharad B 7/31/2018 10:33 PM
+Is necessary to post "All pass" in the group chat? Or thumbs up is fine? Or both?
+
+Aaron M 7/31/2018 10:34 PM
+Not necessary. You can do whatever you like :)
+
+Aaron M 7/31/2018 10:34 PM
+But I'd love it if you give me a high five in the chat room, after you give a thumbs up
+
+Matthew W 7/31/2018 10:35 PM
+Ooooh! Oooh! http://www.jetbrains.com/store/?fromMenu#edition=personal
+
+Attila F 7/31/2018 10:35 PM
+Hi5
+
+Aaron M 7/31/2018 10:35 PM
+High five!
+
+Matthew W 7/31/2018 10:35 PM
+Half off on Pycharm
+
+Attila F 7/31/2018 10:36 PM
+I draw the line at $ 49.99
+
+Lindsay V 7/31/2018 10:36 PM
+*Break Time* Please return in 10 minutes.
+
+Matthew W 7/31/2018 10:36 PM
+PyCharm US $ 44.50 /one year
+
+Sharad B 7/31/2018 10:36 PM
+Cliff Hanger!!!
+
+Attila F 7/31/2018 10:37 PM
+Run Forrest, run!
+
+Andrew F 7/31/2018 10:38 PM
+Q: collections.defaultdict, if you call d.get(key), does it create the entry in-place via the factory and then return the new entry , or merely call the factory (None) to return a value
+
+Andrew F 7/31/2018 10:40 PM
+(iow, I'm debating between "if key not in self.__cache" versus "value = self.__cache.get(key)", if I had a lot of misses am I consuming more memory each time? :)
+
+Aaron M 7/31/2018 10:42 PM
+Interesting question... I had to check. Apparently .get() does not trigger the insertion of a key-value pair for default dicts
+
+Andrew F 7/31/2018 10:42 PM
+which is probably the principle of least surprise in action.
+
+Aaron M 7/31/2018 10:43 PM
+I think it's because [] triggers a call to the magic method called __missing__, but .get() does not
+
+Aaron M 7/31/2018 10:43 PM
+(By "check" I mean I had to write a program to answer the question)
+
+Aaron M 7/31/2018 10:43 PM
+Yep, agreed Andrew
+
+Sherif A 7/31/2018 10:47 PM
+Callable
+
+Andrew F 7/31/2018 10:47 PM
+isn't it a thing that implements operator(), ?
+
+Samir E 7/31/2018 10:50 PM
+dunder stands for double underscore
+
+Sharad B 7/31/2018 10:52 PM
+__call__(func)?
+
+Sherif A 7/31/2018 10:52 PM
+__init__ takes func as parameter and save it
+
+Sherif A 7/31/2018 10:52 PM
+__call__ logs and call func
+
+Samir E 7/31/2018 10:53 PM
+dunder init and call
+
+Andrew F 7/31/2018 10:53 PM
+class PrintLog: __init__(self, func) {save things} then __call__(*args,**kwargs) {invoke self.func(*,**) {
+
+Andrew F 7/31/2018 10:53 PM
+(sorry for C-ism).
+
+Dinaldo P 7/31/2018 11:09 PM
+thumbs up
+
+Aaron M 7/31/2018 11:12 PM
+Andrew: from __future__ import braces
+
+Attila F 7/31/2018 11:13 PM
+Isn't C the past?
+
+Aaron M 7/31/2018 11:13 PM
+It's been surprisingly resilient
+
+Attila F 7/31/2018 11:14 PM
+yep. It even affects CPU design. (In a bad way - ppl seem to think .)
+
+Aaron M 7/31/2018 11:14 PM
+from __past__ import print_without_parenthesis
+
+Andrew F 7/31/2018 11:14 PM
+hrm. shades of dialects of Perl features.
+
+Attila F 7/31/2018 11:15 PM
+Is Perl the Klingon word for line noise?
+
+Attila F 7/31/2018 11:16 PM
+I still cannot wrap my head around the memoize_extra stuff
+
+Aaron M 7/31/2018 11:16 PM
+That means it's a great exercise for you :)
+
+Aaron M 7/31/2018 11:16 PM
+Ask me a question about here if you like, while you have me
+
+Dinaldo P 7/31/2018 11:17 PM
+thumbs up
+
+Attila F 7/31/2018 11:18 PM
+I don't think I can ask an intelligent question. I will have to muddle through. I need to basically read a lot of Python docs to know what the stuff is doing. Like kwargs.items(). Why do we need to call 'items'? Why not just tuple(kwargs)?
+
+Aaron M 7/31/2018 11:18 PM
+Sure, I understand
+
+Aaron M 7/31/2018 11:19 PM
+I can answer that question quickly though:
+
+Attila F 7/31/2018 11:19 PM
+And why are we sorting on the second solutions (tuple(sorted( why not in the other?
+
+Andrew F 7/31/2018 11:21 PM
+when you read my magicmoney.py , you'll know I used to do assembly language and have intimate knowledge of the processor flags. :)
+
+Aaron M 7/31/2018 11:21 PM
+It's basically Python's semantics. The d.items() method of dict will (in Python 3) return an object which iterates over the key-value pairs
+
+Aaron M 7/31/2018 11:21 PM
+Whereas the dictionary object directly does not give access to the key-value pairs, e.g. in type(d). Instead...
+
+Aaron M 7/31/2018 11:21 PM
+It iterates over just the keys
+
+Aaron M 7/31/2018 11:22 PM
+It could have been defined differently. But that's how the semantics of the language were decided in this language
+
+Aaron M 7/31/2018 11:22 PM
+It's fine once you get used to it
+
+Aaron M 7/31/2018 11:22 PM
+There's lots of little quirks like this, I know
+
+Attila F 7/31/2018 11:23 PM
+Thanks. That makes sense
+
+Attila F 7/31/2018 11:23 PM
+I guess it gives access to the keys only, because that makes 'IN' work.
+
+Aaron M 7/31/2018 11:24 PM
+For kwargs not using sorted in the second solution... That's actually a bug in my second solution. It should be sorted()
+
+Attila F 7/31/2018 11:25 PM
+It's not using sorted in the first. Uses it in the second.
+
+Attila F 7/31/2018 11:26 PM
+...Walk Forrest, walk...
+
+Aaron M 7/31/2018 11:27 PM
+Actually I'm looking at the version called "Another approach using lists (Python 3 only)"
+
+Aaron M 7/31/2018 11:28 PM
+It kind of depends on the situation which is better... It's possible for a 3.6/3.7 function to actually alter its return value depending on the order of the key-value pairs
+
+Aaron M 7/31/2018 11:28 PM
+Which smells like violating the Principle of Least Surprise
+
+Aaron M 7/31/2018 11:28 PM
+But it's possible to code a function that does that
+
+Aaron M 7/31/2018 11:28 PM
+In which case you would NOT want to use sorted
+
+Aaron M 7/31/2018 11:28 PM
+Because dicts are ordered in 3.6+
+
+Aaron M 7/31/2018 11:29 PM
+In that case, it's better to use sorted(), so multiple calls with different orderings of keyword args are cached under the same key
+
+Aaron M 7/31/2018 11:29 PM
+Under that assumption, the frozenset version is actually the best performing, I bet
+
+Aaron M 7/31/2018 11:30 PM
+I got just got a new lab idea: frozendict.py
+
+Attila F 7/31/2018 11:31 PM
+What's a frozenset?
+
+Attila F 7/31/2018 11:31 PM
+read only set?
+
+Aaron M 7/31/2018 11:31 PM
+Yep. It's a set that's immutable
+
+Aaron M 7/31/2018 11:32 PM
+So a frozenset would be usable as a dict key. But a regular set, which is mu table, cannot
+
+Attila F 7/31/2018 11:32 PM
+Cool. Thanks.
+
+Aaron M 7/31/2018 11:32 PM
+It's built into Python, you can find it in the docs. Wish more people knew about it
+
+Attila F 7/31/2018 11:33 PM
+For frozenset we do not need sorted, right? Because it compares regardless of order.
+
+Aaron M 7/31/2018 11:33 PM
+Correct.
+
+Attila F 7/31/2018 11:34 PM
+Cool. I like that solution best.
+
+Attila F 7/31/2018 11:34 PM
+Less moving parts.
+
+Aaron M 7/31/2018 11:34 PM
+Yeah, me too. For the same reason
+
+Attila F 7/31/2018 11:36 PM
+So OrderedDict gives an iterating order of insertion order, but it also gives O(1) lookup of/on the key, right?
+
+Michael P 7/31/2018 11:38 PM
+3.4 at work still unfortunately
+
+Sherif A 7/31/2018 11:39 PM
+So with OrderedDict and using items() we do not need to sort them. Right?
+
+Sherif A 7/31/2018 11:40 PM
+In my solution I used OrderedDict and the key is:
+
+Sherif A 7/31/2018 11:40 PM
+tuple(chain(args, sorted(kwargs.items())))
+
+User 1 7/31/2018 11:40 PM
+deque?
+
+Attila F 7/31/2018 11:41 PM
+Me likey yousability
+
+Attila F 7/31/2018 11:48 PM
+Q: What if I want to be add different kinds of Angles? Suppose I have another Angle that stores radians not degrees. Do I have to implement that __add__ in both classes? Or can I implement it "outside" of the two classes?
+
+Samir E 7/31/2018 11:49 PM
+What abouyt using decorator to convert degrees to radians
+
+Samir E 7/31/2018 11:50 PM
+Q:What abouyt using decorator to convert degrees to radians
+
+Gabriel R 7/31/2018 11:51 PM
+what about adding literals? a + 45?
+
+Sherif A 7/31/2018 11:51 PM
+Decorators are applied to functions, so unless you get the degrees or radians from a function call, decorators will not work
+
+Gabriel R 7/31/2018 11:51 PM
+a.__add__(45). You could handle in the __add__
+
+Attila F 7/31/2018 11:51 PM
+a + 45 is easy. How about 45 + a?
+
+Gabriel R 7/31/2018 11:51 PM
+yup, what about 45 + a?
+
+Sherif A 7/31/2018 11:52 PM
+45 + a has to override __add__ on int objects, but i do not think you want that
+
+Attila F 7/31/2018 11:52 PM
+45.__addd__(Angle) won't fly
+
+Attila F 7/31/2018 11:53 PM
+Python is like a storm with all these dunders.
+
+Christoph D 7/31/2018 11:53 PM
+There's __radd__ if you want to make 42 + Angle(42) work
+
+Attila F 7/31/2018 11:54 PM
+Cool.
+
+Sherif A 7/31/2018 11:55 PM
+Thanks Christoph.. That's quite useful
+
+Sherif A 7/31/2018 11:55 PM
+https://docs.python.org/3.6/reference/datamodel.html#object.__radd__
+
+Sherif A 7/31/2018 11:58 PM
+df key
+
+Suneetha G 7/31/2018 11:58 PM
+Comaparator is in array
+
+Marc O 7/31/2018 11:58 PM
+return type
+
+Gabriel R 7/31/2018 11:58 PM
+index into df
+
+Gabriel R 7/31/2018 11:58 PM
+with operator
+
+Abby M 7/31/2018 11:58 PM
+1, 3, 4
+
+Oliver M 7/31/2018 11:58 PM
+alignment
+
+Marc O 7/31/2018 11:58 PM
+df.A > 0 does not evaluate to true/false
+
+Dinaldo P 7/31/2018 11:58 PM
+> usually returns boolean
+
+Matthew W 7/31/2018 11:59 PM
+I was going to say column A is not ordered
+
+Andrea B 7/31/2018 11:59 PM
+df.A > 0 is vectorized
+
+Andrew F 7/31/2018 11:59 PM
+__getitem__ on pandas.dataframe (aka 'df') accepted whatever the return value of df.A>0 does.
+
+Attila F 8/1/2018 12:00 AM
+df.A must be magic
+
+Sherif A 8/1/2018 12:00 AM
+generator?
+
+Attila F 8/1/2018 12:01 AM
+expression templates in C++...
+
+Andrew F 8/1/2018 12:02 AM
+Yes! My FAVORITE interview question. :)
+
+Andrew F 8/1/2018 12:03 AM
+http://www.cppgm.org/ (1 in 10000 participants made it to PA6.)
+
+Aaron M 8/1/2018 12:07 AM
+Andrew: Yeah, the grandmaster cert... Epic. I REALLY want to do that someday. Not sure I ever will though... Already have too many higher priorities to finish even if I live to 200
+
+Andrew F 8/1/2018 12:08 AM
+i stopped participating after PA4, when I saw 3 months of reading as a full-time effort for the next reading assignment.
+
+Andrew F 8/1/2018 12:08 AM
+maybe it was end of PA3.
+
+Aaron M 8/1/2018 12:08 AM
+Making it that far is impressive. Fist bump
+
+Andrew F 8/1/2018 12:08 AM
+#todayIlearned: one-line def fn(...): technique
+
+Aaron M 8/1/2018 12:09 AM
+I just wrote a blog post about one-liners in Python
+
+Andrew F 8/1/2018 12:09 AM
+link por favor?
+
+Aaron M 8/1/2018 12:10 AM
+http://archive.aweber.com/awlist5091365/Kq33h/t/My_favorite_git_commit.htm
+
+Aaron M 8/1/2018 12:10 AM
+No wait, that's wrong
+
+Aaron M 8/1/2018 12:10 AM
+Actually this one-liner blog post goes out to my newsletter tomorrow
+
+Aaron M 8/1/2018 12:10 AM
+I guess I'll plug the newsletter, for anyone who wants to know about Python one-liners: https://powerfulpython.com/python-newsletter/
+
+Aaron M 8/1/2018 12:10 AM
+Goes out tomorrow at 9am pacific
+
+Andrew F 8/1/2018 12:11 AM
+nice.
+
+Soubhik R 8/1/2018 12:16 AM
+Does set follow hashing?
+
+Attila F 8/1/2018 12:20 AM
+Great. i got disconnected for minutes :(
+
+Soubhik R 8/1/2018 12:24 AM
+though out of scope for now, just curiosity. why self is used? the code will run without self i guess. is there any advantage of using self?
+
+Attila F 8/1/2018 12:25 AM
+If you are not using self you are not using members.
+
+Anand J 8/1/2018 12:27 AM
+Q: In this version of MultiDict, .get() will not work unless explicitl y implemented right?
+
+Soubhik R 8/1/2018 12:28 AM
+yes. i understood. thanks!
+
+Lindsay V 8/1/2018 12:29 AM
+Please take a moment to fill out the course feedback survey: https://www.safaribooksonline.com/live-training/courses/python-the-next-level/0636920190950/survey/
+
+Lindsay V 8/1/2018 12:33 AM
+Beyond Python Scripts: Exceptions, Error Handling and Command-Line Interfaces: https://www.safaribooksonline.com/live-training/courses/beyond-python-scripts-exceptions-error-handling-and-command-line-interfaces/0636920195610/
+
+
+ Submit
+
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Resource List
+Courseware
+Courseware
+Python Trainings
+Python Trainings
+Download 01 Welcome slides
+Download 01 Welcome slides
+Download 02 Varargs slides
+Download 02 Varargs slides
+Download 03 Keyfunctions slides
+Download 03 Keyfunctions slides
+Download 04 Decorators slides
+Download 04 Decorators slides
+Download 05 Magicmethods slides
+Download 05 Magicmethods slides
+Download 06 Customcoll slides
+Download 06 Customcoll slides
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

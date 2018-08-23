@@ -1,0 +1,5 @@
+tflearn==0.3.2
+keras==2.0.8
+nltk==3.2.4
+gensim==2.3.0
+gym==0.9.4

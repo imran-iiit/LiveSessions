@@ -1,0 +1,279 @@
+Media Player
+ LIVE 
+
+Resource List
+Slides
+Slides
+Group Chat
+Timestamp 
+Shannon C 8/13/2018 7:15 PM
+Hello everyone and welcome to our live training course: ‘Python Data Handling: A Deeper Dive’ with David Beasley. The session will start in 15 minutes. We hope you enjoy the course!
+
+Shannon C 8/13/2018 7:16 PM
+We are recording today’s class, and will have it ready within 48 hours. The recording will post here: https://www.safaribooksonline.com/live-training/courses/python-data-handling-a-deeper-dive/0636920198123/
+
+Shannon C 8/13/2018 7:16 PM
+Where are you all joining us from today?
+
+Ayris N 8/13/2018 7:20 PM
+I'm in Maryland. This is my first SafariOnline course. Is there some trick to being able see the group chat and at the same time have the slides full screen?
+
+Shannon C 8/13/2018 7:21 PM
+Hi Ayris and welcome!
+
+Shannon C 8/13/2018 7:22 PM
+You can move the widgets around, so you should be able to open the group chat, and move it so it's not covering the slides.
+
+Navaneetha K 8/13/2018 7:22 PM
+Navaneetha kannan from Bangalore,India
+
+Shannon C 8/13/2018 7:23 PM
+Hello Navaneetha!
+
+Ion H 8/13/2018 7:25 PM
+Romania here :)
+
+Virendra S 8/13/2018 7:27 PM
+Hi, Virendra Rathore from London
+
+David B 8/13/2018 7:28 PM
+Greetings from Chicago. Course materials at at http://www.dabeaz.com/datadeepdive
+
+Naresh P 8/13/2018 7:29 PM
+Naresh from London
+
+Kahkashan K 8/13/2018 7:29 PM
+Hello from India!
+
+Balaji K 8/13/2018 7:30 PM
+Balaji from Singapore
+
+Wei Han K 8/13/2018 7:31 PM
+Hi from Singapore!
+
+Jerry W 8/13/2018 7:31 PM
+Hi
+
+Shannon C 8/13/2018 7:31 PM
+Class has begun and you should be able to hear Dave. If you have any trouble with audio during the course, please try refreshing your browser.
+
+Ion H 8/13/2018 7:32 PM
+Should we have also video during the course?
+
+Lenin R 8/13/2018 7:32 PM
+Lenin From India - Hyderabad . Hello everyone
+
+Shannon C 8/13/2018 7:33 PM
+There is no video for the class.
+
+Shannon C 8/13/2018 7:33 PM
+You will hear audio streaming from the media player; this is also where the screenshare will appear later on when Dave shares his screen.
+
+Valeria G 8/13/2018 7:34 PM
+Is someone else listening a really loud classical music along with David's voice?
+
+Shannon C 8/13/2018 7:34 PM
+Right now Dave is presenting his slides, from the slides widget. Let me know if any of you experience any trouble.
+
+Shannon C 8/13/2018 7:34 PM
+Hi Valeria - Please try refreshing your browser.
+
+Ion H 8/13/2018 7:34 PM
+Ok, thanks
+
+Shannon C 8/13/2018 7:34 PM
+That's a glitch - you should not hear any music playing.
+
+Valeria G 8/13/2018 7:34 PM
+it worked, thanks
+
+Shannon C 8/13/2018 7:35 PM
+Great! Thanks :)
+
+David B 8/13/2018 7:36 PM
+http://www.dabeaz.com/datadeevdive
+
+Calum M 8/13/2018 7:37 PM
+404 on the link
+
+David B 8/13/2018 7:37 PM
+http://www.dabeaz.com/datadeepdive
+
+Calum M 8/13/2018 7:37 PM
+Got it :)
+
+Kahkashan K 8/13/2018 7:38 PM
+Thanks!
+
+Rekha M 8/13/2018 7:39 PM
+unable to see
+
+Shannon C 8/13/2018 7:40 PM
+Hi Rekha
+
+Shannon C 8/13/2018 7:40 PM
+Can you please try refreshing your browser and let me know if that works.
+
+Shannon C 8/13/2018 7:40 PM
+Screenshare is working in the media player.
+
+Alireza T 8/13/2018 7:47 PM
+better
+
+Ayris N 8/13/2018 7:47 PM
+worse
+
+Aditya S 8/13/2018 7:47 PM
+worse
+
+Samir E 8/13/2018 7:48 PM
+worse
+
+Naresh P 8/13/2018 7:48 PM
+better
+
+marcel s 8/13/2018 7:48 PM
+worse - you now have two dicts
+
+Ward F 8/13/2018 7:48 PM
+class with __slots__ magic is best
+
+Shannon C 8/13/2018 7:49 PM
+Sorry about that audio glitch everyone! Glad it was quick to resolve!
+
+Mahdi M 8/13/2018 7:50 PM
+what is slots?
+
+Marin M 8/13/2018 7:50 PM
+Can you go into slots a little more
+
+Calum M 8/13/2018 7:54 PM
+Could you scroll up so we can view the code while you're talking please?
+
+Calum M 8/13/2018 7:55 PM
+Thanks :)
+
+Ayris N 8/13/2018 8:01 PM
+Wait. I don't see anything with stock prices
+
+Ayris N 8/13/2018 8:01 PM
+NM - I see that we're back to slide. :)
+
+Ward F 8/13/2018 8:11 PM
+[79, 9, 49, 4, 66, 151, 22, 3, 77, 53]
+
+Marin M 8/13/2018 8:16 PM
+Audio is messed up
+
+Shannon C 8/13/2018 8:16 PM
+Audio is working well right now
+
+Ayris N 8/13/2018 8:16 PM
+Fine here.
+
+Marin M 8/13/2018 8:16 PM
+Should I refresh?
+
+Shannon C 8/13/2018 8:16 PM
+Can you try refreshing your browser and see if that fixes it for you?
+
+Marin M 8/13/2018 8:16 PM
+It did thank you
+
+User 1 8/13/2018 8:16 PM
+where did most_common() come from? Some inbuilt method of defaultdict?
+
+Shannon C 8/13/2018 8:17 PM
+Great!
+
+West W 8/13/2018 8:20 PM
+I have the same question here... Where is most_common() from?
+
+User 1 8/13/2018 8:45 PM
+is reference count the only algo for garbage collection in Python?
+
+User 1 8/13/2018 8:48 PM
+thans
+
+User 1 8/13/2018 8:48 PM
+*thanks
+
+Alireza T 8/13/2018 8:58 PM
+can you print out d please in your current working example
+
+User 1 8/13/2018 9:01 PM
+When the size of dict increases, does it rehash the whole existing data as well?
+
+Karen B 8/13/2018 9:04 PM
+Is that to say that the Point defined as a class, is immutable?
+
+David B 8/13/2018 9:04 PM
+Answer: No.
+
+Shannon C 8/13/2018 9:05 PM
+Just a friendly reminder to please post all of your questions into the purple Q&A widget, rather than here in group chat. That'll make it easier for David to see them. Thank you!
+
+David B 8/13/2018 9:14 PM
+Back.
+
+Shannon C 8/13/2018 9:14 PM
+Audio is good!
+
+Virendra S 8/13/2018 9:15 PM
+Yes
+
+Kahkashan K 8/13/2018 9:15 PM
+hearing just fine, thanks
+
+Dennis D 8/13/2018 9:15 PM
+we can hear you
+
+Shannon C 8/13/2018 9:15 PM
+yes!
+
+Shannon C 8/13/2018 9:15 PM
+very good!
+
+Naresh P 8/13/2018 9:15 PM
+yes
+
+Samir E 8/13/2018 9:28 PM
+if
+
+Samir E 8/13/2018 9:28 PM
+instead of in
+
+Jagvir Y 8/13/2018 9:30 PM
+seems my media player stopped not refreshing .. anyone else getting this issue ?
+
+Alireza T 8/13/2018 9:31 PM
+its fine for me
+
+Samir E 8/13/2018 9:31 PM
+no, everything fine on my side
+
+Jagvir Y 8/13/2018 9:34 PM
+reconnected and now it is fine. thanks
+
+Shannon C 8/13/2018 9:35 PM
+Glad to hear it! Refreshing or rejoining the course will usually fix any sort of audio or video glitch. :)
+
+Shannon C 8/13/2018 10:20 PM
+Please take a minute to give us your feedback on the class: https://www.safaribooksonline.com/live-training/courses/python-data-handling-a-deeper-dive/0636920198123/survey/. Thank you!
+
+Ward F 8/13/2018 10:21 PM
+two weeks back, a _very_ interesting Stream Processing library for python was introduced... https://github.com/robinhood/faust
+
+Kristen H 8/13/2018 10:26 PM
+@Ward F Thanks for sharing!
+
+
+ Submit
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+
+
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

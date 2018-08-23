@@ -1,0 +1,161 @@
+Media Player
+ LIVE 
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat
+Timestamp 
+Shannon C 8/16/2018 9:15 PM
+Hello everyone and welcome to our live online training course ‘Deep Reinforcement Learning’ with Jon Krohn. The session will start in 15 minutes. We hope you enjoy the course!
+
+Shannon C 8/16/2018 9:19 PM
+Here are the links for the course: JupyterHub: https://0636920183198.oreilly-jupyterhub.com/ Gitlab: https://resources.oreilly.com/live-training/deep-learning/
+
+Shannon C 8/16/2018 9:20 PM
+Here is the Slack channel: https://oreillyonlinetraining.slack.com/messages/GC6GC9BDK
+
+Shannon C 8/16/2018 9:21 PM
+If you still need access to the Slack channel, please email onlinetraining@oreilly.com, with your Slack username, the name of this course, and I’ll get you setup.
+
+Shannon C 8/16/2018 9:22 PM
+Where is everyone joining us from today?
+
+Ibrahim A 8/16/2018 9:31 PM
+Hello from Ottawa, Canada, -Ibrahim
+
+Matej K 8/16/2018 9:32 PM
+Zagreb, Croatia
+
+Suarabh K 8/16/2018 9:32 PM
+Hello from London, - Saurabh
+
+Shannon C 8/16/2018 9:32 PM
+Class has begun and you should be able to hear (and see!) Jon.
+
+Roel B 8/16/2018 9:32 PM
+Hello from Delft, Netherlands
+
+Shannon C 8/16/2018 9:33 PM
+If you experience any issue with the media player, which streams the audio, please try refreshing your browser. Thanks!
+
+Shannon C 8/16/2018 9:33 PM
+Welcome everyone! Great to have you joining us from around the world.
+
+Marin M 8/16/2018 9:36 PM
+Student!
+
+Alok A 8/16/2018 9:37 PM
+Program Management
+
+Sridhar D 8/16/2018 9:38 PM
+Project Management
+
+AMIT D 8/16/2018 9:45 PM
+can you run today's notebooks on a CPU based laptop?
+
+Abdul K 8/16/2018 9:54 PM
+Can deep learning totally replace traditional machine learning. When would one resort to traditional ML?
+
+Dan T 8/16/2018 9:56 PM
+there is absolutely no overlap between NLP and GANs ?
+
+Gary G 8/16/2018 9:58 PM
+Q: There is a signin/register on the page https://resources.oreilly.com/live-training/deep-learning; is that my Safari Login?
+
+Shannon C 8/16/2018 9:59 PM
+Great questions everyone! Jon will address them shortly. Thanks!
+
+Ibrahim A 8/16/2018 10:02 PM
+yes it is
+
+Krutarth R 8/16/2018 10:03 PM
+Can confirm Slack is down
+
+Shannon C 8/16/2018 10:03 PM
+Hi Gary, That is an open-source page, so you should not need to enter any log-in. Please try refreshing the page and see if it works for you. Thanks!
+
+Shannon C 8/16/2018 10:03 PM
+Thanks Krutarth
+
+Marin M 8/16/2018 10:05 PM
+Would you be willing to speak on what you guys use at Untapt? Like, are dense models used in real world applications or are dense models more easily digestible so it makes sense to speak on dense models in this sort of learning format
+
+Shannon C 8/16/2018 10:32 PM
+https://www.netflix.com/watch/80190844
+
+Shannon C 8/16/2018 10:35 PM
+https://gym.openai.com/envs/CartPole-v1/
+
+Shannon C 8/16/2018 10:39 PM
+See the green resources widget for the links!
+
+Shannon C 8/16/2018 10:41 PM
+https://github.com/the-deep-learners/TensorFlow-LiveLessons
+
+Ibrahim A 8/16/2018 10:46 PM
+Q: Do we have different results if we used random seed !
+
+Marin M 8/16/2018 10:54 PM
+Would you mind sharing your screen as you go through it
+
+Marin M 8/16/2018 10:55 PM
+Haha all good
+
+AMIT D 8/16/2018 10:56 PM
+are you saying that we should run this on our machine and not on jupyterhub?
+
+Rohit P 8/16/2018 10:56 PM
+where can i find the docker image ?
+
+Matej K 8/16/2018 10:57 PM
+https://resources.oreilly.com/live-training/deep-learning/blob/master/Dockerfile
+
+Rohit P 8/16/2018 10:57 PM
+thanks
+
+Shannon C 8/16/2018 10:57 PM
+Thanks Matej!
+
+Ibrahim A 8/16/2018 11:16 PM
+Q: is (mini-batch size) * (epochs) = (Training set Size) ?
+
+Clair G 8/16/2018 11:28 PM
+I am the only one to not hear the begginning of the talk ?
+
+Shannon C 8/16/2018 11:28 PM
+Hi Clair - The audio is streaming well.
+
+Shannon C 8/16/2018 11:28 PM
+Please try refreshing your browser if you are experiencing audio issues. Thanks!
+
+User 1 8/17/2018 12:00 AM
+can you please post it here as well?
+
+Shannon C 8/17/2018 12:02 AM
+To pull a docker image based on Dockerfile- *gpu* : docker pull godot80/tf-livelessons I can build the other one docker pull godot80/tf-livelessons-no-gpu for the non gpu Dockerfile
+
+Shannon C 8/17/2018 12:23 AM
+Please take a minute to give us your feedback on the course: https://www.safaribooksonline.com/live-training/courses/deep-reinforcement-learning/0636920183198/survey/. Thank you!
+
+
+ Submit
+
+Resource List
+Jupyterhub
+Jupyterhub
+Gitlab Course Repo
+Gitlab Course Repo
+Slides
+Slides
+Deep Reinforcement Learning Theory
+Deep Reinforcement Learning Theory
+Additional Resources
+Additional Resources
+Slack Channel
+Slack Channel
+Accessing Slack
+Accessing Slack
+Group Chat Help Media Player Resource List Slides Speaker Bio
+ 

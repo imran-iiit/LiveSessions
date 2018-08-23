@@ -1,0 +1,11 @@
+https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras
+
+https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras
+
+Reference Books:
+===============
+1. http://www-bcf.usc.edu/~gareth/ISL/
+2. Elements of stAtistical Learning (free)
+3. Machine Learning an Probablitic Approach
+   https://www.deeplearningbook.org/
+4. Linear Algebra - Optional

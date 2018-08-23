@@ -1,0 +1,10 @@
+
+https://www.safaribooksonline.com/library/view/python-3-object-oriented/9781784398781/
+
+https://docs.python.org/3/tutorial/classes.html
+
+https://docs.python.org/3/library/stdtypes.html#string-methods
+
+
+https://powerfulpython.com/safari-trainings/
+

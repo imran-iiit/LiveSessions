@@ -1,0 +1,450 @@
+
+Media Player
+ LIVE 
+Group Chat
+Timestamp 
+Nurul I 8/8/2018 9:15 PM
+Hello everyone, welcome to Deep Learning for Natural Language Processing (NLP) with Jon Krohn. We hope you enjoy the class!
+
+Nurul I 8/8/2018 9:15 PM
+Please Note: The Group Chat will be part of the recording so please do not post personal information (such as email addresses) or anything confidential.
+
+Nurul I 8/8/2018 9:15 PM
+We will begin class in approximately 15 minutes
+
+Nurul I 8/8/2018 9:16 PM
+Where is everyone joining us from today?
+
+Nurul I 8/8/2018 9:16 PM
+Greetings from Chicago!
+
+Nurul I 8/8/2018 9:16 PM
+Here's the JupyterHub for today's session: https://0636920183143.oreilly-jupyterhub.com/
+
+Ambuj K 8/8/2018 9:22 PM
+hello i am ambuj from Pune,India
+
+Nurul I 8/8/2018 9:22 PM
+Hi Ambuj
+
+Ibrahim A 8/8/2018 9:22 PM
+This is Ibrahim, Canada
+
+Ibrahim A 8/8/2018 9:23 PM
+Hello
+
+Ambuj K 8/8/2018 9:23 PM
+Hi Nurul
+
+Nurul I 8/8/2018 9:23 PM
+Hi Ibrahim
+
+ROHIT C 8/8/2018 9:24 PM
+New Delhi, INDIA
+
+ROHIT C 8/8/2018 9:24 PM
+hi everyone
+
+Nurul I 8/8/2018 9:25 PM
+Hi Rohit
+
+Nurul I 8/8/2018 9:25 PM
+We do have a slack channel for this session. Here is the link: https://oreillyonlinetraining.slack.com/messages/GC36V46HF
+
+Nurul I 8/8/2018 9:26 PM
+You can email us at onlinetraining@oreilly.com to be added to the class slack channel. Thank you!
+
+Nurul I 8/8/2018 9:26 PM
+Please be sure to include the course title in your email.
+
+Shailesh M 8/8/2018 9:29 PM
+Hi, I am from Bangalore, India
+
+Nurul I 8/8/2018 9:29 PM
+Hi Shailesh
+
+Adam M 8/8/2018 9:30 PM
+Hi everyone from Israel
+
+Siva N 8/8/2018 9:32 PM
+hi..
+
+Gabor H 8/8/2018 9:32 PM
+Hello from Frankfurt, Germany.
+
+Siva N 8/8/2018 9:32 PM
+am from ban galore too
+
+Marco S 8/8/2018 9:32 PM
+Hi from Lima, Peru
+
+Siva N 8/8/2018 9:32 PM
+hello gabor
+
+Caleb D 8/8/2018 9:32 PM
+Hello from Arkansas, USA
+
+BALA VENKATESWARA RAO G 8/8/2018 9:32 PM
+hi from india
+
+Nurul I 8/8/2018 9:33 PM
+Class has started, you should all be hearing Jon now
+
+Paul H 8/8/2018 9:33 PM
+hi all
+
+Harshit A 8/8/2018 9:33 PM
+Hi all
+
+Ashuthosh B 8/8/2018 9:33 PM
+Hi Jon, Ashuthosh here from Pune, India
+
+Ibrahim A 8/8/2018 9:33 PM
+Hi Jon
+
+Ashuthosh B 8/8/2018 9:33 PM
+Hi All
+
+Piyush M 8/8/2018 9:33 PM
+Hi all, Piyush from Boston, MA
+
+Siva N 8/8/2018 9:33 PM
+Hi all
+
+Nurul I 8/8/2018 9:34 PM
+Please be sure to submit your answers to the poll question in your ‘Slides’ area
+
+Raju Kumar A 8/8/2018 9:34 PM
+Hi all from India
+
+János G 8/8/2018 9:35 PM
+Hungary
+
+Jason P 8/8/2018 9:35 PM
+Delaware
+
+Anish X 8/8/2018 9:35 PM
+Analyst + prod mngmnt
+
+Nurul I 8/8/2018 9:36 PM
+Please feel free to post your questions in the group chat or the slack channel. Be sure to preface your questions with a “Q” to make sure it is seen as questions for Jon and not just comments.
+
+Nurul I 8/8/2018 9:36 PM
+Slack URL: https://oreillyonlinetraining.slack.com/messages/GC36V46HF
+
+Nurul I 8/8/2018 9:38 PM
+Here's the JupyterHub for today's session: https://0636920183143.oreilly-jupyterhub.com/
+
+Nurul I 8/8/2018 9:38 PM
+You can get a copy of today’s materials at any time from the resource widget (green file folder) in your widget tray
+
+Ashuthosh B 8/8/2018 9:43 PM
+Nurul, I cannot login to slack for some reason
+
+Ashuthosh B 8/8/2018 9:43 PM
+is credentials same as safari a/c
+
+Nurul I 8/8/2018 9:44 PM
+@Ashuthosh, please email us at onlinetraining@oreilly.com. Thank you!
+
+NISHI K 8/8/2018 9:44 PM
+you need to create a new account ovr thr
+
+Ashuthosh B 8/8/2018 9:44 PM
+ok thanks
+
+Nurul I 8/8/2018 9:44 PM
+You are welcome
+
+ROHIT C 8/8/2018 9:46 PM
+How to apply deep learning on website ?
+
+Paul H 8/8/2018 9:47 PM
+Q you mentioned prices and language... what about dialiects? For example a trader might IM "b brt Z18" meaning buy the Brent Dec 18 contract" Tractable?
+
+ROHIT C 8/8/2018 9:48 PM
+How to interface javaScript and DL ?
+
+Caleb D 8/8/2018 9:49 PM
+rohit you might want to add "Q" to beginning of your questions
+
+Mingxiao Y 8/8/2018 9:49 PM
+where is the slack channel?
+
+Anish X 8/8/2018 9:49 PM
+convnetjs?
+
+Nurul I 8/8/2018 9:50 PM
+Here is the slack link: https://oreillyonlinetraining.slack.com/messages/GC36V46HF
+
+Colin G 8/8/2018 9:50 PM
+Nurul, when I go to the slack channel, it isn't working correctly. The names/dates are rapidly changing.
+
+Nurul I 8/8/2018 9:55 PM
+@Colin,please try this link slack.com/help/test
+
+Colin G 8/8/2018 9:56 PM
+Passed all tests
+
+ROHIT C 8/8/2018 9:59 PM
+Q. How to select best Neurons and which layers in Dense Network ?
+
+Nurul I 8/8/2018 9:59 PM
+Can you try refreshing it. Also please email us at onlinetraining@oreilly.com.
+
+Andrew G 8/8/2018 10:03 PM
+Q: So the hessian is estimated from observations of the solution trajectory?
+
+Mingxiao Y 8/8/2018 10:03 PM
+could we have some section-timing info? I'd like to come back at some point after this intro, which I'm fairly familiar with...
+
+ROHIT C 8/8/2018 10:11 PM
+Q. How to prepare datasets for DL ?
+
+Andrew G 8/8/2018 10:11 PM
+Q: Is dropout analogous to random projection?
+
+ROHIT C 8/8/2018 10:12 PM
+Q. how to interface JavaScript and DL ?
+
+User 1 8/8/2018 10:13 PM
+@Rohit please explore Tensorflow.js
+
+ROHIT C 8/8/2018 10:14 PM
+Thanks User 1
+
+Ashuthosh B 8/8/2018 10:16 PM
+Nurul, thanks for help, I could login to O'Reilly slack channel. But can't find out the room where the conversation is on
+
+Ashuthosh B 8/8/2018 10:16 PM
+can you help please
+
+Abhijit D 8/8/2018 10:17 PM
+@Nurul Do we have access to Jupyter Notebook when we are watching the class recordings.
+
+Nurul I 8/8/2018 10:17 PM
+The Jupyter notebook is available 24 hours after class ends.
+
+Ashuthosh B 8/8/2018 10:17 PM
+Here is the link Abhijit - https://0636920183143.oreilly-jupyterhub.com/hub/home
+
+Nurul I 8/8/2018 10:17 PM
+@Ashuthosh , please email us at onlinetraining@oreilly.com for slack access. Thank you
+
+Ashuthosh B 8/8/2018 10:18 PM
+Thanks Nurul
+
+Abhijit D 8/8/2018 10:19 PM
+@Nurul If I understand correctly Jupyter notebooks are available for next 24 hours only after the class and it is not available through the recording of this class
+
+Abhijit D 8/8/2018 10:19 PM
+Thanks, @Ashuthos
+
+Abhijit D 8/8/2018 10:21 PM
+@Jon can we download the notebooks to our laptop
+
+Abhijit D 8/8/2018 10:23 PM
+@Nurul What user credential for the Oreilly Gitlab. https://resources.oreilly.com/users/sign_in
+
+Nurul I 8/8/2018 10:23 PM
+That is correct @Abhijit
+
+Abhijit D 8/8/2018 10:25 PM
+@Nurul How do I sign-in to Gitlab?
+
+Nurul I 8/8/2018 10:26 PM
+@Abhijit, to clarify you can access the notebooks for sure (in the repo) but the Jupyterhub (where you run the code) goes away after 24 hours.
+
+Nurul I 8/8/2018 10:26 PM
+t’s a public repo so you can actually just need to type the following in your terminal:git clone https://resources.oreilly.com/live-training/deep-learning
+
+Mingxiao Y 8/8/2018 10:27 PM
+lol thanks!
+
+Abhijit D 8/8/2018 10:30 PM
+Thanks @Nurul I was able to clone the repo
+
+Babou S 8/8/2018 10:31 PM
+import usually takes sometime
+
+Nurul I 8/8/2018 10:33 PM
+@Abhijit, Great! You are welcome!
+
+Babou S 8/8/2018 10:43 PM
+she is still appearing in the result after executing [w.lower() for w in gberg_sents[4] if w not in stpwrds]
+
+Katarina K 8/8/2018 10:46 PM
+We should also remove stop words in capital: e.g. I, The etc by using [w.lower() for w in gberg_sents[4] if w.lower() not in stpwrds]
+
+ROHIT C 8/8/2018 10:48 PM
+Q. Can Stemmer method differentiate same word but different meaning like Painting ( some time adjective use and some time Nouns) ?
+
+Soubhik R 8/8/2018 10:58 PM
+what is the github link for these resources?
+
+AdityaBhushan S 8/8/2018 10:59 PM
+https://github.com/the-deep-learners/TensorFlow-LiveLessons
+
+Soubhik R 8/8/2018 11:00 PM
+thanks
+
+S H H K SUBBI REDDY D 8/8/2018 11:08 PM
+can any one pls send iniite to subbireddy36@gmail.com for the slack shannell
+
+S H H K SUBBI REDDY D 8/8/2018 11:08 PM
+channel
+
+Nurul I 8/8/2018 11:17 PM
+Please be sure not to include your personal information in the chat box.
+
+Nurul I 8/8/2018 11:17 PM
+Email us at onlinetraining@oreilly.com to be added to the slack channel. Thank you
+
+Surnjani D 8/8/2018 11:25 PM
+Is there a list of all possible industry category I can get from NLP library?
+
+Surnjani D 8/8/2018 11:26 PM
+Industry such as health care, auto, medical, etc.
+
+Jason P 8/8/2018 11:28 PM
+lexicon = vocabulary
+
+Abhijit D 8/8/2018 11:36 PM
+@Jon word2vec should work for any language for ex: mandarin etc. Is the input to the word2vec should be native script or unicode representation is enough
+
+BALA VENKATESWARA RAO G 8/8/2018 11:41 PM
+I am working Email text analytics the mail may contains about the product name model type to but the product i need to fetch only the product name,model type or we receive a mail about the feeback about the product can anyone help on this?
+
+Soubhik R 8/8/2018 11:42 PM
+Q: Can we detect phrase using word2vec?
+
+Abhijit D 8/8/2018 11:44 PM
+@Bala what will be the output of your text analytic model? Is it a side project or work project
+
+BALA VENKATESWARA RAO G 8/8/2018 11:45 PM
+work project
+
+Jocelyn Z 8/8/2018 11:46 PM
+For wrod2vec, if there's a word that never existed in the training set, when we apply the trained model to that word what kind of result would we get back?
+
+Abhijit D 8/8/2018 11:48 PM
+@Jon - is word2vec is unsupervised learning can it be used in combination with Topic Modeling - unsupervised algorithm
+
+BALA VENKATESWARA RAO G 8/8/2018 11:50 PM
+@Abhijit D May i know which model we can use
+
+Abhijit D 8/8/2018 11:51 PM
+@Jon can you please explain what an epoch is? I confused with epoch and iterations
+
+Michael K 8/8/2018 11:52 PM
+Are there any ways of getting around the 100 words limit? What if we don't want to truncate/ pad the review?
+
+Abhijit D 8/9/2018 12:02 AM
+@Jon is their positive and negative word list to calculate the sentiment?
+
+Abhijit D 8/9/2018 12:05 AM
+@Jon how to handle reviews with sparse contents for example just one word review - good horrible must-see etc. Do we still pad these one word movie reviews
+
+Ibrahim A 8/9/2018 12:06 AM
+Audio gone
+
+Jana N 8/9/2018 12:06 AM
+no audio
+
+Patrick A 8/9/2018 12:06 AM
+Ditto
+
+Roberto W 8/9/2018 12:06 AM
+same here
+
+Pramod N 8/9/2018 12:06 AM
+No Audio
+
+Francisco A 8/9/2018 12:07 AM
+Media Player freezing
+
+Richard D 8/9/2018 12:07 AM
+player frozen 30 secs ago!
+
+Jana N 8/9/2018 12:07 AM
+yes
+
+Francisco A 8/9/2018 12:07 AM
+yes
+
+Ibrahim A 8/9/2018 12:07 AM
+yes
+
+Richard D 8/9/2018 12:07 AM
+yep
+
+Soubhik R 8/9/2018 12:07 AM
+yes
+
+Nurul I 8/9/2018 12:07 AM
+You should all hear Jon now
+
+Pramod N 8/9/2018 12:07 AM
+yes
+
+János G 8/9/2018 12:08 AM
+yes
+
+Abhijit D 8/9/2018 12:12 AM
+@Jon what is the training/testing split. Is it 99.99% training and rest test/validation dataset?
+
+Babou S 8/9/2018 12:13 AM
+where in the model I say expected outcome, like I am looking for sentiment classification.. or I am looking for misspelled word in the review..?
+
+Richard D 8/9/2018 12:19 AM
+getting a lot of deprecation warnings here!
+
+Paul H 8/9/2018 12:21 AM
+lost jon again?
+
+Paul H 8/9/2018 12:21 AM
+back again...
+
+Nurul I 8/9/2018 12:21 AM
+@Paul, please refresh
+
+Nurul I 8/9/2018 12:22 AM
+The audio should be clear for everyone
+
+User 1 8/9/2018 12:22 AM
+Yes
+
+Nurul I 8/9/2018 12:22 AM
+Thank you for confirming @User 1
+
+Paul H 8/9/2018 12:27 AM
+what is stacked LSTM?
+
+Todd M 8/9/2018 12:27 AM
+Thanks, Jon. Very informative!
+
+Jason C 8/9/2018 12:28 AM
+Thank you Jon; I've enjoyed your courses.
+
+Nurul I 8/9/2018 12:28 AM
+Thank you for attending our class!! We hope you have benefited from the course and we hope to see you on other O’Reilly Online Trainings.
+
+
+ Submit
+Resource List
+JupyterHub
+JupyterHub
+Class Repository
+Class Repository
+Download course slides here
+Download course slides here
+Additional Resources
+Additional Resources
+
+
+Slides
+ClassFeedback
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat Help Media Player Resource List Slides Speaker Bio
+ 

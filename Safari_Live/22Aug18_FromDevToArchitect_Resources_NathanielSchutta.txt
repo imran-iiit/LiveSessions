@@ -1,0 +1,8 @@
+https://content.pivotal.io/ebooks/thinking-architecturally
+
+http://nealford.com/katas/list.html
+
+http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+
+https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records
+

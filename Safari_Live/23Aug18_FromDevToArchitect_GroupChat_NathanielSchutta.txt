@@ -1,0 +1,86 @@
+
+Media Player
+ LIVE 
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat
+Timestamp 
+Andrew E 8/23/2018 9:18 PM
+Hello everyone, the presentation will resume in about 12 minutes.
+
+Andrew E 8/23/2018 9:18 PM
+Feel free to use this chat window if you have any questions, or comments in the meantime.
+
+Janet R 8/23/2018 9:41 PM
+Q: do you consider the size of the local hiring pool? Like, there are no local meetups for a particular technology and few local companies hiring for a technology?
+
+Janet R 8/23/2018 9:42 PM
+Or in another scenario, your company uses a lot of X; there aren't many people that know both X and Y, and you'd want to use engineers on both if possible
+
+Vikas G 8/23/2018 9:43 PM
+Is the session being recorded?
+
+Andrew E 8/23/2018 9:43 PM
+Yes, there will be a recording 24-48 hours after we conclude.
+
+Andrew E 8/23/2018 9:44 PM
+You should get an email notification once it posts, and you'll be able to access it through your Safari account.
+
+Hitesh Amrutlal B 8/23/2018 10:08 PM
+Yes, that will help
+
+Pablo B 8/23/2018 10:09 PM
+yes, please
+
+P G 8/23/2018 10:09 PM
+Show us your evaluation
+
+Vikas G 8/23/2018 10:26 PM
+I missed the session yesterday. Do you have any tips/steps for a (introvert) senior developer to become a architect?
+
+Nishant K 8/23/2018 10:27 PM
+If one is just going to start with a UI framework and there is absolutely no work done so far, would you recommend Angular over React?
+
+Vikas G 8/23/2018 10:28 PM
+Hi Nathaniel, do you have any other courses on safari on similar topics?
+
+Glenn L 8/23/2018 10:31 PM
+Did you ever consider Elm?
+
+Janet R 8/23/2018 10:37 PM
+re: resources for introverts - There are some good Safari learning paths and videos by Neal Ford - search on "for architects" . They aren't primarily about being an introvert, but give tools for leadership and presenting that will help
+
+James S 8/23/2018 11:20 PM
+Somebody needs to write a book for the O'Reilly "Lean x" series called "The Lean Career: Know when to Pivot"
+
+Hitesh Amrutlal B 8/23/2018 11:59 PM
+I liked the fitness function idea
+
+Luis A 8/24/2018 12:01 AM
+it is the first approach for new requeriment for an application, do you need the team work with Business Analyst, EventStorming to review the customer needs, or you meant that the requeriment went direct to the Architec Team.
+
+Luis A 8/24/2018 12:02 AM
+Yes Quality attributes.
+
+Luis A 8/24/2018 12:03 AM
+great, thanks
+
+Luis A 8/24/2018 12:22 AM
+I agree with you, I have a mentor within the company I work, and that was the first advice, soft skills improve.
+
+Luis A 8/24/2018 12:30 AM
+on regards of Modeling, recently i found this approach, http://domainstorytelling.org/ i'm giving it a try, only sharing if you are interested to take a look.
+
+Andrew E 8/24/2018 12:31 AM
+https://www.safaribooksonline.com/live-training/courses/from-developer-to-software-architect/0636920196433/survey
+
+Luis A 8/24/2018 12:31 AM
+Thanks
+
+
+ Submit
+
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

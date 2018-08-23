@@ -1,0 +1,682 @@
+Media Player
+ LIVE 
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+
+Resource List
+Slides
+Slides
+Course Repo
+Course Repo
+Group Chat
+Timestamp 
+Patrick K 8/10/2018 5:17 PM
+Hello everyone, welcome to our online course "Building a Deep Learning Model using Tensorflow and Keras" with Rudy Lai. The session will start in 14 minutes. We hope you enjoy!
+
+Patrick K 8/10/2018 5:18 PM
+Welcome to our class. I would like to remind you all about the O'Reilly code of conduct for our online and in-person events - http://www.oreilly.com/conferences/code-of-conduct.html
+
+ROHIT C 8/10/2018 5:21 PM
+Hi
+
+Rudy L 8/10/2018 5:26 PM
+what's up rohit
+
+Rudy L 8/10/2018 5:26 PM
+hello everyone. welcome back. pleased to see you all again
+
+Rudy L 8/10/2018 5:26 PM
+happy friday!
+
+ROHIT C 8/10/2018 5:27 PM
+fine sir , thanks & you
+
+ROHIT C 8/10/2018 5:31 PM
+Good evening all of you
+
+Rudy L 8/10/2018 5:31 PM
+we should be live in minutes, bear with us
+
+Patrick K 8/10/2018 5:33 PM
+You should be all hearing Rudy now and following along with his slides.
+
+ROHIT C 8/10/2018 5:34 PM
+yes
+
+Patrick K 8/10/2018 5:34 PM
+Welcome back everyone!
+
+Claudette M 8/10/2018 5:45 PM
+Is the screen being updated?
+
+Nathaniel K 8/10/2018 5:45 PM
+to get those features you need to scroll down and select the different NN parameters and add controls
+
+Patrick K 8/10/2018 5:45 PM
+Hi Claudette, yes, try refreshing your browser
+
+Patrick K 8/10/2018 5:45 PM
+It's in the media player we're seeing Rudy's screen
+
+Claudette M 8/10/2018 5:46 PM
+refreshed worked, thanks
+
+Chadwick I 8/10/2018 5:46 PM
+thats the data was classified of the data set (those 4 sets??)
+
+Chadwick I 8/10/2018 5:47 PM
+gotcha \
+
+ROHIT C 8/10/2018 5:48 PM
+How to decide regression or classification problem?
+
+Surnjani D 8/10/2018 5:49 PM
+regression problem is when the prediction is numerical, classification problem is when the prediction is categorical
+
+ROHIT C 8/10/2018 5:49 PM
+Thanks Surnjani
+
+Chadwick I 8/10/2018 5:52 PM
+When I asked about missing data ... I was thinking about what balances that
+
+User 1 8/10/2018 5:53 PM
+is there any mathematical way to quantify amount of overfitting existing in our model?
+
+Chadwick I 8/10/2018 5:55 PM
+over fitting
+
+olivia b 8/10/2018 5:56 PM
+what about underfitting?
+
+Nathaniel K 8/10/2018 5:56 PM
+Based on your last slide did denormilzation reduce overfitting?
+
+Nathaniel K 8/10/2018 5:56 PM
+*previous slide
+
+Chadwick I 8/10/2018 5:56 PM
+i was think ing same thing Nathaniel
+
+Chadwick I 8/10/2018 5:58 PM
+i like that thought I think you shared a graphic of that .. "how to visually verify over fitting
+
+Nathaniel K 8/10/2018 5:58 PM
+curious minds think alike :)
+
+User 1 8/10/2018 5:58 PM
+is it possible for both test error and train error to decline but still have overfitting?
+
+Dan S 8/10/2018 5:58 PM
+in the exponential-looking, downward-trending loss chart that evolves over time as you train, what is the meaning of the X axis?
+
+olivia b 8/10/2018 5:59 PM
+early stopping does that solve the problem of underfitting?
+
+AMIT D 8/10/2018 6:00 PM
+isn't dropout an option to reduce overfitting?
+
+Chadwick I 8/10/2018 6:00 PM
+understood
+
+olivia b 8/10/2018 6:01 PM
+what about batch normalization to deal with over fitting?
+
+olivia b 8/10/2018 6:03 PM
+can you please explain what each line code is doing? that will be really helpful for understanding thanks
+
+Nimish G 8/10/2018 6:12 PM
+in this prediction we are using test data to predict next 7 days of bitcoin close price but in real scenario test data will not be available so more than 7 days of forecasting will be done
+
+User 1 8/10/2018 6:12 PM
+i have seen X being used to indicate "feature" and y being used to indicate the "label" or predicted value. but that is not how you are using them here?
+
+Chadwick I 8/10/2018 6:16 PM
+there will always be moments like that in a model
+
+Chadwick I 8/10/2018 6:17 PM
+can we fix those things
+
+olivia b 8/10/2018 6:19 PM
+please ln 15 whats is the -1 do for the inputshape
+
+Nimish G 8/10/2018 6:19 PM
+does group size define how many days of data we need to forecast and how is this linked to period length
+
+AMIT D 8/10/2018 6:20 PM
+I had trouble importing scripts
+
+olivia b 8/10/2018 6:21 PM
+please my question is explanation for line 7 on ln15 thanks
+
+User 1 8/10/2018 6:22 PM
+How do we train large data that does not fit in memory? I see most of the models expect data in memory? Reducing batch size should not make a difference right?
+
+Nimish G 8/10/2018 6:22 PM
+we are using group size in create groups function
+
+Nimish G 8/10/2018 6:24 PM
+def create_groups(data, group_size=7): """ Creates distinct groups from a given continuous series in Activity 5
+
+olivia b 8/10/2018 6:24 PM
+my question is -1 before 7
+
+Chadwick I 8/10/2018 6:25 PM
+I put my quesion in the Q&A .. it is still a question maturing
+
+User 1 8/10/2018 6:26 PM
+thanks for clarifying X and Y. Just FYI - i have seen small letter "y" to indicate "label" or the predicted value, so i was expecting to see small y
+
+Patrick K 8/10/2018 6:26 PM
+Thanks Chadwick!
+
+olivia b 8/10/2018 6:27 PM
+thanks
+
+User 1 8/10/2018 6:28 PM
+Follow up Q: so the batchsize only loads a subset of data... but shouldnt the whole data be in memory?
+
+Chadwick I 8/10/2018 6:29 PM
+yes
+
+olivia b 8/10/2018 6:29 PM
+yes
+
+Chadwick I 8/10/2018 6:30 PM
+cool .. thankyou
+
+Dennis D 8/10/2018 6:30 PM
+Hi, I just joined. I don't hear or see anything happening . Are you just having a break ?
+
+Patrick K 8/10/2018 6:31 PM
+Refresh your browser Dennis - that should fix it
+
+User 1 8/10/2018 6:31 PM
+Thanks
+
+Patrick K 8/10/2018 6:31 PM
+Rudy's answering questions (or waiting for more at the minute)
+
+Dennis D 8/10/2018 6:33 PM
+thanks, now it works !
+
+Rudy L 8/10/2018 6:33 PM
+heya dennis
+
+Patrick K 8/10/2018 6:35 PM
+Time for a cup of tea or coffee and we'll meet back here in about 12 mins now.
+
+Dennis D 8/10/2018 6:38 PM
+I researched a bit about the input for tensor flow. The 3 dimensions are X.shape = [Batch_Size, Sequence_length, Features]
+
+Dennis D 8/10/2018 6:39 PM
+Which in our case is respectively [1,76,7]
+
+Rudy L 8/10/2018 6:41 PM
+I wouldn't say that, Dennis. We need to specifically understand how keras' LSTM implementation plays with our data, and in our case its actually [features, sequence length, input size]
+
+Rudy L 8/10/2018 6:41 PM
+I'd encourage everyone to do what Dennis is doing, investigate the documentation, and make sure you understand exactly what's happening
+
+Dennis D 8/10/2018 6:43 PM
+I think I have to ponder a bit upon that :D
+
+Dennis D 8/10/2018 6:43 PM
+thanks for the answer !
+
+Rudy L 8/10/2018 6:43 PM
+did you ask about inputs being varying lenghts yesterday?
+
+Rudy L 8/10/2018 6:43 PM
+lengths?
+
+Dennis D 8/10/2018 6:44 PM
+yes, but this has cleared up (for me at least)
+
+Rudy L 8/10/2018 6:44 PM
+ok
+
+Rudy L 8/10/2018 6:44 PM
+cool
+
+Rudy L 8/10/2018 6:44 PM
+glad to hear that.
+
+Dennis D 8/10/2018 6:44 PM
+As far as I understood you can always convert it to sequences of same length
+
+Rudy L 8/10/2018 6:44 PM
+yup, with a special 'PAD' character
+
+Dennis D 8/10/2018 6:45 PM
+Yes, that's exactly what we did. Padding if it's too short and cutting of if it's too long
+
+Rudy L 8/10/2018 6:45 PM
+cool - you and your team and working with deep learning?
+
+Dennis D 8/10/2018 6:46 PM
+A while ago we did the "Quora Question Challenge
+
+Dennis D 8/10/2018 6:46 PM
+on gaggle
+
+Dennis D 8/10/2018 6:46 PM
+it was about saying whether two questions were the same. And there we had exactly the problem, that an arbirtrary question is of variable length
+
+Dennis D 8/10/2018 6:46 PM
+*kaggle
+
+Rudy L 8/10/2018 6:47 PM
+oh that one
+
+Rudy L 8/10/2018 6:47 PM
+I did that too
+
+Dennis D 8/10/2018 6:47 PM
+Well, I'll look you up on the leader board then haha
+
+Rudy L 8/10/2018 6:48 PM
+likewise
+
+Patrick K 8/10/2018 6:48 PM
+You should all be hearing Rudy again
+
+Nimish G 8/10/2018 6:49 PM
+Q: does group size define how many days of data we need to forecast and how is this linked to period length
+
+User 1 8/10/2018 6:54 PM
+but that Features X1 and X2, we dont have control of it right? That is something that needs to be learned, right?
+
+User 1 8/10/2018 6:55 PM
+We have access to just our data and the network that we create, the features etc. needs to be learned...
+
+Chadwick I 8/10/2018 6:57 PM
+But we thought we were sunk ... It overfitted then regained?
+
+olivia b 8/10/2018 6:58 PM
+when do we know when to add more features or more layers?
+
+Chadwick I 8/10/2018 6:58 PM
+that was neat!
+
+Surnjani D 8/10/2018 6:59 PM
+Is there a general guideline in terms of proportion between number of layers and number of neuron within each layer?
+
+Dennis D 8/10/2018 7:03 PM
+Just to doublecheck: For each week we want to predict, we take the last 76 weeks as input for the model ?
+
+User 1 8/10/2018 7:03 PM
+Oh, so our plain data itself will act as features. Thanks!
+
+Nimish G 8/10/2018 7:04 PM
+thanks. why there is a need to define moving window from input data for forecasting. Cant we just pass the input data and tell the trained model to forecast next 19 weeks of forecasting in our example
+
+Surnjani D 8/10/2018 7:05 PM
+How often the model need to be retrained?
+
+Nathaniel K 8/10/2018 7:06 PM
+How do the weights affect the model's ability to train? If a feature is negatively affecting the model should it be removed? And if if this is valid is their a way to determine which features have the best weights?
+
+Dennis D 8/10/2018 7:08 PM
+You could plot Train&Test-Error and see at which epoch the test-error gets worse again ?
+
+Dennis D 8/10/2018 7:13 PM
+Why is Dropout better than just using less data ?
+
+AMIT D 8/10/2018 7:13 PM
+could you explain which one is better dropout vs. L2 regularization?
+
+Claudette M 8/10/2018 7:15 PM
+Is there on-going learning in real time done in production?
+
+olivia b 8/10/2018 7:16 PM
+what about batch normalization? when updating the weights how do we deal with vanishing gradient?
+
+AMIT D 8/10/2018 7:20 PM
+I keep on getting this error "ModuleNotFoundError: No module named 'scripts.utilities'" Do I need to do anything differently?
+
+ROHIT C 8/10/2018 7:21 PM
+You should install seaborn libreary
+
+AMIT D 8/10/2018 7:21 PM
+it is not with Seaborn
+
+AMIT D 8/10/2018 7:21 PM
+it is with scripts.utilities
+
+ROHIT C 8/10/2018 7:22 PM
+Check all library install or not
+
+Piotr S 8/10/2018 7:23 PM
+AMIT: add empty text file named '__init__.py' inside 'scripts' folder and restart your notebook
+
+Nimish G 8/10/2018 7:24 PM
+can you please elaborate more on return sequences and stateful parameters
+
+AMIT D 8/10/2018 7:30 PM
+NIMISH: Thanks. I tried that, but, not helping.
+
+Dennis D 8/10/2018 7:32 PM
+AMIT: Are you opening the notebook in the original folder where it's been ?
+
+ROHIT C 8/10/2018 7:33 PM
+You need to download the utilities.py
+
+ROHIT C 8/10/2018 7:34 PM
+https://github.com/PacktPublishing/Artificial-Intelligence-with-Python/blob/master/Chapter%2002/code/utilities.py
+
+Blair M 8/10/2018 7:35 PM
+my keras isn't found; worked yesterday; will have to fix after class
+
+ROHIT C 8/10/2018 7:36 PM
+First of all you install Tensorflow
+
+Claudette M 8/10/2018 7:38 PM
+How do you use MSE, RMSE and MAPE in everyday practice?
+
+Claudette M 8/10/2018 7:41 PM
+thanks\
+
+Dennis D 8/10/2018 7:41 PM
+How did you open TensorBoard again ?
+
+AMIT D 8/10/2018 7:42 PM
+NIMISH: I had not restarted the notebook, just reread that you asked to do so. Now, I am good.
+
+Dennis D 8/10/2018 7:43 PM
+thanks !
+
+Dennis D 8/10/2018 7:43 PM
+can't see anything
+
+Patrick K 8/10/2018 7:43 PM
+Just looking at slides now Dennis
+
+Dennis D 8/10/2018 7:44 PM
+yes
+
+Patrick K 8/10/2018 7:44 PM
+aaaah
+
+Dennis D 8/10/2018 7:44 PM
+ooh the slides ok
+
+Dennis D 8/10/2018 7:44 PM
+TypeError: __init__() got an unexpected keyword argument 'serialized_options'
+
+Dennis D 8/10/2018 7:45 PM
+when I execute tensorboard --logdir=logs/
+
+Rudy L 8/10/2018 7:45 PM
+are you on windows, mc or linux?
+
+Dennis D 8/10/2018 7:45 PM
+Mac
+
+Rudy L 8/10/2018 7:46 PM
+hmm
+
+Rudy L 8/10/2018 7:46 PM
+it seems like a tensorflow version problem
+
+Rudy L 8/10/2018 7:46 PM
+this is a bit difficul to resolve over the internet ..
+
+Rudy L 8/10/2018 7:47 PM
+the way around this would be to recreate the model yourself, and train it on your version of TF. Then your Tensorboard should work with it
+
+Surnjani D 8/10/2018 7:47 PM
+I also have problem with tensorbaord
+
+Surnjani D 8/10/2018 7:48 PM
+I am using Mac
+
+Dennis D 8/10/2018 7:48 PM
+ok, I'll see if I can get it working
+
+Surnjani D 8/10/2018 7:49 PM
+it is working now
+
+Dennis D 8/10/2018 7:49 PM
+├── Activity_6_Creating_an_active_training_environment.ipynb ├── bitcoin_lstm_v0.h5 ├── bitcoin_lstm_v0_trained.h5 ├── data │   ├── test_dataset.csv │   └── train_dataset.csv ├── logs │   └── bitcoin_lstm_v0_run_0 │   ├── events.out.tfevents.1513577684
+
+Dennis D 8/10/2018 7:49 PM
+Sorry, wanted to print my tree structure, but that doesn't really work here
+
+Rudy L 8/10/2018 7:51 PM
+Dennis, so you got it working?
+
+Dennis D 8/10/2018 7:55 PM
+no, so from the requirements.txt I assume the package I need is: tensorflow-tensorboard== 0.4.0rc3 ?
+
+Rudy L 8/10/2018 7:55 PM
+are you familiar with using virtualenv do install the requirements.txt?
+
+Dennis D 8/10/2018 7:55 PM
+Or do I need to install anything else then defined in requirements.txt ?
+
+Dennis D 8/10/2018 7:55 PM
+Yes, that's what I did: virtualenv and pip install -r requirements.txt
+
+Rudy L 8/10/2018 7:56 PM
+hmm
+
+Rudy L 8/10/2018 7:56 PM
+I am not entirely sure what the problem is then, srry
+
+Rudy L 8/10/2018 7:57 PM
+I think the easier route for you is to maybe not use the venv, but instead run the code in the notebooks on your local version of tensorflow, so things get compiled correctly
+
+ROHIT C 8/10/2018 7:57 PM
+No module name cryptonic
+
+Dennis D 8/10/2018 7:57 PM
+Ok no worries, I'll figure it out
+
+Surnjani D 8/10/2018 8:01 PM
+I am not sure how to use tensor board. I can run on the terminal, but nothing show up w hen I copied the URL on my browser
+
+ROHIT C 8/10/2018 8:01 PM
+I think Docker install then cryptonic works well.
+
+ROHIT C 8/10/2018 8:02 PM
+Plz tell about cryptonic
+
+Surnjani D 8/10/2018 8:11 PM
+are you saying the 2nd approach is just use the new data or you combine old and new
+
+User 1 8/10/2018 8:13 PM
+but the fit() is not incremental, right?
+
+Surnjani D 8/10/2018 8:13 PM
+can we use sample weight in DL?
+
+Surnjani D 8/10/2018 8:14 PM
+for certain use case, old sample may weight less than new data
+
+AMIT D 8/10/2018 8:14 PM
+In the cats vs dogs example, if 90% of your training data is dogs, is class balancing recommended before training a DL model?
+
+User 1 8/10/2018 8:14 PM
+oh great. Thanks
+
+User 1 8/10/2018 8:16 PM
+What is "Class Balancing"?
+
+User 1 8/10/2018 8:16 PM
+remove additional data points from the bigger class?
+
+AMIT D 8/10/2018 8:16 PM
+won't class balancing create a problem that your training distribution is different than the test distribution?
+
+Claudette M 8/10/2018 8:20 PM
+What is the Data flow with Deep Learning Model?
+
+ROHIT C 8/10/2018 8:20 PM
+Plz tell how to use Docker,Flask, etc..
+
+User 1 8/10/2018 8:20 PM
+quick overview of these technologies will be useful
+
+Claudette M 8/10/2018 8:20 PM
+Deep learning Model is not in Docker
+
+Claudette M 8/10/2018 8:22 PM
+thanks
+
+ROHIT C 8/10/2018 8:22 PM
+Thanks
+
+Karan Singh G 8/10/2018 8:24 PM
+docker is infra handling
+
+Karan Singh G 8/10/2018 8:25 PM
+you run infra like process in linux
+
+Karan Singh G 8/10/2018 8:25 PM
+docker containers are processes with minimal footprint
+
+Karan Singh G 8/10/2018 8:26 PM
+install docker deamon on windows or linux
+
+ROHIT C 8/10/2018 8:31 PM
+plz share this file
+
+Chadwick I 8/10/2018 8:35 PM
+this is how to automate the process
+
+Antonio L 8/10/2018 8:41 PM
+Hi, Can the model be deployed with other technologies such as ASP.NET?
+
+Laurence Z 8/10/2018 8:42 PM
+what would be good book/resource to start learning model related stats concepts and implementation? thanks
+
+Patrick K 8/10/2018 8:42 PM
+Please post your questions for Rudy!
+
+ROHIT C 8/10/2018 8:42 PM
+sir , I have no website then how to pratice deployment DL model?
+
+Raju Kumar A 8/10/2018 8:42 PM
+what is anchor size in training??
+
+Rudy L 8/10/2018 8:43 PM
+http://www-bcf.usc.edu/~gareth/ISL/
+
+Antonio L 8/10/2018 8:43 PM
+thank you
+
+Rudy L 8/10/2018 8:43 PM
+Elements of stAtistical Learning (free)
+
+Rudy L 8/10/2018 8:44 PM
+Machine Learning an Probablitic Approach
+
+olivia b 8/10/2018 8:44 PM
+do one need to learn dockers to be able to understand how to deploy machine learning to production enviroment?
+
+Rudy L 8/10/2018 8:44 PM
+https://www.deeplearningbook.org/
+
+Nimish G 8/10/2018 8:46 PM
+were you able to get a chance to look for an example with multiple features being fed to train and predict
+
+ROHIT C 8/10/2018 8:47 PM
+After ML & DL any Skill to require to learn?
+
+olivia b 8/10/2018 8:47 PM
+thanks
+
+Dennis D 8/10/2018 8:47 PM
+I feel Deep Learning is also a lot about experience. What projects or challenges made you learn the most ?
+
+Rudy L 8/10/2018 8:47 PM
+@rudolflai
+
+prasad d 8/10/2018 8:48 PM
+can you share your mail id
+
+Rudy L 8/10/2018 8:48 PM
+linear algebra
+
+Rudy L 8/10/2018 8:48 PM
+rudy@quantcopy.com
+
+prasad d 8/10/2018 8:48 PM
+thanks
+
+ROHIT C 8/10/2018 8:48 PM
+Thanks
+
+Antonio L 8/10/2018 8:49 PM
+Rudy, one more question. What type of deep learning will be best for classification?
+
+prasad d 8/10/2018 8:50 PM
+true
+
+olivia b 8/10/2018 8:50 PM
+exactly will like to stay in touch with eveyone please
+
+olivia b 8/10/2018 8:50 PM
+should i share my email
+
+Dennis D 8/10/2018 8:50 PM
+Wow, thanks for the great answer, especially commenting on the importance of a good community !
+
+Patrick K 8/10/2018 8:51 PM
+If you'd like attendees to see it then yes Olivia. You can also share twitter handles etc. Whatever you're comfortable with really.
+
+olivia b 8/10/2018 8:51 PM
+exactly whats a good community please?
+
+Antonio L 8/10/2018 8:51 PM
+yes
+
+olivia b 8/10/2018 8:52 PM
+josiendumu@yahoo.com
+
+olivia b 8/10/2018 8:53 PM
+thanks
+
+Rudy L 8/10/2018 8:54 PM
+@rudolflai
+
+Chadwick I 8/10/2018 8:54 PM
+Thnakyou ...
+
+Patrick K 8/10/2018 8:54 PM
+Please take a minute to fill out today's survey: https://www.safaribooksonline.com/live-training/courses/building-a-deep-learning-model-using-tensorflow/0636920202288/survey
+
+prasad d 8/10/2018 8:54 PM
+thanks a lot Rudy
+
+Nathaniel K 8/10/2018 8:54 PM
+Thanks!
+
+Laurence Z 8/10/2018 8:54 PM
+thanks!
+
+Antonio L 8/10/2018 8:54 PM
+thank you
+
+Surnjani D 8/10/2018 8:55 PM
+thank you
+
+ROHIT C 8/10/2018 8:55 PM
+Thank You very much , see you again
+
+Dennis D 8/10/2018 8:55 PM
+thanks !
+
+Nithiroj T 8/10/2018 8:55 PM
+thank you
+
+olivia b 8/10/2018 8:55 PM
+thank you
+
+
+ Submit
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

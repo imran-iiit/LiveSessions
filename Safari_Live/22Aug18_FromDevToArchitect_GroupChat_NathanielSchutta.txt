@@ -1,0 +1,199 @@
+
+Media Player
+ LIVE 
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat
+Timestamp 
+Andrew E 8/22/2018 9:15 PM
+Hello everyone, the presentation will begin in about 15 minutes.
+
+Andrew E 8/22/2018 9:15 PM
+Feel free to use this chat window in the meantime if you have any questions, or comments.
+
+Andrew E 8/22/2018 9:15 PM
+Where is everyone joining us from today?
+
+Ramesh P 8/22/2018 9:21 PM
+Ramesh from India
+
+JONATHAN I 8/22/2018 9:22 PM
+Hello everyone, Jonny from the UK
+
+Glenn L 8/22/2018 9:30 PM
+Glenn from Florida.
+
+Danilo R 8/22/2018 9:31 PM
+Danilo from Brazil
+
+Hitesh Amrutlal B 8/22/2018 9:32 PM
+Hitesh from India
+
+mustafa s 8/22/2018 9:33 PM
+Hello from NY
+
+Yogdutt S 8/22/2018 9:33 PM
+Yogdutt From Bangalore
+
+Bogdan V 8/22/2018 9:33 PM
+Bogdan Brussels
+
+Nishant K 8/22/2018 9:34 PM
+Nishant from Bangalore
+
+Si F 8/22/2018 9:35 PM
+Good morning from Seattle.
+
+Davi G 8/22/2018 9:37 PM
+Hello from Brazil
+
+Nicholas A 8/22/2018 9:39 PM
+Do you have any example Katas that come with solutions?
+
+Nicholas A 8/22/2018 9:41 PM
+That's true, although it is nice to compare your solutions with what others have come up with
+
+Evgenii S 8/22/2018 9:41 PM
+will You tell us about next stage to become Technical Architect?
+
+Senthilkumar A 8/22/2018 9:41 PM
+Senthilkumar from Bangalore
+
+Nguessan K 8/22/2018 9:42 PM
+Nguessan from Baltimore
+
+Si F 8/22/2018 9:42 PM
+Q: "Software Architect", "Solution Architect", "enterprise architect", etc. how are these different if any?
+
+Evgenii S 8/22/2018 9:42 PM
+Evgenii from Latvia, Riga
+
+Xiaojun Y 8/22/2018 9:45 PM
+Tony from Canada
+
+Virendra J 8/22/2018 9:45 PM
+Virendra from India
+
+vimal k 8/22/2018 9:46 PM
+hi from Munich
+
+Nicholas A 8/22/2018 9:53 PM
+I may be jumping the gun, so if this is going to be discussed in future slides, I'll wait, but as an architect how do you keep up to date w/ the latest tools/techniques/etc.? Or do you view the concerns that an architect has to manage or technology agnost
+
+Nicholas A 8/22/2018 9:53 PM
+ic?
+
+Nicholas A 8/22/2018 9:54 PM
+*or -> are
+
+JONATHAN I 8/22/2018 9:55 PM
+Did anyone else try to wipe that black mark on the slide off their screen?
+
+Nicholas A 8/22/2018 9:55 PM
+Awesome, thanks
+
+asri a 8/22/2018 9:55 PM
+Hi from Indonesia.
+
+JONATHAN I 8/22/2018 9:56 PM
+Oh year, it was the mouse
+
+Nicholas A 8/22/2018 10:08 PM
+How do you handle such situations, when you've never done it before, what is your strategy for handling it? This is what I find most intimidating about the architectural role.
+
+Janet R 8/22/2018 10:11 PM
+Q: How far ahead do you think about the architectural decisions you make? Like, do you think how it will hold up in a year, five years, six months?
+
+Janet R 8/22/2018 10:12 PM
+My tendency is to think, "would I want to live in this codebase in a year", and I rely a lot on past mistakes to estimate livability. I wonder if you have a more formal approach
+
+Nicholas A 8/22/2018 10:12 PM
+Thanks
+
+Janet R 8/22/2018 10:12 PM
+but you can get too precious about it
+
+Janet R 8/22/2018 10:14 PM
+thanks
+
+Janet R 8/22/2018 11:34 PM
+Q: How do you encourage people to do their homework beforehand? e.g. to review a document beforehand
+
+Danilo R 8/22/2018 11:35 PM
+Q: About those customers who always entered in the middle of a meeting to show power, did you managed to fix this behaviour?
+
+Janet R 8/22/2018 11:35 PM
+Would it help to say "we are making Decision X in this meeting so please come ready with questions"?
+
+Janet R 8/22/2018 11:36 PM
+It's been "part of our culture" at most companies to not read ahead of time.
+
+erics h 8/22/2018 11:37 PM
+some product manager knows alot about software architecture; how closely architect work with product manager?
+
+P G 8/22/2018 11:40 PM
+As a senior product leader, what are the best ways for me to work with an architect?
+
+erics h 8/22/2018 11:40 PM
+questions should be addressed in Q&A
+
+Janet R 8/22/2018 11:45 PM
+Do you usually have someone take notes? Do they get read? How do you share the responsibility?
+
+Janet R 8/22/2018 11:45 PM
+^^ take notes in a meeting, that is
+
+Janet R 8/22/2018 11:46 PM
+thanks
+
+James S 8/22/2018 11:51 PM
+Re: "Five years from now we will be using something that isn’t invented yet." We (typically) have the opposite problem in the public sector. Any advice for moving things along?
+
+James S 8/22/2018 11:54 PM
+10 at least. ;)
+
+James S 8/22/2018 11:55 PM
+Thanks
+
+Luis A 8/22/2018 11:56 PM
+Great Training material. Thinking Architecturally
+
+Glenn L 8/22/2018 11:56 PM
+There seems to be a trend lately that languages are being provided with their own code formatting tools such that there are no more discussions about style, which I find very refreshing.
+
+Nishant K 8/22/2018 11:58 PM
+Talk about braces, seen it enough :)
+
+James S 8/23/2018 12:00 AM
+@Glenn Agree. If a language requires me to include semi-colons at the end of lines to satisfy the parser/compiler, dictating other formatting decisions makes perfect sense.
+
+Glenn L 8/23/2018 12:11 AM
+@James - definitely. Also, integration with all known editors with "format-on-save" just makes programming fun again (with the additional caveat that the compiler must be blinding fast). :-)
+
+Janet R 8/23/2018 12:27 AM
+Q: any favorite techniques for retaining knowledge you are no longer using day to day?
+
+Janet R 8/23/2018 12:30 AM
+Thanks, s ee you tomorrow!
+
+Nilang P 8/23/2018 12:30 AM
+Thank you!
+
+
+ Submit
+
+Resource List
+Thinking Architecturally
+Thinking Architecturally
+Architectural Katas
+Architectural Katas
+Documenting Architecture Decisions
+Documenting Architecture Decisions
+Lightweight Architecture Decision Records
+Lightweight Architecture Decision Records
+Webinar Slides
+Webinar Slides
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

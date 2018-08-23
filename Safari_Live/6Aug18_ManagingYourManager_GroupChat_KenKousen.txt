@@ -1,0 +1,945 @@
+
+Media Player
+ LIVE 
+Resource List
+Webinar Slides
+Webinar Slides
+Group Chat
+Timestamp 
+Andrew E 8/6/2018 5:15 PM
+Hello everyone, the presentation will begin in about 15 minutes.
+
+Andrew E 8/6/2018 5:16 PM
+Feel free to use this chat window if you have any questions, or comments in the meantime.
+
+Andrew E 8/6/2018 5:17 PM
+Where is everyone joining us from today?
+
+Attila F 8/6/2018 5:18 PM
+NYC
+
+Wojciech O 8/6/2018 5:20 PM
+Gibraltar
+
+Attila F 8/6/2018 5:21 PM
+Cool place. Do you commute crossing the runway?
+
+Dean V 8/6/2018 5:30 PM
+Gibraltar too
+
+Justin H 8/6/2018 5:30 PM
+Morning all! 5am in Seattle. :)
+
+Trevor K 8/6/2018 5:32 PM
+UK
+
+Jennifer B 8/6/2018 5:32 PM
+Nashville
+
+Mario Alberto P 8/6/2018 5:32 PM
+Mexico
+
+Sarvajeet S 8/6/2018 5:32 PM
+India
+
+Justin H 8/6/2018 5:32 PM
+We have lots of coffee.
+
+Sachin G 8/6/2018 5:32 PM
+Perth
+
+Jeevan D 8/6/2018 5:32 PM
+Hello from Bangalore, 5 30 PM
+
+Sachin G 8/6/2018 5:32 PM
+Hi Ken Good morning, from Minneapolis MN
+
+Vladimir B 8/6/2018 5:32 PM
+Berlin
+
+Aleksandar V 8/6/2018 5:33 PM
+Hello from Prague
+
+Jan D 8/6/2018 5:33 PM
+Prague
+
+Shalabh Kumar G 8/6/2018 5:33 PM
+Bangalore
+
+Dmitry D 8/6/2018 5:33 PM
+Belarus, Minsk
+
+Songezo N 8/6/2018 5:33 PM
+South Africa
+
+Zsolt K 8/6/2018 5:33 PM
+Zurich
+
+Mario Alberto P 8/6/2018 5:33 PM
+Guadalajara, Mexico
+
+Trevor K 8/6/2018 5:33 PM
+500 m from Scotland
+
+Sarvajeet S 8/6/2018 5:33 PM
+New Delhi, India
+
+Elena M 8/6/2018 5:33 PM
+Hello from Bucharest!
+
+Annie V 8/6/2018 5:33 PM
+Hi from Gibraltar! :)
+
+Rob S 8/6/2018 5:33 PM
+Hi from Vienna, Austria!
+
+Kameswararao T 8/6/2018 5:34 PM
+Kamesh from Pune
+
+Kameswararao T 8/6/2018 5:34 PM
+9
+
+Kameswararao T 8/6/2018 5:34 PM
+Kamesh from Pune(India)
+
+Noel L 8/6/2018 5:35 PM
+Hello from Hong Kong
+
+Noel L 8/6/2018 5:36 PM
+8pn now lol
+
+Maria M 8/6/2018 5:40 PM
+is there a way to make the media player window full screen?
+
+William O 8/6/2018 5:40 PM
+Hello everyone
+
+Andrew E 8/6/2018 5:40 PM
+Yes, there is a control to maximize the media window.
+
+Andrew E 8/6/2018 5:41 PM
+You should also be able to click and drag to expand the borders.
+
+Maria M 8/6/2018 5:41 PM
+I've made it as big as I can but it's not full screen
+
+Attila F 8/6/2018 5:41 PM
+You need to make your browser full screen first
+
+Clemence C 8/6/2018 5:41 PM
+No, you click again on the "youtube" looking red button on the bottom to minimise the open window
+
+Attila F 8/6/2018 5:41 PM
+That window cannot escape the browser window
+
+Clemence C 8/6/2018 5:41 PM
+The integrated Slide has the full view option on the top right corner
+
+Clemence C 8/6/2018 5:42 PM
+(the one the the 4 arrows into each side)
+
+Maria M 8/6/2018 5:42 PM
+Got it, thanks all
+
+Clemence C 8/6/2018 5:42 PM
+The downside: you can not see the chats. However, you can open two windows and put into two screens and mute one media player.
+
+Justin H 8/6/2018 5:43 PM
+Nice tip, thanks Clemence :)
+
+Clemence C 8/6/2018 5:44 PM
+Of course. We are here to help each other, right? :)
+
+Attila F 8/6/2018 5:45 PM
+Hm. I don't have that 4 arrows button thing. Weird.
+
+Clemence C 8/6/2018 5:46 PM
+Click again on the red button with the "youtube" / screen
+
+Clemence C 8/6/2018 5:46 PM
+You will see the "Slides" window integrated into the page, and the pop-up screen of the slides will minimise. The integrated screen has the 4 arrows button on the top right corner
+
+Attila F 8/6/2018 5:46 PM
+There is no red button. Not important. Just weird.
+
+Justin H 8/6/2018 5:47 PM
+I didn't have that either, fwiw
+
+Clemence C 8/6/2018 5:48 PM
+https://prnt.sc/kfa3pz
+
+Clemence C 8/6/2018 5:48 PM
+Those you don't have?
+
+Attila F 8/6/2018 5:48 PM
+Not in the media window
+
+Clemence C 8/6/2018 5:48 PM
+Yes, you need to minimise the media window.
+
+Attila F 8/6/2018 5:49 PM
+That is the window I want to maximize :)
+
+Justin H 8/6/2018 5:49 PM
+No. I'm using Chrome on Linux, so things are sometimes half-implemented. ;)
+
+Attila F 8/6/2018 5:49 PM
+So minimizing it is not the way to go ;)
+
+Andrew E 8/6/2018 5:52 PM
+The Widget tray towards the bottom of the screen will allow you to display slides, or screenshare. You can click to drag the borders of either window as you prefer. I would generally advise keeping both slides, and media up to ensure no content is missed.
+
+Andrew E 8/6/2018 5:53 PM
+But maximizing either window can sometimes improve resolution/visibility.
+
+Attila F 8/6/2018 5:56 PM
+Cool
+
+Attila F 8/6/2018 5:58 PM
+I was lucky, I only had one really bad manager in my life.
+
+Clemence C 8/6/2018 6:00 PM
+Thanks Ken, that's really good advice also to "how to become a great manager".
+
+Clemence C 8/6/2018 6:01 PM
+Yes
+
+Clemence C 8/6/2018 6:01 PM
+Berlin :)
+
+Akshay M 8/6/2018 6:02 PM
+India
+
+Akshay M 8/6/2018 6:03 PM
+Mumbai
+
+Maria M 8/6/2018 6:04 PM
+Interesting. I find the higher level mgmt. to be much worse
+
+Jackie C 8/6/2018 6:05 PM
+I agree Maria
+
+Martha B 8/6/2018 6:06 PM
+I think the Level is not that important as people across all hierarchy Levels have Problems in Managing their managers
+
+Martha B 8/6/2018 6:06 PM
+Will you cover all Level Problems?
+
+Maria M 8/6/2018 6:07 PM
+general is good. looking forward to hearing it
+
+Trevor K 8/6/2018 6:07 PM
+totally agree, Martha B
+
+Attila F 8/6/2018 6:12 PM
+I think the higher level the manager is they have less and less time. As they have more and more people to manage. And some people just run out of patience.
+
+Efrem L 8/6/2018 6:15 PM
+Too much overlap is a problem also, I've seen managers who are really bad because they are TOO focused on what the subordinate is supposed to be doing and not enough on higher level concerns (from Madison,WI)
+
+Clemence C 8/6/2018 6:16 PM
+@Efrem - true, but what do you do if your subordinate is not doing the job well enough to your standards?
+
+Attila F 8/6/2018 6:16 PM
+Yeah. That was my bad manager. He was programming instead of managing.
+
+Noel L 8/6/2018 6:16 PM
+micro managing that is
+
+Dustin D 8/6/2018 6:16 PM
+I had an experience with this on Saturday while getting my hair cut
+
+Dustin D 8/6/2018 6:17 PM
+a new "upscale" barber
+
+Dustin D 8/6/2018 6:17 PM
+one of the owners was was chastising another barber
+
+Dustin D 8/6/2018 6:18 PM
+it was uncomfortable
+
+Attila F 8/6/2018 6:18 PM
+I walked out of a restaurant once because of the way a manager was talking to a waiter
+
+Trevor K 8/6/2018 6:19 PM
+I'm a manager and one of the most frustrating things is when you are trying to help an associate. You ask for info and instead of a synopsis you get a link to 15 jira's , ie all the detail and no actual description of what they actually need.
+
+Attila F 8/6/2018 6:21 PM
+You don't need to take it personally. Just ask them to summarize. Delegate. :)
+
+Dustin D 8/6/2018 6:21 PM
+Maybe they don't understand what you can offer to help
+
+Justin H 8/6/2018 6:24 PM
+In IT, I often ask people to describe their "problem" to me, not their "solution" to the problem. I'll figure out the technical solution. Things are easier for all of us that way. ;)
+
+Maria M 8/6/2018 6:24 PM
+:D
+
+Dustin D 8/6/2018 6:25 PM
+As a senior engineer, that wouldn't work well for me... seems like it wouldn't offer room for growth
+
+Dustin D 8/6/2018 6:25 PM
+I had a manager that always had the "solution"
+
+Trevor K 8/6/2018 6:25 PM
+Yep, that's my point some folks really have trouble stating their problem concisely , that causes a communication gap
+
+Dustin D 8/6/2018 6:25 PM
+it didn't work well
+
+Justin H 8/6/2018 6:25 PM
+No, it wouldn't. :(
+
+Maria M 8/6/2018 6:25 PM
+I can't wait to watch this movie!
+
+Dustin D 8/6/2018 6:26 PM
+it might work in situations where the team is all junior folks
+
+Dustin D 8/6/2018 6:26 PM
+there is a Steve Job quote about this
+
+Dustin D 8/6/2018 6:26 PM
+Jobs*
+
+Dustin D 8/6/2018 6:26 PM
+not always the best example of a leader
+
+Trevor K 8/6/2018 6:26 PM
+it's good . It was my English Lit set work
+
+Dustin D 8/6/2018 6:27 PM
+"It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do."
+
+Attila F 8/6/2018 6:28 PM
+Dustin, I think the situation was when people work themselves into a corner. I see it daily. They are trying to solve a hard technical problem that does not need solving because the real issue (use case, whatever) does not need that solution.
+
+Dustin D 8/6/2018 6:29 PM
+Right, but as we were talking about with postponing meetings, it is easy to develop a habit
+
+Dustin D 8/6/2018 6:29 PM
+So, how can someone turn a tough situation into an opportunity to help someone work through something
+
+Dustin D 8/6/2018 6:29 PM
+collaborative rather than top down might be a good approach
+
+Dustin D 8/6/2018 6:30 PM
+I doubt there is any one-size fits all way, though
+
+Attila F 8/6/2018 6:30 PM
+Some people develop a habit of loving to solve difficult issues even if there is none. Like people trying to solve every problem with template metaprogramming in C++ and not getting real work done.
+
+Attila F 8/6/2018 6:31 PM
+So this coin has two sides :)
+
+Justin H 8/6/2018 6:31 PM
+so true XD
+
+Maria M 8/6/2018 6:33 PM
+Loyalty has to be earned
+
+Attila F 8/6/2018 6:34 PM
+herding cats :)
+
+Serghei R 8/6/2018 6:42 PM
+Will we get a recording even if we attended training ?
+
+Serghei R 8/6/2018 6:42 PM
+thank you
+
+William O 8/6/2018 6:43 PM
+8:13 am in Cali, Colombia, see you in a bit.
+
+Kenneth K 8/6/2018 6:43 PM
+Resuming in 10 minutes...
+
+Kenneth K 8/6/2018 6:49 PM
+About 3 minutes to go...
+
+Clemence C 8/6/2018 6:54 PM
+I have a question: I have understood so far the motivations of my manager, but how do you deal with a manager who is not sharing more details that could benefit my work?
+
+Dustin D 8/6/2018 6:55 PM
+I have had that myself
+
+Dustin D 8/6/2018 6:55 PM
+Manager took thorough notes while explaining what he wanted, but never shared the notes
+
+Dustin D 8/6/2018 6:56 PM
+technical aspects should be communicated in writing
+
+Dustin D 8/6/2018 6:56 PM
+if you have an IP address or a configuration setting
+
+William O 8/6/2018 6:57 PM
+Clemence, is it possible to have meetings with your manager's manager?
+
+William O 8/6/2018 6:58 PM
+We can do that when feels or see that, that's happening
+
+William O 8/6/2018 6:58 PM
+plus, it is a great opportunity for additional feedback.
+
+Sandy E 8/6/2018 6:59 PM
+I take notes on every conversation I have with my team members. I would recommend taking your own notes, and then ask questions if something is unclear or you think both of you are saying different things.
+
+Justin H 8/6/2018 6:59 PM
+In my case my manager's manager is actually more difficult than my direct manager (smaller company, so they're both "sort of" my managers)
+
+Sandy E 8/6/2018 7:00 PM
+Skip level meetings are great (I encourage my people to do them), but don't have a skip level to complain. Plan to talk about your work, your contribution, company strategy, etc. - don't just use it as gripe session!
+
+Clemence C 8/6/2018 7:01 PM
+Just thought about it. Ken is right, I as a manger would also expect my subs to take notes and provide solutions to discuss together in multiple iterations. I don't necessarily need my managers notes in first place.
+
+Justin H 8/6/2018 7:01 PM
+Great note though, Sandy (pun intended ;) sorry, early here). That is certainly helpful though.
+
+Dustin D 8/6/2018 7:02 PM
+There is other nuance to the situation... these were impromptu discussions... he would sneak up like a ninja almost. Not prepared to take notes... and I will stand by my statement, if you're communicating a server name, IP address, or anything specific
+
+Dustin D 8/6/2018 7:02 PM
+it should be communicated in writing, even if as follow up
+
+Dustin D 8/6/2018 7:02 PM
+mispellings and things are too easy
+
+Attila F 8/6/2018 7:02 PM
+So tell him.
+
+Dustin D 8/6/2018 7:03 PM
+Attila, this is not a current issue for me
+
+Dustin D 8/6/2018 7:03 PM
+this happened over a decade ago
+
+Dustin D 8/6/2018 7:03 PM
+I am just sharing some examples of issues; we all have them
+
+Elaine M 8/6/2018 7:03 PM
+One of the first things I was taught in the business world is that my job was to make my manager look good
+
+Attila F 8/6/2018 7:03 PM
+And I am sharing the solution. Talk to him.
+
+Maria M 8/6/2018 7:05 PM
+I don't understand how a manager can be afraid. Failure is only bad if you learn nothing from it. If you've done the best you can do, what is there to be afraid of?
+
+Dustin D 8/6/2018 7:05 PM
+Maria, maybe they also don't think their manager is great
+
+Attila F 8/6/2018 7:05 PM
+They are afraid because they are most expendable.
+
+Attila F 8/6/2018 7:05 PM
+In certain companies.
+
+Attila F 8/6/2018 7:06 PM
+In the ones I have been the managers has never got laid off.
+
+Dustin D 8/6/2018 7:06 PM
+I think it is the same for all of us... we get can get focused on the daily tasks rather than further down the road
+
+Clemence C 8/6/2018 7:06 PM
+I would say it's a psychological effect. Only "stupid" people would think they are great and make no mistakes. Of course managers always question themselves first and seek mistakes by themselves.
+
+Dustin D 8/6/2018 7:06 PM
+"how can we deliver value" is a question that any of us can ask ourselves to realign or vision down the road
+
+Clemence C 8/6/2018 7:07 PM
+That gives the motivation to improve and grow. Growth happens at a thin line between discomfort and comfort. While only stress and discomfort helps you to grow.
+
+Dustin D 8/6/2018 7:07 PM
+it can help eliminate the feeling of being expendable
+
+Dustin D 8/6/2018 7:07 PM
+if you're creating value, then you are less expendable
+
+Dustin D 8/6/2018 7:07 PM
+true for the manager and the subordinate, same at any level
+
+Dustin D 8/6/2018 7:07 PM
+not a guarantee, for sure
+
+Clemence C 8/6/2018 7:08 PM
+@Dustin I would say so. Only if you are creating value but CAN be expendable and replaceable, you can grow into much higher positions.
+
+Dustin D 8/6/2018 7:11 PM
+Definitely, if you are too indispensable in your current role, then you cannot advance because they cannot backfill your role
+
+Justin H 8/6/2018 7:11 PM
+@Dustin: re. the value, my permanent chat status at work is "What did YOU do to simplify things today? :)" (Over-engineering in the past is a major issue for us)
+
+Dustin D 8/6/2018 7:12 PM
+that is a good reminder :)
+
+Trevor K 8/6/2018 7:12 PM
+1914, they made sure there was no repeat in 1915
+
+Mike P 8/6/2018 7:22 PM
+In a big organization, I didn't find that to be the case. I saved the company ~$5 million due to recognizing a software bug and nobody but my direct manager knew. He took the credit.
+
+Mike P 8/6/2018 7:23 PM
+No, I didn't negotiate
+
+Maria M 8/6/2018 7:24 PM
+Doesn't that behaviour just let the manager know that they can get away with this as long as they know how to make you happy?
+
+Maria M 8/6/2018 7:24 PM
+Others may not be able to speak up ( a lot of people don't feel confident to do so)
+
+Maria M 8/6/2018 7:26 PM
+In technical support self-promotion is almost non-existent
+
+Dean V 8/6/2018 7:26 PM
+But some managers don't want to make you happy, they want to make their manager happy - the turn around of staff won't impact on them
+
+Maria M 8/6/2018 7:26 PM
+MAkes sense, thanks Ken
+
+Mike P 8/6/2018 7:27 PM
+Hurricane time is too late :)
+
+Justin H 8/6/2018 7:34 PM
++1!
+
+Mario Alberto P 8/6/2018 7:38 PM
+Touch points - Before the Fact - with your boss and not - After the Fact -
+
+Mario Alberto P 8/6/2018 7:41 PM
+Refrencing the point that you are going above your own boss. So things are not a supprises
+
+Clemence C 8/6/2018 7:42 PM
+What did Cuban do afterwards? And how did he recognise what was wrong/what he did wrong?
+
+Sanjay S 8/6/2018 7:43 PM
+animal farm book by George Orwell
+
+Justin H 8/6/2018 7:45 PM
+Did not know that...very cool!
+
+Maria M 8/6/2018 7:51 PM
+MY manager's manager to a T
+
+Jackie C 8/6/2018 7:52 PM
+I am such an I but I feel I must keep my door open, people exhaust me who want to stop by just to chat.
+
+Maria M 8/6/2018 7:53 PM
+Oh God, yes. I'm an I and have to deal with an E
+
+Dustin D 8/6/2018 7:53 PM
+Yep, I can attest to that
+
+Dustin D 8/6/2018 7:54 PM
+I am more extroverted at work
+
+Sanjay S 8/6/2018 7:56 PM
+How to deal with managers just talk and don't act?
+
+Susan R 8/6/2018 7:58 PM
+Excellent!
+
+Sandy E 8/6/2018 8:02 PM
+love the concept of "lead incrementally" versus "lead with the big picture"
+
+Maria M 8/6/2018 8:03 PM
+I've not yet seen the last one but so far I'm complete opposite to my maanger
+
+Maria M 8/6/2018 8:04 PM
+:D YES! Sensor here!
+
+Tobias F 8/6/2018 8:05 PM
+Thinking vs Feeling: What about people who logically figure in the edge cases and people involved? I think one can strongly do both at the same time, so the example behaviors are not as orthogonal as a sliding scale would suggest
+
+Maria M 8/6/2018 8:10 PM
+I've had the 'Please Understand Me II' book for about 20 years
+
+Maria M 8/6/2018 8:10 PM
+Well worth it
+
+Maria M 8/6/2018 8:10 PM
+I'll look it up!
+
+Maria M 8/6/2018 8:11 PM
+found it already :D
+
+Adedayo A 8/6/2018 8:13 PM
+My company required me to take this and I somehow got Guardian, however, I never use a to-do list/agenda in my life, but I do enjoy finishing things.
+
+Adedayo A 8/6/2018 8:14 PM
+Oh ok, so more like steps to follow/rules/regulation. I understand now.
+
+Vladimir B 8/6/2018 8:14 PM
+what if I use checlist for myself for the prioritization of the tasks?
+
+8/6/2018 8:14 PM
+yeah, like agile?
+
+Maria M 8/6/2018 8:14 PM
+I think these are just broad examples
+
+8/6/2018 8:14 PM
+or kanban
+
+Maria M 8/6/2018 8:14 PM
+You really need to read more about these temperaments to understand them
+
+Susan R 8/6/2018 8:16 PM
+Plus, the point is to understand what works with our "managers"
+
+Kameswararao T 8/6/2018 8:18 PM
+When you present an Idea, your manager asks ROI without investing time and resource, can you share your experience.
+
+Kameswararao T 8/6/2018 8:19 PM
+Sure
+
+Vladimir B 8/6/2018 8:21 PM
+NF manager micromanages?
+
+Vladimir B 8/6/2018 8:25 PM
+then, how SP could manage people? If he cannot control his motivation, he would demotivate others. From what I understood
+
+Vladimir B 8/6/2018 8:25 PM
+so, then need to constantly control themselves?..
+
+Maria M 8/6/2018 8:26 PM
+I think many people do jobs that don't naturally suit them
+
+Maria M 8/6/2018 8:26 PM
+That doesn't mean they can't do the job
+
+Susan R 8/6/2018 8:29 PM
+Yes, knowing how we can be more successful in our relationship.
+
+Maria M 8/6/2018 8:30 PM
+LOL Unless I missed it, we only took one break :D The S in me is waiting for the third break LOL
+
+Kenneth K 8/6/2018 8:30 PM
+Resuming in 10 minutes
+
+Maria M 8/6/2018 8:31 PM
+It was interesting!
+
+Kenneth K 8/6/2018 8:31 PM
+Glad to hear it :)
+
+Justin H 8/6/2018 8:35 PM
+Agreed. All of this is very directly applicable to my work life right now, and will literally affect how I handle some things *today.* Zero regrets about getting up at 4:45am so I can be here. :)
+
+Trevor K 8/6/2018 8:36 PM
+wish I'd learnt the tick box strategy 4 jobs ago :-)
+
+Kenneth K 8/6/2018 8:36 PM
+Wow, Justin, that's great to hear
+
+Tobias F 8/6/2018 8:38 PM
+Excellent answer back there! Your explanation cleared up a big misconception I held about personality dimensions. I'll definitely read more about them now
+
+Kenneth K 8/6/2018 8:39 PM
+Great. There's an awful lot of misuse and miscommunication about them, and if you apply them in situations that you shouldn't of course they look bad. I just like the aspects I'm highlighting
+
+Maria M 8/6/2018 8:41 PM
+What's this piece of music, btw?
+
+Maria M 8/6/2018 8:43 PM
+:D
+
+Maria M 8/6/2018 8:43 PM
+Love it
+
+Richard T 8/6/2018 8:43 PM
+orchestra?
+
+Mike P 8/6/2018 8:43 PM
+Ken, sounds like you have a mechanical keyboard? :)
+
+Justin H 8/6/2018 8:43 PM
+The only way to type. ;)
+
+Attila F 8/6/2018 8:44 PM
+I just wanted to say that
+
+Attila F 8/6/2018 8:44 PM
+That it is the butterfly Mac
+
+Attila F 8/6/2018 8:44 PM
+That's why I have a 2015 Mac
+
+Maria M 8/6/2018 8:44 PM
+English Baroque Soloists is the orchestra
+
+Maria M 8/6/2018 8:45 PM
+https://www.amazon.co.uk/Bach-Brandenburg-Concertos-Johann-Sebastian/dp/B002NCUEZY
+
+Richard T 8/6/2018 8:45 PM
+cool. thanks
+
+Attila F 8/6/2018 8:45 PM
+Rossmangroup in NYC will fix that for you
+
+Attila F 8/6/2018 8:46 PM
+Rossmanngroup, two n's
+
+Maria M 8/6/2018 8:50 PM
+I know micromanaging is coming up but this particular responsiveness just causes insane overhead when you're trying to finish a job and the manager keeps drowning you in questions
+
+Maria M 8/6/2018 8:50 PM
+how do I deal with that?
+
+Trevor K 8/6/2018 8:51 PM
+I love this sort of answer, precisely for the reason just stated
+
+Maria M 8/6/2018 8:51 PM
+unfortunately, an answer begets more questions for me :(
+
+Attila F 8/6/2018 8:52 PM
+Ask him if he wants you to stop your work?
+
+Trevor K 8/6/2018 8:52 PM
+My approach is ok, I'll dig into it . It will take x days, is that OK?
+
+Susan R 8/6/2018 8:52 PM
+I have a skip level reporting relationship (I report to a VP). She loves this approach.
+
+Noel L 8/6/2018 8:53 PM
+Over communication is better than being passive, your manager will stop you if they feel overwhelming. They feel insecure when they don't know the state and will keep asking your.
+
+Noel L 8/6/2018 8:53 PM
+*you
+
+Maria M 8/6/2018 8:53 PM
+yeah. I've done that but I think she finds it difficult to think beyond the fear she has (from her bosses).
+
+Justin H 8/6/2018 8:54 PM
+I'd have to agree, Noel ; I always feel like I'm overly verbose, but both my managers always tell me they love my communication...so I continue writing books. ;)
+
+Maria M 8/6/2018 8:55 PM
+OK, I'll try that again :)
+
+Dustin D 8/6/2018 8:55 PM
+the Bruce Lee way... use what works for oy
+
+Dustin D 8/6/2018 8:55 PM
+you*
+
+Noel L 8/6/2018 8:56 PM
+Be water my friend? LOL
+
+Justin H 8/6/2018 8:56 PM
+Oh, yes, they get those books the same work day. :)
+
+Bob D 8/6/2018 8:57 PM
+Sometimes, while I'm writing an overly detailed email, I insert a summary at the very top of the email, followed by a "Details" heading. More often than not, I end up deleting the entire "Details" section.
+
+Justin H 8/6/2018 8:58 PM
+Also a good approach, Bob . I use strategic formatting, personally (e.g., if you only read the bold stuff, you'll still get the main point. Read it all if you care.)
+
+Noel L 8/6/2018 9:01 PM
+Bob I did that too and keep some detail at lower part. Stakeholders who interested to have a glimpse get a quick idea, while those need to know more can keep r eading it.
+
+Clemence C 8/6/2018 9:06 PM
+Ken, do you have some articles on that? Or some written literature? That's interesting. (Follow the culture to get promoted.).
+
+Kenneth K 8/6/2018 9:07 PM
+stratecher
+
+Kenneth K 8/6/2018 9:07 PM
+stratechery
+
+Clemence C 8/6/2018 9:08 PM
+Thanks
+
+Maria M 8/6/2018 9:08 PM
+thanks
+
+Maria M 8/6/2018 9:11 PM
+FEAR
+
+Dustin D 8/6/2018 9:12 PM
+and lack of trust
+
+Noel L 8/6/2018 9:13 PM
+I'll say Fear > trust. Overwhelming
+
+Maria M 8/6/2018 9:16 PM
+what about director-level micro managers? They've been around for forever and just always were micro-managers. how long until it self-corrects? I'd argue that they've been around for long enough to have already done so
+
+Maria M 8/6/2018 9:16 PM
+*sigh* I wish
+
+Maria M 8/6/2018 9:17 PM
+:D
+
+Naji E 8/6/2018 9:17 PM
+In a case when a senior staff member has the issue of micro management, and they have the manager’s ears. How to deal with the situation? And what is the best way of communication to have with the manager?
+
+Maria M 8/6/2018 9:17 PM
+I like that
+
+Vladimir B 8/6/2018 9:17 PM
+one more thing, not only 'the way I do' but with the level of 'quality and speed I do '
+
+Vladimir B 8/6/2018 9:18 PM
+I mean why manager micromanages
+
+Dustin D 8/6/2018 9:20 PM
+I think that is an issue I have...
+
+Dustin D 8/6/2018 9:20 PM
+bringing someone else up to speed might take longer than just doing it myself
+
+Justin H 8/6/2018 9:20 PM
+Valve operates this way today (reportedly). Very strange organization, but successful...
+
+Dustin D 8/6/2018 9:20 PM
+find for me to do in a one-off
+
+Dustin D 8/6/2018 9:20 PM
+but there is an investment in off-loading for recurring things
+
+Vladimir B 8/6/2018 9:20 PM
+what to do if a manager is needed but with flat structure - "team decides". What can I do as a part of a flat organization?
+
+Susan R 8/6/2018 9:21 PM
+Interesting about capacity of 10 being optimal.
+
+Dustin D 8/6/2018 9:21 PM
+so, management "by committee" situations...
+
+Elaine M 8/6/2018 9:21 PM
+our company believes that the higher the leader is the more direct reports they can have because they are working with people with higher skills who need less oversight. What are your thoughts on that?
+
+Vladimir B 8/6/2018 9:22 PM
+does not work well even with 6 people. as everyone is equal, all 6 should be agreed. For me. it does not work
+
+Justin H 8/6/2018 9:24 PM
+Re. Valve: https://www.gamespot.com/articles/valve-talks-about-its-unusual-company-structure/1100-6447954/
+
+Richard T 8/6/2018 9:28 PM
+do you have a checklist ;) for determining my managers type?
+
+Dustin D 8/6/2018 9:29 PM
+thanks!
+
+Vladimir B 8/6/2018 9:29 PM
+thank you very much!
+
+Susan R 8/6/2018 9:29 PM
+Thanks, Ken
+
+Mike P 8/6/2018 9:29 PM
+Thanks, s ee you in the JUnit 5 course
+
+Sungpil H 8/6/2018 9:29 PM
+thanks!
+
+Amritha I 8/6/2018 9:29 PM
+thanks!
+
+Jackie C 8/6/2018 9:29 PM
+Thank you, very good!
+
+Sachin G 8/6/2018 9:29 PM
+thanks its very helpful
+
+Maria M 8/6/2018 9:29 PM
+Thank you so much, Ken. This was a great course
+
+Richard T 8/6/2018 9:30 PM
+Thanks!
+
+Trevor K 8/6/2018 9:30 PM
+thanks Ken, lots of useful stuff
+
+Songezo N 8/6/2018 9:30 PM
+yeah, awesome training .. Thanks
+
+Richard T 8/6/2018 9:30 PM
+Best course ever!
+
+Noel L 8/6/2018 9:30 PM
+Thanks of the course :)
+
+Clemence C 8/6/2018 9:30 PM
+That was a very helpful course, Ken.
+
+Noel L 8/6/2018 9:30 PM
+*for
+
+Mohammed A 8/6/2018 9:30 PM
+thank you, this has been very infor mative ..
+
+Justin H 8/6/2018 9:30 PM
+Thanks a ton, Ken! Fantastic presentation. May very well prevent the crisis that is inevitably coming, since I know how to deal with the problem now!
+
+Vikas G 8/6/2018 9:30 PM
+Great webinar!
+
+Naji E 8/6/2018 9:31 PM
+Thank you
+
+Maria M 8/6/2018 9:31 PM
+This is a good page if you don't want to spend money
+
+Maria M 8/6/2018 9:31 PM
+https://www.16personalities.com/
+
+Amritha I 8/6/2018 9:32 PM
+@Ken, there was a book you had referenced during the meeting, could you repost it please? Thanks!
+
+Noel L 8/6/2018 9:32 PM
+I was asked to do that 4 letter personality test in a job interview...
+
+Maria M 8/6/2018 9:32 PM
+(it's the Myers Briggs one )
+
+William O 8/6/2018 9:32 PM
+What's the other test, not the MyersB
+
+Kenneth K 8/6/2018 9:32 PM
+https://www.amazon.com/dp/B00ECE9N2G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+Kenneth K 8/6/2018 9:33 PM
+Kiersey Temperament Sorter (KTS)
+
+Amritha I 8/6/2018 9:33 PM
+thanks, appreciate it!
+
+William O 8/6/2018 9:33 PM
+Ty Kenneth
+
+Noel L 8/6/2018 9:33 PM
+LOL
+
+Maria M 8/6/2018 9:33 PM
+LOL
+
+Pamela G 8/6/2018 9:33 PM
+very useful. Thank you.
+
+Amritha I 8/6/2018 9:33 PM
+yes i was in the spock testing framework
+
+Amritha I 8/6/2018 9:33 PM
+course*
+
+Attila F 8/6/2018 9:34 PM
+I heard a good joke but I am adult enough not to say it. ;)
+
+Kenneth K 8/6/2018 9:34 PM
+:)
+
+Andrew E 8/6/2018 9:34 PM
+https://www.safaribooksonline.com/live-training/courses/managing-your-manager/0636920192985/survey
+
+
+ Submit
+
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

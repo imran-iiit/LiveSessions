@@ -1,0 +1,515 @@
+
+Media Player
+ LIVE 
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+
+Group Chat
+Timestamp 
+Erik F 8/20/2018 7:16 PM
+test 1 2
+
+Andrew E 8/20/2018 7:17 PM
+Hello everyone, the presentation will begin in about 14 minutes.
+
+Andrew E 8/20/2018 7:17 PM
+Feel free to use this chat window if you have any questions, or comments in the meantime.
+
+Andrew E 8/20/2018 7:17 PM
+Where is everyone joining us from today?
+
+Erik F 8/20/2018 7:17 PM
+from the netherlands
+
+Tim G 8/20/2018 7:19 PM
+texas
+
+George F 8/20/2018 7:22 PM
+UK
+
+Peter G 8/20/2018 7:22 PM
+England
+
+Sander v 8/20/2018 7:22 PM
+Hi everybody, I' m here and I' m ready to get started in about 8 minutes!
+
+Boyan I 8/20/2018 7:22 PM
+Bulgaria
+
+Kahkashan K 8/20/2018 7:30 PM
+Hello from India
+
+Jeff R 8/20/2018 7:31 PM
+Los Angeles, CA USA
+
+Jason F 8/20/2018 7:31 PM
+Reading, PA USA
+
+Jeff J 8/20/2018 7:31 PM
+Seattle, WA USA
+
+Sanchita B 8/20/2018 7:31 PM
+hello from pune
+
+LALIT K 8/20/2018 7:32 PM
+hello from india
+
+Jim M 8/20/2018 7:32 PM
+Sacramento, Calif.
+
+Viswanadha A 8/20/2018 7:32 PM
+Hi I'm joining in from India.
+
+Christopher S 8/20/2018 7:33 PM
+hello from London
+
+Siddaraju G 8/20/2018 7:33 PM
+San Francisco Bay Area
+
+Aled R 8/20/2018 7:34 PM
+Wales, UK
+
+Chris S 8/20/2018 7:35 PM
+yes, please do
+
+Erik F 8/20/2018 7:35 PM
+yes pls
+
+Marc P 8/20/2018 7:35 PM
++1
+
+Kyle R 8/20/2018 7:35 PM
+systemd: yes
+
+Ainsley G 8/20/2018 7:35 PM
+yes please include Systemd thanks
+
+Jeff J 8/20/2018 7:35 PM
+please do
+
+Ghandi S 8/20/2018 7:35 PM
+yes please
+
+Boyan I 8/20/2018 7:35 PM
+Yes
+
+Michal M 8/20/2018 7:35 PM
+yes
+
+Vipul K 8/20/2018 7:35 PM
+yes do
+
+Joan J 8/20/2018 7:35 PM
+yes please do
+
+Patrick P 8/20/2018 7:35 PM
+yes on systemd
+
+Maxwell F 8/20/2018 7:35 PM
+yes please
+
+Tieho B 8/20/2018 7:35 PM
+Tieho Boqo from South Africa
+
+NAZRYZAL M 8/20/2018 7:35 PM
+Yes please!
+
+Bridgetown G 8/20/2018 7:35 PM
+Could you please stop the background music?
+
+Alexander V 8/20/2018 7:35 PM
+yes please
+
+Scott G 8/20/2018 7:36 PM
+√ systems
+
+SARANKUMAR V 8/20/2018 7:36 PM
+Hello Folks. From chennai, India
+
+Andrew E 8/20/2018 7:36 PM
+The music is likely buffered in from the pre-show state.
+
+Andrew E 8/20/2018 7:36 PM
+Try refreshing your browser and any hold music should stop.
+
+Jeff R 8/20/2018 7:36 PM
+@Bridgetown G refresh your browser
+
+Ainsley G 8/20/2018 7:36 PM
+refresh your browser
+
+Bridgetown G 8/20/2018 7:36 PM
+sure thank you
+
+Suresh S 8/20/2018 7:38 PM
+Hi from India
+
+Peter G 8/20/2018 7:42 PM
+No video or audio for me but the test video works?
+
+Marc P 8/20/2018 7:42 PM
+audio is working for me.
+
+Andrew E 8/20/2018 7:42 PM
+Yes, should just have slides, and audio at the moment.
+
+Andrew E 8/20/2018 7:43 PM
+If audio is not working for you I would review your system settings, as it appears to be playing for the other remote users.
+
+Scott G 8/20/2018 7:43 PM
+√ media player
+
+Boyan I 8/20/2018 7:43 PM
+video also is on
+
+Kyle R 8/20/2018 7:43 PM
+video: ok
+
+Martha D 8/20/2018 7:43 PM
+I can hear
+
+Andrew E 8/20/2018 7:43 PM
+It could be paused for buffering, so refreshing, or clearing your cache should help that.
+
+Tieho B 8/20/2018 7:46 PM
+Does it mean root user doesn't use system calls?
+
+Priyanka G 8/20/2018 7:49 PM
+Does each process has its own file system acceess?
+
+Priyanka G 8/20/2018 7:51 PM
+sure
+
+Priyanka G 8/20/2018 7:54 PM
+What does a process has access to in their own reserved area such as permissions or own file system?
+
+Priyanka G 8/20/2018 7:55 PM
+Few days back I was reading about containers running on Linux kernel..
+
+Priyanka G 8/20/2018 7:58 PM
+yes
+
+Priyanka G 8/20/2018 7:59 PM
+yes
+
+Priyanka G 8/20/2018 8:02 PM
+Gor it ..clear
+
+Charles J 8/20/2018 8:03 PM
+i see it
+
+Scott G 8/20/2018 8:03 PM
+If you get a chance, w ould you comment on O'Reilly's old "Anatomy of a Linux System" poster? - ftp://ftp.oreilly.com/pub/poster/oreilly_linux_poster.pdf
+
+Scott G 8/20/2018 8:04 PM
+TY !
+
+Nishant K 8/20/2018 8:08 PM
+Is there a difference in Linux kernel between distributions like CentOS/Ubuntu and the smaller distributions like Alpine? How these miniature distributions manage to take care of all the work a kernel would do?
+
+Nishant K 8/20/2018 8:09 PM
+Thanks
+
+Wayne R 8/20/2018 8:13 PM
+how do you know if it is primary or extended partitions
+
+Jeff R 8/20/2018 8:14 PM
+mount -a
+
+Marc P 8/20/2018 8:14 PM
+reload the kernel module?
+
+Stijn H 8/20/2018 8:14 PM
+mknod?
+
+Tieho B 8/20/2018 8:15 PM
+udev rule
+
+Stijn H 8/20/2018 8:15 PM
+.be ;)
+
+Anudeep S 8/20/2018 8:17 PM
+what is the use of the major and minor?
+
+SARANKUMAR V 8/20/2018 8:19 PM
+what were we intending to demonstrate by chmod'ing the device interface file please ?
+
+Ghandi S 8/20/2018 8:19 PM
+what about 65 sd, what is the difference of it and the 8 sd ?
+
+Anudeep S 8/20/2018 8:19 PM
+yes thanks
+
+Ghandi S 8/20/2018 8:19 PM
+in the devices
+
+Kevin S 8/20/2018 8:25 PM
+what about android? Is it similar to what you explained?
+
+Nishant K 8/20/2018 8:25 PM
+Thanks
+
+Cesar B 8/20/2018 8:29 PM
+shared memory is the size used by shared libraries in a process?
+
+Cesar B 8/20/2018 8:30 PM
+cheers
+
+Andrew E 8/20/2018 8:30 PM
+We are now on break. The presentation will resume in about 10 minutes.
+
+Charles J 8/20/2018 8:30 PM
+coffee time!
+
+Jonathan L 8/20/2018 8:31 PM
+Is there a recording for the session?
+
+Jonathan L 8/20/2018 8:31 PM
+I just joined now
+
+Charles J 8/20/2018 8:31 PM
+the session is being recorded... it should be available in 48hrs
+
+Jonathan L 8/20/2018 8:31 PM
+thank you
+
+Andrew E 8/20/2018 8:32 PM
+Yes, you should receive an email notification when it does post, and the recording will be accessible through your Safari account.
+
+Alexander V 8/20/2018 8:32 PM
+for how long does the recording remain active?
+
+Andrew E 8/20/2018 8:33 PM
+About a year from the date of the live show. These courses are also repeated on a regular basis, so you can always sign up for a live refresher session in a few months if you like.
+
+Alexander V 8/20/2018 8:34 PM
+thank you
+
+SARANKUMAR V 8/20/2018 8:37 PM
+May I ask when will the linux trounbleshooting live class be scheduled please?
+
+Andrew E 8/20/2018 8:38 PM
+Linux Troubleshootin: Advanced Linux Techniques is currently scheduled for September 18th
+
+SARANKUMAR V 8/20/2018 8:39 PM
+Great! Thank you!
+
+Andrew E 8/20/2018 8:39 PM
+Sure thing.
+
+Vipul K 8/20/2018 8:45 PM
+Sander, how could i find all file descriptors related to a file?
+
+Vipul K 8/20/2018 8:47 PM
+ok, i got it
+
+Vipul K 8/20/2018 8:53 PM
+what is cgroup? And for what purpose it used?
+
+Satish Kumar M 8/20/2018 8:53 PM
+LD_LIBRARY_PATH.. i encountered this often.. what is the importance
+
+Tieho B 8/20/2018 8:54 PM
+i like it 2.
+
+Stijn H 8/20/2018 9:03 PM
+22/Tcp
+
+Vipul K 8/20/2018 9:03 PM
+port no.
+
+Wayne R 8/20/2018 9:03 PM
+the port
+
+Juan Pablo M 8/20/2018 9:03 PM
+ssh
+
+Viswanadha A 8/20/2018 9:03 PM
+sftp port?
+
+Peter L 8/20/2018 9:04 PM
+Is systemd applicable inside of containers? I'm running ubuntu in a container and when I run systemctl I get this error: "Failed to connect to bus: No such file or directory"
+
+Peter L 8/20/2018 9:06 PM
+Thanks.
+
+Jayasimhan M 8/20/2018 9:17 PM
+I've heard many sysadmins hating systemd. Do you know why?
+
+Juan P 8/20/2018 9:17 PM
+What are Units_
+
+Juan P 8/20/2018 9:17 PM
+?
+
+Satish Kumar M 8/20/2018 9:17 PM
+some process can run even after killing..
+
+Satish Kumar M 8/20/2018 9:18 PM
+which option do we need to enable to have this functionalty at the service level also.. is it recommended..to have such..
+
+Jayasimhan M 8/20/2018 9:19 PM
+Thanks !
+
+Scott G 8/20/2018 9:19 PM
+Are any modern linux distros not using systemd?
+
+Scott G 8/20/2018 9:21 PM
+:)
+
+Juan P 8/20/2018 9:21 PM
+thank you for answering back
+
+Pamumi F 8/20/2018 9:25 PM
+What is the difference between rescue and emergence targets?
+
+Alexander V 8/20/2018 9:28 PM
+what does red dot and green dot mean?
+
+Szymon P 8/20/2018 9:29 PM
+history please
+
+Juan P 8/20/2018 9:29 PM
+what is the command to check dependencies for on targets?
+
+Tieho B 8/20/2018 9:30 PM
+is it true that nfs runs in kernel land ?
+
+Scott G 8/20/2018 9:30 PM
+Fwiw, I've seen other instructors post a timer screen for break time count downs.
+
+Stijn H 8/20/2018 9:36 PM
+sound is go
+
+Scott G 8/20/2018 9:36 PM
+√ audio
+
+Kaiwen L 8/20/2018 9:36 PM
+I can hear
+
+Maxwell F 8/20/2018 9:36 PM
+yes, can hear
+
+Scott G 8/20/2018 9:36 PM
+:)
+
+Satish Kumar M 8/20/2018 9:37 PM
+we can hear you..
+
+Martha D 8/20/2018 9:41 PM
+What kind of laptop do you have?
+
+Kyle R 8/20/2018 9:41 PM
+haha. i want it :-)
+
+Scott G 8/20/2018 9:42 PM
+lol
+
+Martha D 8/20/2018 9:50 PM
+What was the URL from where you clone the utils?
+
+Martha D 8/20/2018 9:51 PM
+pls post it again, thanks
+
+Marc P 8/20/2018 9:51 PM
+git clone git://git.sv.gnu.org/coreutils I believe
+
+Kevin S 8/20/2018 9:52 PM
+i've heard the term "linked library". Is that the same idea as static?
+
+Kevin S 8/20/2018 9:53 PM
+thx
+
+Juan P 8/20/2018 9:55 PM
+could you please go back two slides_
+
+Juan P 8/20/2018 9:55 PM
+to screenshot
+
+Anudeep S 8/20/2018 9:55 PM
+Could you please let me know what is the most commonly used scripting language in Linux apart from Bash ?
+
+Jeff R 8/20/2018 9:56 PM
+@Anudeep My guess is Python
+
+Juan P 8/20/2018 9:56 PM
+Jeff @Jeff R -- Agreed
+
+Pamumi F 8/20/2018 9:57 PM
+What about golang?
+
+Scott G 8/20/2018 9:57 PM
+not for linux per se
+
+Anudeep S 8/20/2018 9:57 PM
+sorry , can you type the answer for my query i had a bad network ..
+
+Jeff R 8/20/2018 9:57 PM
+Python
+
+Anudeep S 8/20/2018 9:58 PM
+thankyou
+
+Scott G 8/20/2018 9:58 PM
+p.s. perl hasn't disappeared
+
+Maxwell F 8/20/2018 10:00 PM
+go is very popular now a days but python has still retained its charm
+
+Sreenivasulu S 8/20/2018 10:02 PM
+go is similar to C/C++/Java.. but Python is easy to learn and program, but difficult to master!
+
+Sreenivasulu S 8/20/2018 10:05 PM
+It is more pleasing to program in Python.. sometimes programming in other languages can be frustrating!
+
+Sreenivasulu S 8/20/2018 10:06 PM
+For the first time users, learning Python could be frustrating as well, but later it is quite enjoyable!
+
+Pamumi F 8/20/2018 10:09 PM
+I Don't quiet understand the difference between strace and ltrace. When to use what?
+
+Sreenivasulu S 8/20/2018 10:10 PM
+Q: What are different number specified after 'man' command? it is usually between 1 to 7...
+
+Scott G 8/20/2018 10:11 PM
+Sander, Back to file related ops, i t might be interesting to hear about real v effective id, and suid/sgid code execution. I.e. How passed command works for regular user.
+
+Scott G 8/20/2018 10:12 PM
+great!
+
+Kahkashan K 8/20/2018 10:13 PM
+what are /dev/zero and /dev/null? Could you please explain the dd command?
+
+Pamumi F 8/20/2018 10:16 PM
+Can you shortly give some insight on iscsi?
+
+Stijn H 8/20/2018 10:17 PM
+K: /dev/zero produces nothing but zeros; /dev/null s a memory blackhole
+
+Kahkashan K 8/20/2018 10:21 PM
+thanks!
+
+Anudeep S 8/20/2018 10:23 PM
+sorry for asking this question, Could you please help me with any command to perform a backup of the environment , the moment when we are doing any maintenance activity on the production array ?
+
+Pamumi F 8/20/2018 10:25 PM
+Same question as @Anudeep +1)
+
+Jason F 8/20/2018 10:29 PM
+Great session, thanks! Have to go.
+
+Charles J 8/20/2018 10:30 PM
+in your custom.rules should the v in CUSTOMUDEv be lower or upper case?
+
+Charles J 8/20/2018 10:31 PM
+ahhh ok :)
+
+
+ Submit
+Resource List
+Webinar Slides
+Webinar Slides
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

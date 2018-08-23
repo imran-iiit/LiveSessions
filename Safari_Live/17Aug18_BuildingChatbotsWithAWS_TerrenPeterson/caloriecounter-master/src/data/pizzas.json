@@ -1,0 +1,348 @@
+[
+    {
+        "restaurant":"Papa Johns",
+        "pizzaSelections":[
+            {"name":"BBQ Chicken and Bacon",
+	     "sizes": [
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":240},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":230},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":340},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":360}
+	     ]
+	    },
+            {"name":"Cheese", 
+             "sizes": [ 
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":200},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":180},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":300}
+             ]
+            },
+            {"name":"Pepperoni", 
+             "sizes": [ 
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":220},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":210},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":220},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":320},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":330}
+             ]
+            },
+            {"name":"Pepperoni and Sausage", 
+             "sizes": [ 
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":250},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":240},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":260},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":360},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":370}
+             ]
+            },
+            {"name":"Sausage", 
+             "sizes": [ 
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":230},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":340}
+             ]
+            },
+            {"name":"Garden Fresh", 
+             "sizes": [ 
+		{"size":"Eight Inch", "diameter":8, "slicesPerPizza":4, "sliceCalories":210},
+            	{"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":200},
+            	{"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":220},
+            	{"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":300},
+            	{"size":"Extra Large", "diameter":16, "slicesPerPizza":10, "sliceCalories":320}
+             ]
+            }
+	]
+    },
+    {
+        "restaurant":"Dominos",
+        "pizzaSelections":[
+            {"name":"Cheese",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":200},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":380}
+             ]
+            },
+            {"name":"Pepperoni",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":210},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":220},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":300},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":390}
+             ]
+            },
+            {"name":"Sausage",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":230},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":420}
+             ]
+            },
+            {"name":"Spinach and Feta",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":320},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":410}
+             ]
+            },
+            {"name":"Deluxe",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":230},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":320},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":410}
+             ]
+            },
+            {"name":"Spinach and Feta",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":320},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":410}
+             ]
+            },
+            {"name":"Philly Cheese Steak",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":230},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":310},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":400}
+             ]
+            },
+            {"name":"Spinach and Feta",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":320},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":410}
+             ]
+            },
+            {"name":"Buffalo Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":240},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":260},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":340},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":450}
+             ]
+            },
+            {"name":"Cali Chicken Bacon Ranch",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":270},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":300},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":400},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":520}
+             ]
+            },
+            {"name":"Honolulu Hawaiian",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":230},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":430}
+             ]
+            },
+            {"name":"Hawaiian",
+	     "correctedTerm":"Honolulu Hawaiian",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":230},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":430}
+             ]
+            },
+            {"name":"Memphis BBQ Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":240},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":260},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":350},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":450}
+             ]
+            },
+            {"name":"Pacific Veggie",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":210},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":230},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":310},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":390}
+             ]
+            },
+            {"name":"Wisconsin 6 Cheese",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":220},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":250},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":340},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":440}
+             ]
+            },
+            {"name":"Extravaganzza",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":260},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":280},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":390},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":510}
+             ]
+            },
+            {"name":"Meatzza",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":260},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":270},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":370},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":490}
+             ]
+            },
+            {"name":"Ultimate Pepperoni",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":6, "sliceCalories":250},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":270},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":370},
+                {"size":"Extra Large", "diameter":16, "slicesPerPizza":8, "sliceCalories":480}
+             ]
+            }
+        ]
+    },
+    {
+        "restaurant":"Little Caesars",
+        "pizzaSelections":[
+            {"name":"Cheese",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":250}
+             ]
+            },
+            {"name":"Pepperoni",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":280}
+             ]
+            },
+            {"name":"Ultimate Supreme",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":300}
+             ]
+            },
+            {"name":"3 Meat Treat",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330}
+             ]
+            },
+            {"name":"Hulu Hawaiian",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":270}
+             ]
+            },
+            {"name":"Hawaiian",
+             "correctedTerm":"Honolulu Hawaiian",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":270}
+             ]
+            },
+            {"name":"Veggie",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":270}
+             ]
+            },
+            {"name":"Italian Sausage",
+             "sizes": [
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":270}
+             ]
+            }
+        ]
+    },
+    {
+        "restaurant":"Pizza Hut",
+        "pizzaSelections":[
+            {"name":"Cheese",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290}
+             ]
+            },
+            {"name":"Pepperoni",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":220},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":300}
+             ]
+            },
+            {"name":"Supreme",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":150},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330} 
+             ]
+            },
+            {"name":"Hawaiian Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290}
+             ]
+            },
+            {"name":"Hawaiian",
+             "correctedTerm":"Honolulu Hawaiian",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290}
+             ]
+            },
+            {"name":"Italian Meatball",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290}
+             ]
+            },
+            {"name":"Backyard BBQ Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":140},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":230},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330}
+             ]
+            },
+            {"name":"Backyard BBQ",
+	     "correctedTerm":"Backyard BBQ Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":140},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":230},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":330}
+             ]
+            },
+            {"name":"Buffalo Chicken",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":130},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":210},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":290}
+             ]
+            },
+            {"name":"Meat Lovers",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":180},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":280},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":390} 
+             ]
+            },
+            {"name":"BBQ Beef",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":140},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":240},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":340}
+             ]
+            },
+            {"name":"Veggie Lovers",
+             "sizes": [
+                {"size":"Small", "diameter":10, "slicesPerPizza":8, "sliceCalories":120},
+                {"size":"Medium", "diameter":12, "slicesPerPizza":8, "sliceCalories":200},
+                {"size":"Large", "diameter":14, "slicesPerPizza":8, "sliceCalories":260}
+             ]
+            }
+	]
+    }
+]
