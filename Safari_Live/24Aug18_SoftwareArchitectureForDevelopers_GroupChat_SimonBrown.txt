@@ -1,7 +1,10 @@
+
 Media Player
  LIVE 
 
-
+Resource List
+Download class slides here
+Download class slides here
 Slides
 
 Get Adobe Flash player
@@ -56,7 +59,7 @@ Good evening from Romania!
 Simon B 8/24/2018 7:32 PM
 Welcome everybody!
 
-HUSAIN A 8/24/2018 7:32 PM
+HUSAIN A 8/24/2018 7:33 PM
 Greetings from Raleigh, NC
 
 Nurul I 8/24/2018 7:33 PM
@@ -83,7 +86,7 @@ Hi from PAris, sorry for this late !
 Nurul I 8/24/2018 7:41 PM
 Hi Ahmed!
 
-Siddaraju G 8/24/2018 8:11 PM
+Siddaraju G 8/24/2018 8:12 PM
 when technology is forcing orgs to keep changing from monolithic to distributed to container to .... How to keep up with the sanity of organized software system?
 
 Siddaraju G 8/24/2018 8:13 PM
@@ -103,6 +106,12 @@ yes. But not as much as developers do
 
 Sarwo W 8/24/2018 8:35 PM
 architect should writes a code
+
+Siddaraju G 8/24/2018 8:35 PM
+i think we should have knowledge of technology
+
+Tim C 8/24/2018 8:35 PM
+defo
 
 Todd R 8/24/2018 8:36 PM
 eat your own dog food, it gives you a better sense for how implementable.
@@ -125,10 +134,118 @@ Greetings from Northern Ireland btw, a little late due to technical difficulties
 Cristobal G 8/24/2018 8:36 PM
 +1 PowerPoint vs hands-on
 
+MR KHALIL R 8/24/2018 8:52 PM
+Is there a recording for later?
+
+MR KHALIL R 8/24/2018 8:52 PM
+K
+
+Nurul I 8/24/2018 8:55 PM
+Yes, the recording will be ready in 24-48 hours after class ends. You will receive the recording details in your email as soon as it is ready.
+
+MR KHALIL R 8/24/2018 8:57 PM
+Thanks
+
+Nurul I 8/24/2018 8:58 PM
+You can also get the recording link by logging in to your Safari account, type in the course title in the 'Everything' search bar, select the course date, and you will be directed to the course landing page where you can find the recording link.
+
+Rafiq A 8/24/2018 9:06 PM
+no
+
+Ahmed E 8/24/2018 9:06 PM
+yes
+
+Rajalakshmi S 8/24/2018 9:06 PM
+Mostly Sequence Diagrams
+
+Ahmed E 8/24/2018 9:06 PM
+sequence, activity, deployment, class
+
+Garrett D 8/24/2018 9:06 PM
+mostly class and sequence diagrams
+
+Matthew D 8/24/2018 9:07 PM
+Sequence diagrams for pairing
+
+Jacob B 8/24/2018 9:07 PM
+Class and sequence diagrams
+
+Ranjith K 8/24/2018 9:07 PM
+class diagrams
+
+Vladimir B 8/24/2018 9:07 PM
+Class, Sequence, Components, rarrely deployments
+
+Simon B 8/24/2018 9:48 PM
+As expected ... most teams seem to use class and sequence diagrams only too.
+
+Simon B 8/24/2018 9:48 PM
+(typically with tools like PlantUML or WebSequenceDiagrams)
+
+Maribel G 8/24/2018 9:59 PM
+anyone else lose the media player?
+
+HUSAIN A 8/24/2018 10:00 PM
+yes for a while
+
+Garrett D 8/24/2018 10:00 PM
+nope
+
+Sarwo W 8/24/2018 10:00 PM
+nope
+
+HUSAIN A 8/24/2018 10:00 PM
+I'm good now
+
+Matthew D 8/24/2018 10:27 PM
+Very useful - thanks!
+
+Satya Sai S 8/24/2018 10:28 PM
+Thank you
+
+Aaron S 8/24/2018 10:28 PM
+Thank you Simon, very useful!
+
+Kevin S 8/24/2018 10:28 PM
+THanks a lot
+
+Davi G 8/24/2018 10:28 PM
+Thank you Simon
+
+Nurul I 8/24/2018 10:28 PM
+Your feedback matters. https://www.safaribooksonline.com/live-training/courses/software-architecture-for-developers/0636920205258/survey/
+
+Rajalakshmi S 8/24/2018 10:28 PM
+Thanks, Simon!
+
+Ahmed E 8/24/2018 10:29 PM
+very useful. Thank you Simon
+
+Vladimir B 8/24/2018 10:29 PM
+Useful and concise!
+
+Garrett D 8/24/2018 10:29 PM
+Yes thank you Simon great content and lots of things to think about
+
+Sascha G 8/24/2018 10:29 PM
+Simon, you are a very good teacher. Thank you for your insights. I am going to join you on Monday.
+
+Nurul I 8/24/2018 10:31 PM
+Thank you for attending our class!! We hope you have benefited from the course and we hope to see you on other O’Reilly Online Trainings.
+
+HUSAIN A 8/24/2018 10:31 PM
+Thank you so much for clearly shedding lights on aspects of software architecture and design.
+
+Simon B 8/24/2018 10:31 PM
+Thanks all!
+
+Maribel G 8/24/2018 10:31 PM
+Thank you for your time Simon!
+
+Siddaraju G 8/24/2018 10:31 PM
+thank you...
+
 
  Submit
-Resource List
-Download class slides here
-Download class slides here
 Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
  
