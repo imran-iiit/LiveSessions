@@ -1,0 +1,164 @@
+
+Media Player
+ LIVE 
+Group Chat
+Timestamp 
+Derek H 9/13/2018 5:15 PM
+Hello everyone, welcome to Day 1 of Deploying Machine Learning Models to Production: A Toolkit for Real-World Success taught by Armen Donigian. We hope you enjoy the class!
+
+Derek H 9/13/2018 5:15 PM
+We will begin shortly! Please keep in mind all the widgets are resizable and moveable, so feel free to move them around to get the most out of your desktop space.
+
+Derek H 9/13/2018 5:15 PM
+A copy of today’s slide deck and other class resources are available in the Resource List (green widget at the bottom of your screen).  We encourage you to download any resources or links that you may find useful.
+
+Derek H 9/13/2018 5:16 PM
+Where is everyone joining us from?
+
+Nilang P 9/13/2018 5:18 PM
+from NY
+
+Derek H 9/13/2018 5:25 PM
+GitHub Link for Jupyter Notebooks for today and tomorrow's session: https://0636920201786.oreilly-jupyterhub.com
+
+Todd M 9/13/2018 5:27 PM
+IN
+
+Derek H 9/13/2018 5:31 PM
+We will begin in 1 minute
+
+Derek H 9/13/2018 5:34 PM
+Class has started, you should now be hearing Armen.
+
+Derek H 9/13/2018 5:37 PM
+Reminder- You can post your questions into the Q&A widget found at the bottom of your screen. Feel free to utilize this group chat for general comments.
+
+Li Z 9/13/2018 5:48 PM
+Greetings from Australia!
+
+Hürriyet E 9/13/2018 5:54 PM
+hi
+
+Hürriyet E 9/13/2018 5:55 PM
+how can we download GitHub file
+
+Derek H 9/13/2018 5:55 PM
+GitHub Link for Jupyter Notebooks for today and tomorrow's session: https://0636920201786.oreilly-jupyterhub.com
+
+Derek H 9/13/2018 5:55 PM
+Or click the resources widget at the bottom of your screen
+
+Hürriyet E 9/13/2018 5:56 PM
+I can access GitHub but I can't download
+
+Nilang P 9/13/2018 5:57 PM
+same here
+
+Derek H 9/13/2018 5:58 PM
+One moment Nilang and Hürriyet
+
+Victor d 9/13/2018 5:59 PM
+Thank you very much Armen for the answer.
+
+Derek H 9/13/2018 6:02 PM
+Nilang and Hürriyet, you should be able to start the server and find contents in there to run as per Armen's instructions.
+
+Derek H 9/13/2018 6:04 PM
+You can download all of today’s notebooks and other files for local use from our course’s GitLab repository. Type the following into your favorite Terminal program: ```git clone <COURSE GITLAB REPO HERE>```
+
+Victor d 9/13/2018 6:05 PM
+I have a kind of technical question, can I do it here?
+
+User 1 9/13/2018 6:06 PM
+~$ git clone https://0636920201786.oreilly-jupyterhub.com Cloning into '0636920201786.oreilly-jupyterhub.com'... fatal: repository 'https://0636920201786.oreilly-jupyterhub.com/' not found
+
+Derek H 9/13/2018 6:06 PM
+If it's for Armen it's best to use Q&A
+
+Derek H 9/13/2018 6:06 PM
+if it's about the platform feel free to type it here
+
+User 1 9/13/2018 6:06 PM
+what is the git link?
+
+Derek H 9/13/2018 6:06 PM
+GitHub Link for Jupyter Notebooks for today and tomorrow's session: https://0636920201786.oreilly-jupyterhub.com
+
+Derek H 9/13/2018 6:07 PM
+This is what I have User 1. You should be able to start the server and access the materials.
+
+Alex S 9/13/2018 6:07 PM
+this is a cloud instance of a Jupyter Notebook server rather tha n a github/gitlab link
+
+Victor d 9/13/2018 6:07 PM
+Yes, I would like to know about Slack, it is going to be definitive group or only for these two days?
+
+Victor d 9/13/2018 6:08 PM
+Can I access it with my personal email? The one that is not registered in the event
+
+Sandipan D 9/13/2018 6:08 PM
+Getting the following error when trying to clone the repository ...
+
+Sandipan D 9/13/2018 6:08 PM
+git clone https://0636920201786.oreilly-jupyterhub.com Cloning into '0636920201786.oreilly-jupyterhub.com'... fatal: repository 'https://0636920201786.oreilly-jupyterhub.com/hub/' not found
+
+Nilang P 9/13/2018 6:09 PM
+I have the same issue.
+
+Derek H 9/13/2018 6:09 PM
+Victor, the slack channel will be archived. Your registered event email should be the one used for slack but if you email onlinetraining@oreilly.com with your personal email, I can add it.
+
+Derek H 9/13/2018 6:10 PM
+One moment regarding the Github.
+
+Victor d 9/13/2018 6:10 PM
+If it will be archived that is ok, I will access with my emails company. Thank you very much.
+
+Li Z 9/13/2018 6:11 PM
+Q: Does regression mean the same thing as clustering? I heard about clustering before, but heard about regression more often recently.
+
+Derek H 9/13/2018 6:11 PM
+You're welcome Victor
+
+armen d 9/13/2018 6:21 PM
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+Sandipan D 9/13/2018 6:32 PM
+Q: Are there any good self-serve tools you would recommend for acquiring data?
+
+Li Z 9/13/2018 6:33 PM
+Q: how can we determine concept drifts have occurred on the model (not sure if I get the words correctly)? Is it based on model prediction accuracy, or something else ?
+
+Derek H 9/13/2018 7:05 PM
+We will now take a 10 minute break. We will resume class when the break timer expires.
+
+Victor d 9/13/2018 7:06 PM
+Thank you for much so far for the answers
+
+Derek H 9/13/2018 7:16 PM
+Break has concluded. Class will now resume.
+
+olivia b 9/13/2018 7:57 PM
+during deployment are all the notebooks or pipeline converted to binaries?
+
+olivia b 9/13/2018 8:03 PM
+heard about flask for deployment how it is different from deployment with kubernetes and dockers like what is the simplest way to get started with deploying machine learning
+
+Alex S 9/13/2018 8:08 PM
+pandas_profiling is great for small datasets but doesn't scale well..
+
+Surnjani D 9/13/2018 8:08 PM
+Is there any pyspark version for pandas_profiling?
+
+olivia b 9/13/2018 8:10 PM
+when using pandas profiling don't you have to resolve those issues like creating dummies for cat values or writting functions to impute missing values?
+
+
+ Submit
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

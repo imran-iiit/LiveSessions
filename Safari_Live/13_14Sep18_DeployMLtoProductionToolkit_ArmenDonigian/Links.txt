@@ -1,0 +1,3 @@
+https://0636920201786.oreilly-jupyterhub.com
+
+https://resources.oreilly.com/live-training/deploy-ml-to-production-toolkit

@@ -1,0 +1,113 @@
+
+Media Player
+ LIVE 
+Slides
+Survey
+Get Adobe Flash player
+Get Adobe Flash player
+Group Chat
+Timestamp 
+Derek H 9/14/2018 5:15 PM
+Welcome back to Day 2 of Deploying Machine Learning Models to Production: A Toolkit for Real-World Success taught by Armen Donigian. We will begin class shortly!
+
+Derek H 9/14/2018 5:15 PM
+We will begin shortly! Please keep in mind all the widgets are resizable and moveable, so feel free to move them around to get the most out of your desktop space.
+
+Derek H 9/14/2018 5:16 PM
+The slides as well as additional resources are available for download in the resources widget at the bottom of your screen.
+
+Derek H 9/14/2018 5:25 PM
+JupyterHub link for Jupyter Notebooks for today and tomorrow's session: https://0636920201786.oreilly-jupyterhub.com
+
+Derek H 9/14/2018 5:34 PM
+Class has started and you should be hearing Armen. If you have any audio issues, try refreshing your browser.
+
+olivia b 9/14/2018 5:36 PM
+please will like to have your email
+
+armen d 9/14/2018 5:43 PM
+donigian@gmail.com
+
+María Dolores V 9/14/2018 5:53 PM
+I did'nt received the links to the notebooks, can we access to them?
+
+Derek H 9/14/2018 5:53 PM
+JupyterHub link for Jupyter Notebooks for today and tomorrow's session: https://0636920201786.oreilly-jupyterhub.com
+
+María Dolores V 9/14/2018 5:54 PM
+thanks!
+
+olivia b 9/14/2018 5:54 PM
+could we have done pca inplace of feature importance/
+
+Derek H 9/14/2018 5:54 PM
+You're welcome!
+
+Victor d 9/14/2018 6:03 PM
+What is the name of notebook he just opened? For DBC...
+
+María Dolores V 9/14/2018 6:04 PM
+Machine_Learning_Interpretability.ipynb
+
+olivia b 9/14/2018 6:21 PM
+when retaining the model what do you when the metric keeps changing? doing kfold cross validation is this important in production?
+
+Sreenivasan R 9/14/2018 6:29 PM
+Is the session getting recorded? - would you be sharing the recording later?
+
+Derek H 9/14/2018 6:29 PM
+Yes, the session is being recording. You will receive access to the recording via email within 24-48 hours.
+
+Derek H 9/14/2018 6:29 PM
+Recorded*
+
+Dan S 9/14/2018 7:04 PM
+the code is here: https://resources.oreilly.com/live-training/deploy-ml-to-production-toolkit
+
+Derek H 9/14/2018 7:10 PM
+We will now take a short break. Class will resume once the break timer has expired.
+
+Victor d 9/14/2018 7:10 PM
+Excellent, thank you very much for the answer. This really got me some ideas haha thanks
+
+Derek H 9/14/2018 7:21 PM
+Break has concluded, we will now resume class.
+
+olivia b 9/14/2018 7:59 PM
+what about training with selected features with vowp? it seems as if it trains on all the features?
+
+Victor d 9/14/2018 8:04 PM
+A model development course would be great
+
+olivia b 9/14/2018 8:18 PM
+do we need to install docker and kubernetes inorder to install cilpper?
+
+olivia b 9/14/2018 8:19 PM
+can we have the github link? thanks
+
+Derek H 9/14/2018 8:21 PM
+If you prefer downloading and running locally, please git clone from this repository: https://resources.oreilly.com/live-training/deploy-ml-to-production-toolkit.git
+
+Rajan R 9/14/2018 8:22 PM
+Thanks a lot Armen, definitely a good learning in the last 2 days
+
+Derek H 9/14/2018 8:22 PM
+Your feedback is important to us! Please take a moment to fill out this short survey: https://www.safaribooksonline.com/live-training/courses/deploying-machine-learning-models-to-production-a-toolkit-for-real-world-success/0636920201786/survey/
+
+olivia b 9/14/2018 8:25 PM
+thanks very much
+
+Nilang P 9/14/2018 8:26 PM
+Thank you Armen.
+
+Victor d 9/14/2018 8:26 PM
+Done it! Thank you very much for the course, really excited to see one in Model Feature development as said today lol. Thank you guys, nice job!
+
+Derek H 9/14/2018 8:27 PM
+Thank you for attending Day 2 of Deploying Machine Learning Models to Production taught by Armen Donigian. We hope that you have enjoyed the training, and we look forward to your participation in future sessions!
+
+
+ Submit
+
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

@@ -1,0 +1,329 @@
+Media Player
+ LIVE 
+
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+
+Group Chat
+Timestamp 
+Nurul I 9/10/2018 8:17 PM
+Hello everyone, welcome to Day 1 of Kafka Fundamentals with Petter Graff . We hope you enjoy the class!
+
+Nurul I 9/10/2018 8:17 PM
+Please Note: The Group Chat will be part of the recording so please do not post personal information (such as email addresses) or anything confidential.
+
+Nurul I 9/10/2018 8:17 PM
+We will begin class in approximately 13 minutes
+
+Nurul I 9/10/2018 8:17 PM
+Where is everyone joining us from today?
+
+Nurul I 9/10/2018 8:17 PM
+Greetings from Chicago!
+
+RamPrakash A 9/10/2018 8:18 PM
+Greetings from Bangalore, India
+
+A H 9/10/2018 8:19 PM
+Greetings from Hyderabad, India
+
+Nurul I 9/10/2018 8:19 PM
+Hi Ram Prakash!
+
+Nurul I 9/10/2018 8:19 PM
+Hi A H!
+
+A H 9/10/2018 8:20 PM
+Hi Nurul
+
+RENAN R 9/10/2018 8:26 PM
+HI, I am from Brazil and I am glad of attending this course.
+
+RENAN R 9/10/2018 8:27 PM
+Greetings from Brazil
+
+Michal S 9/10/2018 8:29 PM
+Guten Tag
+
+Henrich K 9/10/2018 8:30 PM
+Hello from Mainz, Germany.
+
+RENAN R 9/10/2018 8:30 PM
+Guten Tag
+
+Nurul I 9/10/2018 8:33 PM
+Class has started, you should all be hearing Petter now
+
+Nurul I 9/10/2018 8:33 PM
+You can get a copy of class materials at any time from the resource widget (green file folder) in your widget tray.
+
+Ali R 9/10/2018 8:45 PM
+kafka is something like ELK stack?
+
+Razat N 9/10/2018 8:48 PM
+i think ELK uses it to collect the data
+
+Bharti K 9/10/2018 8:52 PM
+what is decouple?
+
+Maik T 9/10/2018 8:52 PM
+take two things apart. separate things
+
+Bharti K 9/10/2018 8:53 PM
+thanks
+
+Maik T 9/10/2018 8:53 PM
+you're welcome
+
+Lala V 9/10/2018 9:00 PM
+What make Kafka more effcient that regular JMS. I mean the throughput and speed?
+
+Lala V 9/10/2018 9:01 PM
+Is there any underlying change in TCP layer?
+
+Raman M 9/10/2018 9:09 PM
+what are the some latest alternatives of Kafka?
+
+Maik T 9/10/2018 9:12 PM
+I recently learned about this: https://pulsar.incubator.apache.org/
+
+Maik T 9/10/2018 9:12 PM
+still early though
+
+Raman M 9/10/2018 9:14 PM
+thanks - kinesis is another option?
+
+Maik T 9/10/2018 9:14 PM
+haven't come across this one
+
+Maik T 9/10/2018 9:16 PM
+If I have a topic with just one partition - will this partition still be replicated to a second cluster node? Like master/ slave...
+
+Razat N 9/10/2018 9:17 PM
+is zookeeper on every node ?
+
+Maik T 9/10/2018 9:17 PM
+ah, "replication factor" seems to be the answer fo my question
+
+Jyothy K 9/10/2018 9:18 PM
+i don't think so zookeepe r on every node; zookeeper is the one who elects leader when one of the node goes down
+
+David S 9/10/2018 9:18 PM
+@Razat, no, zookeper is a discovery mechanism for the nodes, so you need one per cluster.
+
+Jeff C 9/10/2018 9:18 PM
+Zookeepr is a separate service, but can run on the same server as the broker.
+
+David S 9/10/2018 9:18 PM
+or just one
+
+Jeff C 9/10/2018 9:19 PM
+You would tend to have fewer zookeepers then brokers in your cluster.
+
+Jeff C 9/10/2018 9:24 PM
+Does anyone have the git repo path?
+
+Siddaraju G 9/10/2018 9:25 PM
+github repo? Not seeing in slides or resource list
+
+Maik T 9/10/2018 9:26 PM
+nope, could someone please post the repo?
+
+Jeff C 9/10/2018 9:26 PM
+Nurul I - Can you share the git path with us? Thank you
+
+Benedikt H 9/10/2018 9:27 PM
+https://github.com/SciSpike/kafka-lab/
+
+Maik T 9/10/2018 9:27 PM
+https://github.com/scispike/kafka-lab
+
+Maik T 9/10/2018 9:27 PM
+:-)
+
+Benedikt H 9/10/2018 9:27 PM
+...as just typed off the screen...
+
+Nurul I 9/10/2018 9:28 PM
+Here is the link: https://github.com/SciSpike/kafka-lab
+
+Nurul I 9/10/2018 9:28 PM
+It will be added to the resource widget for today and tomorrow's session
+
+mahmoud a 9/10/2018 9:29 PM
+black screen
+
+Nurul I 9/10/2018 9:30 PM
+Please refresh your screen to see if that helps
+
+Anand A 9/10/2018 9:31 PM
+How long messages will be there in topic?
+
+David S 9/10/2018 9:33 PM
+Arand you can configure it
+
+Anna K 9/10/2018 9:33 PM
+Can someone provide the github link for the exercises?
+
+Nurul I 9/10/2018 9:34 PM
+Here is the link: https://github.com/SciSpike/kafka-lab
+
+Anna K 9/10/2018 9:34 PM
+TY!
+
+Nurul I 9/10/2018 9:35 PM
+You are welcome!
+
+Maik T 9/10/2018 9:46 PM
+was it just lab 01?
+
+Anna K 9/10/2018 9:47 PM
+I am getting an error with docker-compose up command
+
+Anna K 9/10/2018 9:47 PM
+ERROR: Get https://registry-1.docker.io/v2/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+
+Anna K 9/10/2018 9:47 PM
+I wonder if it might have to do with the ports Peter mentioned
+
+Hemant S 9/10/2018 9:58 PM
+when we call this producer proxy how it will know where is the master node for that partitiion?
+
+Jeff C 9/10/2018 9:58 PM
+Once it talks with one broker it will know everything it needs for all brokers.
+
+Lala V 9/10/2018 10:19 PM
+Is there a magic formula between throughpu and number of partitions?
+
+Michal P 9/10/2018 10:19 PM
+Is offset managed per consumer group or a consumer?
+
+Jeff C 9/10/2018 10:19 PM
+Per group id
+
+Jeff C 9/10/2018 10:21 PM
+Lala V - Maybe, but it would depend a lot on the usage.
+
+Lala V 9/10/2018 10:21 PM
+should that be key.deserializer in example?
+
+Lala V 9/10/2018 10:22 PM
+Thanks Jeff.Can I add more partitions similar to adding new kafka nodes to achieve more parallelism?
+
+Lala V 9/10/2018 10:23 PM
+pete mentioned that there is a limit on number of paritions that we can have
+
+Jeff C 9/10/2018 10:24 PM
+Yes. You can also have more then on portion for the same topic on the same broker, but at some point you will max out the performance of the server itself.
+
+Kshitij P 9/10/2018 10:24 PM
+more parallelism is only by adding more partitions (off-course there is a limit), adding more kafka nodes could be there to support more degree of replication.
+
+Maik T 9/10/2018 10:24 PM
+Is there a limit until the total amount of topics becomes unmanagable?
+
+Jeff C 9/10/2018 10:24 PM
+There is a limit, not sure that it is, but you don't need to worry about that limit.
+
+Lala V 9/10/2018 10:24 PM
+Got it Thanks
+
+Maik T 9/10/2018 10:24 PM
+:-)
+
+Lala V 9/10/2018 10:27 PM
+Is the partitions preassigned per consumer. I mean if a consumer is consumng from partition 1 will it is always be consuming from partition 1 unless there is a rebalance in the paritions?
+
+Kshitij P 9/10/2018 10:28 PM
+yup, till the time we do not change the number of consumers in that consumer group.
+
+Lala V 9/10/2018 10:30 PM
+I assume the offsets are per partitions and not per topid. So each consumer based on the commit will have its own offset
+
+Jeff C 9/10/2018 10:30 PM
+per topic per partition.
+
+Lala V 9/10/2018 10:30 PM
+Also it the eoffset unique within partitions or it is unique for a topic?
+
+Kshitij P 9/10/2018 10:30 PM
+offsets are per consumer per partition per consumer group.
+
+Lala V 9/10/2018 10:31 PM
+I mean the offset numbers
+
+Lala V 9/10/2018 10:31 PM
+Thanks
+
+Ek C 9/10/2018 11:01 PM
+On Windows, how may I run producer and consumer in lab 2?
+
+Ek C 9/10/2018 11:02 PM
+(I got the below error.)
+
+Ek C 9/10/2018 11:02 PM
+λ producer 'producer' is not recognized as an internal or external command, operable program or batch file.
+
+Kshitij P 9/10/2018 11:05 PM
+close :)
+
+Maik T 9/10/2018 11:05 PM
+nice
+
+Lala V 9/10/2018 11:11 PM
+Does Kafka support Headers similar to JMS headers. For JMS consumers can have message selectors to skip the messages. Do we have something like that?
+
+Michal P 9/10/2018 11:14 PM
+can number of partitions be increased dynamically?
+
+Kshitij P 9/10/2018 11:18 PM
+@Michal, we can but 1 there is a pause involved, 2 the keys get messed up as they get assigned to other partitions.
+
+Lala V 9/10/2018 11:18 PM
+Should a producer also match number of partitions?
+
+Kshitij P 9/10/2018 11:19 PM
+@Lala, nope
+
+Lala V 9/10/2018 11:20 PM
+Thanks..Also if messages are send parallel.. from teh consumer perspective, if my current message processing is dependednt on what was processed already, how can I know if the previous message landed in another partition?
+
+Lala V 9/10/2018 11:24 PM
+Also Just curious.. what is the too used by Pete to draw and show?..Looks cool
+
+Nurul I 9/10/2018 11:28 PM
+Thank you for joining us today for Day 1 of class. We will see you all for Day 2 tomorrow at the same time, 8:00 am PDT. Have a great rest of the day or night everyone!
+
+Anna K 9/10/2018 11:28 PM
+Did anyone see this?
+
+Anna K 9/10/2018 11:28 PM
+Unable to find image 'hello-world:latest' locally docker: Error response from daemon: Get https://registry-1.docker.io/v2/: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers). See 'docker run --help'.
+
+Anna K 9/10/2018 11:28 PM
+I don't seem to have a hello-world image
+
+Lala V 9/10/2018 11:28 PM
+Does Kafka support Headers similar to JMS headers. For JMS consumers can have message selectors to skip the messages. Do we have something like that?
+
+
+ Submit
+Resource List
+Download course slides 1
+Download course slides 1
+Download course slides 2
+Download course slides 2
+Download course slides 3
+Download course slides 3
+Download course slides 4
+Download course slides 4
+Download course slides 5
+Download course slides 5
+Downloads course slides 6
+Downloads course slides 6
+Download course slides 7
+Download course slides 7
+Group Chat Help Media Player Resource List Slides Speaker Bio Q&A
+ 

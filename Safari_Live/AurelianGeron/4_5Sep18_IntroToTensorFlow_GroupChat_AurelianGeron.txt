@@ -1,0 +1,60 @@
+
+Media Player
+ LIVE 
+Group Chat
+Timestamp 
+Shannon C 9/5/2018 10:15 PM
+Hello everyone and welcome to Day 2 of our live online training course: ‘Introduction to Tensorflow’ with Aurélien Géron. The session will start in 15 minutes. We hope you enjoy the course!
+
+Shannon C 9/5/2018 10:17 PM
+Here are the links for the course: Slack: https://oreillyonlinetraining.slack.com/messages/GCGDY19J5 JupyterHub: https://0636920139850.oreilly-jupyterhub.com Gitlab Repo: https://resources.oreilly.com/live-training/introduction-to-tensorflow
+
+Shannon C 9/5/2018 10:17 PM
+If you still need access to the Slack channel, please email onlinetraining@oreilly.com, with your Slack username, the name of this course, and I’ll get you setup.
+
+Shannon C 9/5/2018 10:31 PM
+Class has begun and you should be able to hear Aurélien. If you experience any issues with audio, please try refreshing your browser. Thanks!
+
+Shannon C 9/5/2018 10:31 PM
+Welcome back everyone! Great to have you.
+
+Jaime P 9/5/2018 10:32 PM
+You are cutting off again like yesterday
+
+Shannon C 9/5/2018 10:36 PM
+Hi Jaime
+
+Shannon C 9/5/2018 10:36 PM
+Audio is streaming continuously...please try refreshing your browser, or if that doesn't work - leaving and rejoining the course.
+
+Shannon C 9/5/2018 10:37 PM
+We also recommend using Chrome if you aren't already, disconnecting from any VPN, and closing out any other program that may be using bandwidth.
+
+Shannon C 9/5/2018 11:02 PM
+Let's take 10 mins for the exercise. Please post any questions if you have them.
+
+Shannon C 9/5/2018 11:11 PM
+We're back! You should hear Aurélien again.
+
+Shannon C 9/5/2018 11:43 PM
+Break time to work on Ex 8! Please post any questions if you have them.
+
+
+ Submit
+Resource List
+JupyterHub
+JupyterHub
+Gitlab repo
+Gitlab repo
+Accessing Slack
+Accessing Slack
+Slides
+Slides
+Slides
+
+Get Adobe Flash player
+Get Adobe Flash player
+
+
+Group Chat Help Media Player Resource List Slides Speaker Bio
+ 

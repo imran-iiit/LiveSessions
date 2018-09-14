@@ -1,0 +1,1 @@
+https://resources.oreilly.com/live-training/introduction-to-tensorflow

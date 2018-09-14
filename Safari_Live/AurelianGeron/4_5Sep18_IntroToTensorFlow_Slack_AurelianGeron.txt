@@ -1,0 +1,303 @@
+Shannon Cutt [1:21 AM]
+@channel Hello everyone and welcome to the Slack channel for our upcoming live online training course: "Introduction to TensorFlow" with Aurélien Géron. We are looking forward to having you in class on Tuesday, which begins at 10am PST. For background, please review the course registration page, here: https://www.safaribooksonline.com/live-training/courses/introduction-to-tensorflow/0636920139850/. Thank you and see you then!
+Safari | O'Reilly
+Introduction to TensorFlow
+In the first part of this course, you will learn the fundamentals of TensorFlow, such as computational graphs, auto-differentiation, sessions, placeholders and more. You will then learn how to apply this knowledge by building a simple logistic re...
+Register Now
+September 4 & 5, 2018
+Live Training
+only on Safari
+https://cdn.oreillystatic.com/images/live-online-training/0636920073925-971x273.jpg
+
+Shannon Cutt [10:15 PM]
+@channel Hello everyone and welcome to Day 1 of our live online training course: ‘Introduction to Tensorflow’ with Aurélien Géron. The session will start in 15 minutes. We hope you enjoy the course!
+Here are the links for today's course:
+JupyterHub:
+https://0636920139850.oreilly-jupyterhub.com
+Gitlab Repo:
+https://resources.oreilly.com/live-training/introduction-to-tensorflow
+GitLab
+live-training / introduction-to-tensorflow
+Author: Aurélien Geron
+Where is everyone joining us from today?
+
+Ehsan [10:19 PM]
+joined introtensorflow-09-04.
+
+aurelien [10:25 PM]
+Hi everyone!  I’m connecting from Paris.  :slightly_smiling_face:
+
+glennj [10:29 PM]
+Toronto. Hello, glad to be here (edited)
+
+Ehsan [10:31 PM]
+Stockholm. Thanks for the course
+
+Shannon Cutt [10:31 PM]
+Class has begun and you should be able to hear Aurélien. If you experience any issues with audio, please try refreshing your browser. Thanks!
+We are recording the class and will have it ready within 24-48 hours. You can access the recording here: https://www.safaribooksonline.com/live-training/courses/introduction-to-tensorflow/0636920139850/ (edited)
+Welcome everyone! Great to see you joining us from around the world!
+
+Pravn [10:39 PM]
+joined introtensorflow-09-04.
+
+Shannon Cutt [10:43 PM]
+Q from group chat: When exactly should we use Tensorflow over Keras given the code complexity is higher in Tensorflow as compared to Keras API? @aurelien (edited)
+
+Zdenek Henek [10:45 PM]
+joined introtensorflow-09-04.
+
+Shannon Cutt [10:53 PM]
+Screenshare appears in the red media player widget within the course platform. You can move the widgets around as needed.
+
+aurelien [10:55 PM]
+Everything clear so far?
+
+Shannon Cutt [10:55 PM]
+We're taking 10 mins to complete exercise 1. Please post any questions if you have them. :slightly_smiling_face:
+
+ramkrishna [10:55 PM]
+how do you sign into https://resources.oreilly.com/live-training/introduction-to-tensorflow?
+
+aurelien [10:56 PM]
+I believe it’s with your Safari credentials, right @Shannon Cutt? (edited)
+
+Shannon Cutt [10:56 PM]
+That page is actually open and does not require a log-in. @ramkrishna Please try refreshing the page and let me know if that works.
+
+ramkrishna [10:56 PM]
+ok
+yes it is :slightly_smiling_face:, I saw sign in button
+
+aurelien [11:00 PM]
+Note: the exercise 1.4 only works on Chrome. I’ll show the output in a few minutes if you don’t use Chrome.
+
+prasad [11:05 PM]
+@aurelien How can I download the files from jupyterlab?
+jupyterhub
+
+kidane [11:05 PM]
+why is a dot needed after the numbers? if the dots are left out, error is generated
+
+Shannon Cutt [11:06 PM]
+You can download files from the Gitlab repo: https://resources.oreilly.com/live-training/introduction-to-tensorflow
+
+prasad [11:06 PM]
+making it a float
+@kidane
+
+prasad [11:06 PM]
+@Shannon Cutt thanks
+
+Mila [11:16 PM]
+Is there any reason you have >>> in front of a = tf.constant([3, 3, 4])?
+
+VK [11:16 PM]
+show_graph(graph) does not display anything on my notebook
+
+Lee [11:16 PM]
+repl prompt
+
+Mila [11:17 PM]
+Thanks.
+
+kidane [11:17 PM]
+are tensors "like" variables in other programming languages?
+
+Pravn [11:17 PM]
+I am using Chrome and show_graph doesnt work for me too
+
+Roberto [11:18 PM]
+Is there any cost associated with the use of the eager mode?
+
+Ehsan [11:20 PM]
+If tf 2.0 is based on eager mode how we can use graph mode on that?
+
+Shannon Cutt [11:22 PM]
+Q from chat: are tensors almost same as weights in nn?
+
+JasonM [11:39 PM]
+yes
+
+Derek Hakim [11:39 PM]
+We can hear
+
+Pravn [11:39 PM]
+Yes, we can hear you
+
+Ehsan [11:39 PM]
+yes Ido
+
+Shannon Cutt [11:39 PM]
+Audio is working :slightly_smiling_face:
+
+Shannon Cutt [12:02 AM]
+Break time! Let's work on Ex 4 and we'll resume in 25 mins.
+
+aurelien [12:03 AM]
+Is everything okay everyone?  I’m not getting many questions, I hope it’s because everything is clear, not that you are all confused!  :wink:
+
+Mila [12:41 AM]
+what does tf.group do?
+
+Marcio Aguiar [12:42 AM]
+Based in our progress, do you think we can reach Segment 10 - CNNs tomorrow?
+
+Marcio Aguiar [12:59 AM]
+Everything clear :+1:
+
+viplav [1:04 AM]
+Regarding Batch size, if I have a very large data set (billions of rows), is it still preferable to have small batch size < 32?
+ANd 32 was suggested for image recognition problems or any kind of problem?
+
+kidane [1:06 AM]
+audio has cut off
+
+Shannon Cutt [1:06 AM]
+Audio is still working
+Please try refreshing your browser
+If that doesn't work, please try leaving and rejoining the course. Thanks!
+
+viplav [1:07 AM]
+if i have small batch size .. it is not using cpu / mem efficiently
+
+kidane [1:07 AM]
+Thanks!
+
+viplav [1:08 AM]
+thanks
+regarding evaluation step, should i evaluate a batch or the whole set (again for large data set) ?
+
+viplav [1:19 AM]
+sorry i was not clear, if i am trying to get a sense of evaluation loss, should I use a batch (which means it might not be accurate), or whole set (which means long time)
+loss on validation set
+
+VK [1:20 AM]
+is there a notebook corresponding to the data api that you have just shown?
+
+viplav [1:20 AM]
+while training  ..
+
+aurelien [1:20 AM]
+github.com/ageron/handson-ml
+
+viplav [1:21 AM]
+try to see test loss progress while training ...
+thanks
+
+aurelien [1:24 AM]
+epoch
+
+viplav [1:26 AM]
+thanks a lot
+
+Mila [1:32 AM]
+Thanks a lot for the great training.
+
+Shannon Cutt [1:32 AM]
+Thank you everyone who attended today’s course. We hope to see you all back for Day 2 of the course tomorrow.
+
+Ehsan [1:32 AM]
+Thank you
+
+Marcio Aguiar [1:32 AM]
+Thanks a lot!
+
+aurelien [1:33 AM]
+Cool!  I hope you enjoyed the course.
+
+Lee [1:33 AM]
+Thanks!
+
+aurelien [1:39 AM]
+Thanks everyone, any question?
+All right, I’m off to bed then! :sleeping_accommodation: :zzz:
+If you have any question, you can ask them here at any time, I’ll check them before the course tomorrow.
+See you tomorrow everyone!  :+1:
+
+Jaime [3:06 AM]
+joined introtensorflow-09-04 by invitation from Shannon Cutt.
+
+Ehsan [11:35 AM]
+Hi again, if everybody agrees, can we skip doing the exercises during the course to be able to cover all course material?
+
+Roberto [6:45 PM]
+@ehsan - your proposal sounds good to me.
+
+aurelien [10:11 PM]
+Hi @Ehsan, I think we will be fine, I skipped a few exercises yesterday to make sure we would be okay today.  There are just 3 fairly short exercises today, I’ll skip them if I see that we are short on time, but I don’t think we will need to.  Besides, without the exercises, people often dose off after 30 minutes, so we would have to replace the exercises with breaks anyway.  There will be a survey during the course today to ask whether people prefer that I talk about Keras (a simple high level API for neural nets) or Convolutional Neural Networks (a neural net architecture, ideal for image processing).
+
+Shannon Cutt [10:15 PM]
+@channel Hello everyone and welcome to Day 2 of our live online training course: ‘Introduction to Tensorflow’ with Aurélien Géron. The session will start in 15 minutes. We hope you enjoy the course!
+A reminder -- here are the links for today’s course:
+JupyterHub:
+https://0636920139850.oreilly-jupyterhub.com
+Gitlab Repo:
+https://resources.oreilly.com/live-training/introduction-to-tensorflow (edited)
+
+aurelien [10:18 PM]
+Thanks Shannon, and welcome back everyone!
+
+gbonariva [10:30 PM]
+Hi all
+
+Shannon Cutt [10:31 PM]
+Class has begun and you should be able to hear Aurélien. If you experience any issues with audio, please try refreshing your browser. Thanks!
+Welcome back everyone! Great to have you.
+
+aurelien [11:02 PM]
+As always I’m here to answer any question you may have :slightly_smiling_face:
+
+Shannon Cutt [11:02 PM]
+Let's take 10 mins for the exercise. Please post any questions if you have them.
+
+aurelien [11:03 PM]
+The exercise 7 is in the notebook 08_artifical_neural_networks_ex7ex8.ipynb
+
+VK [11:07 PM]
+Today I am accessing the course from my computer at NASA, and I am unable to go to your jupyter notebook site -- it is blocked as a security risk (in violation of Agency Internet Usage Policy NPD 2540.1H) -- maybe something O'Reilly might fix in the future.
+
+aurelien [11:09 PM]
+Perhaps you can clone the git repo and work locally ?  Thanks for your feedback. (edited)
+
+Shannon Cutt [11:11 PM]
+We're back! You should hear Aurélien again.
+
+oon [11:19 PM]
+when we use sparse and when we use dense?
+
+Mila [11:33 PM]
+Do we need to use the relu activation for the output node in regression?
+
+Mila [11:38 PM]
+Thanks, Aurélien.
+
+aurelien [11:43 PM]
+How’s everything going everyone? All clear? Going too fast? Too slow?
+
+Shannon Cutt [11:55 PM]
+We're back! You should hear Aurélien again.
+
+Roberto [12:32 AM]
+Q: Can you please provide the reference to the SELU paper?
+
+aurelien [12:33 AM]
+https://arxiv.org/abs/1706.02515
+
+Sk [12:36 AM]
+joined introtensorflow-09-04 by invitation from Shannon Cutt.
+Message Input
+
+Shannon Cutt [12:59 AM]
+Break time! Lets resume in 5 mins.
+
+
+Ehsan [1:05 AM]
+What can be the difference between an image classifier for Cats, Dogs and Fish and a classifier that classify pictures based on differences not visible to naked eyes for example? is it the depth?
+
+Ehsan [1:12 AM]
+Hope you haven't answer my question for I had to refresh my browser and it took couple of minutes to join back. thanks
+
+
+
+
